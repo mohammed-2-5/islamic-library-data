@@ -1,0 +1,12 @@
+{
+  "id": "tafsir_al_qurtubi",
+  "title_ar": "تفسير القرطبي",
+  "title_en": "Tafsir al-Qurtubi",
+  "author_ar": "الإمام القرطبي",
+  "author_en": "Imam al-Qurtubi",
+  "category": "tafseer",
+  "chapter_count": 114,
+  "entry_count": 6236,
+  "total_size_bytes": 20334296,
+  "source": "tafsir-api"
+}

@@ -1,0 +1,289 @@
+{
+  "book_id": "shahwaliullah40",
+  "chapter_id": 1,
+  "original_chapter_id": 0,
+  "title_ar": "أربعون شاه ولي الله الدهلوي",
+  "title_en": "Forty Hadith of Shah Waliullah Dehlawi",
+  "entries": [
+    {
+      "id": 1,
+      "text_ar": "لَیْسَ الْخَبَرُ کَالْمُعَایَنَةِ",
+      "text_en": "The report is not like witnessing.",
+      "narrator": "",
+      "reference": "Hadith 1"
+    },
+    {
+      "id": 2,
+      "text_ar": "الْحَرْبُ خُدَعَةٌ",
+      "text_en": "War is deception.",
+      "narrator": "",
+      "reference": "Hadith 2"
+    },
+    {
+      "id": 3,
+      "text_ar": "الْمُسْلِمُ مِرْآةُ الْمُسْلِمِ",
+      "text_en": "A Muslim is a mirror of the Muslim.",
+      "narrator": "",
+      "reference": "Hadith 3"
+    },
+    {
+      "id": 4,
+      "text_ar": "الْمُسْتَشَارُ مُؤتَمَنٌ",
+      "text_en": "Someone whose advice is sought is in a position of trust.",
+      "narrator": "",
+      "reference": "Hadith 4"
+    },
+    {
+      "id": 5,
+      "text_ar": "الدَّالُّ عَلَی الْخَیْرِ کَفَاعِلِهِ",
+      "text_en": "The person guiding (someone) to do a good deed, is like the one performing the good deed.",
+      "narrator": "",
+      "reference": "Hadith 5"
+    },
+    {
+      "id": 6,
+      "text_ar": "إِسْتَعِیْنُوْا عَلَی الْحَوَائِجِ بِالْکِتْمَانِ",
+      "text_en": "Seek help for any needs discreetly.",
+      "narrator": "",
+      "reference": "Hadith 6"
+    },
+    {
+      "id": 7,
+      "text_ar": "إِتَّقُوْا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ",
+      "text_en": "Protect yourself from the fire even with a part of a date.",
+      "narrator": "",
+      "reference": "Hadith 7"
+    },
+    {
+      "id": 8,
+      "text_ar": "الدُّنْیَا سِجْنُ الْمُؤمِنِ وَ جَنَّةُ الْکَافِرِ",
+      "text_en": "The world is the believer’s prison and the disbeliever’s paradise.",
+      "narrator": "",
+      "reference": "Hadith 8"
+    },
+    {
+      "id": 9,
+      "text_ar": "الْحَیَاءُ خَیْرٌ کُلُّهُ",
+      "text_en": "Modesty is entirely good.",
+      "narrator": "",
+      "reference": "Hadith 9"
+    },
+    {
+      "id": 10,
+      "text_ar": "عِدَةُ الْمُؤمِنِ کَاَخْذِ الْکَفِّ",
+      "text_en": "The word of the believer is like seizing of the hand.",
+      "narrator": "",
+      "reference": "Hadith 10"
+    },
+    {
+      "id": 11,
+      "text_ar": "لَا یَحِلُّ لِمُؤمِنٍ اَنْ یَّجُهْرَ أخَاهُ فَوقَ ثَلَاثَةِ أیَّامٍ",
+      "text_en": "It is unlawful for a believer to sever relations with his brother for more than three days.",
+      "narrator": "",
+      "reference": "Hadith 11"
+    },
+    {
+      "id": 12,
+      "text_ar": "لَیْسَ مِنَّا مَنْ غَشَّنَا",
+      "text_en": "He is not one of us who cheats us.",
+      "narrator": "",
+      "reference": "Hadith 12"
+    },
+    {
+      "id": 13,
+      "text_ar": "مَا قَلَّ وَكَفَى خَيْرٌ مِمَّا كَثُرَ وَأَلْهَى",
+      "text_en": "A little that suffices is better than an abundance that distracts.",
+      "narrator": "",
+      "reference": "Hadith 13"
+    },
+    {
+      "id": 14,
+      "text_ar": "الرَّاجِعُ فِيْ هِبَتِهِ کَالرَّاجِعِ فِيْ قَیْئِهِ",
+      "text_en": "Someone who takes back his gift is like someone who eats his vomit.",
+      "narrator": "",
+      "reference": "Hadith 14"
+    },
+    {
+      "id": 15,
+      "text_ar": "الْبَلَاءُ مُوَکِّلٌ بِالْمَنْطِقِ",
+      "text_en": "Affliction comes from (loose) talk.",
+      "narrator": "",
+      "reference": "Hadith 15"
+    },
+    {
+      "id": 16,
+      "text_ar": "النَّاسُ کَأسْنَانِ الْمُشْطِ",
+      "text_en": "People are like the teeth of a comb.",
+      "narrator": "",
+      "reference": "Hadith 16"
+    },
+    {
+      "id": 17,
+      "text_ar": "الْغِنَى غِنَى النَّفْسِ",
+      "text_en": "Richness lies in the richness of the soul.",
+      "narrator": "",
+      "reference": "Hadith 17"
+    },
+    {
+      "id": 18,
+      "text_ar": "الْسَّعِیْدُ مَنْ وُّعِظَ بِغَیْرِهِ",
+      "text_en": "The felicitous person takes lessons from (the actions of) others.",
+      "narrator": "",
+      "reference": "Hadith 18"
+    },
+    {
+      "id": 19,
+      "text_ar": "وَ إِنَّ مِنَ الشِّعْرِ لَحِکْمَةً وَاِنَّ مِنَ الْبَیَانِ لَسِحْرًا",
+      "text_en": "Indeed, in poetry there is wisdom and in eloquence there is magic.",
+      "narrator": "",
+      "reference": "Hadith 19"
+    },
+    {
+      "id": 20,
+      "text_ar": "عَفْوُ الْمُلُوْكِ إِبْقَاءٌ لِلْمُلْكِ",
+      "text_en": "The king’s pardon preserves the kingdom.",
+      "narrator": "",
+      "reference": "Hadith 20"
+    },
+    {
+      "id": 21,
+      "text_ar": "اَلْمَرْءُ مَعَ مَنْ أَحَبَّ",
+      "text_en": "A man will be with whom he loves.",
+      "narrator": "",
+      "reference": "Hadith 21"
+    },
+    {
+      "id": 22,
+      "text_ar": "مَا هَلَكَ إمْرُؤٌ عَرَفَ قَدْرَهُ",
+      "text_en": "A man who knows his worth will not be ruined.",
+      "narrator": "",
+      "reference": "Hadith 22"
+    },
+    {
+      "id": 23,
+      "text_ar": "اَلْوَلَدُ لِلْفِرَاشِ وَ لِلْعَاهِرِ الْحَجَرُ",
+      "text_en": "The child belongs to the bed and stoning is for the adulterer.",
+      "narrator": "",
+      "reference": "Hadith 23"
+    },
+    {
+      "id": 24,
+      "text_ar": "الْیَدُ الْعُلْیَا خَیْرٌ مِّنَ الْیَدِ السُّفْلَی",
+      "text_en": "The upper hand is superior to the lower hand.",
+      "narrator": "",
+      "reference": "Hadith 24"
+    },
+    {
+      "id": 25,
+      "text_ar": "لَا شَکَرَ اللهَ مَنْ لَّا یَشْکُرُ النَّاسَ",
+      "text_en": "He does not thank Allah who does not thank people.",
+      "narrator": "",
+      "reference": "Hadith 25"
+    },
+    {
+      "id": 26,
+      "text_ar": "حُبُّكَ الشَّيْءَ یُعْمِيْ وَ یُصِمُّ",
+      "text_en": "Your love of something can blind and deafen (you).",
+      "narrator": "",
+      "reference": "Hadith 26"
+    },
+    {
+      "id": 27,
+      "text_ar": "جُبِلَتِ الْقُلُوبُ عَلی حُبَّ مَنْ اَحْسَنَ اِلَیْهَا وَ بُغْضِ مَنْ اَسَاءَ اِلَیْهَا",
+      "text_en": "Hearts are predisposed to love someone who does them good and detest someone who does them harm.",
+      "narrator": "",
+      "reference": "Hadith 27"
+    },
+    {
+      "id": 28,
+      "text_ar": "الْتَّائِبُ مِنَ الذَّنْبِ کَمَنْ لَا ذَنْبَ لَهُ",
+      "text_en": "One who repents from sin is like someone without sin.",
+      "narrator": "",
+      "reference": "Hadith 28"
+    },
+    {
+      "id": 29,
+      "text_ar": "الشَّاهِدُ یَرَی مَا لَا یَرَاهُ الْغَائِبُ",
+      "text_en": "The person who actually witnesses an (event) sees that which one who is absent does not.",
+      "narrator": "",
+      "reference": "Hadith 29"
+    },
+    {
+      "id": 30,
+      "text_ar": "اِذا جَاءَکُمْ کَرِیْمُ قَوْمٍ فَاَکْرِمُوهُ",
+      "text_en": "If the nobleman of a people comes to you, honour him.",
+      "narrator": "",
+      "reference": "Hadith 30"
+    },
+    {
+      "id": 31,
+      "text_ar": "الْیَمِینُ الْفَاجِرَةُ تَدَعُ الدِّیَارَ الْبَلَاقِعَ",
+      "text_en": "False oaths lay waste to home (lands).",
+      "narrator": "",
+      "reference": "Hadith 31"
+    },
+    {
+      "id": 32,
+      "text_ar": "مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِیْدٌ",
+      "text_en": "Whoever is killed attempting to save his property is a martyr.",
+      "narrator": "",
+      "reference": "Hadith 32"
+    },
+    {
+      "id": 33,
+      "text_ar": "الْاَعْمَالُ بِالنِّیَّةِ",
+      "text_en": "Actions are through intentions.",
+      "narrator": "",
+      "reference": "Hadith 33"
+    },
+    {
+      "id": 34,
+      "text_ar": "سَیِّدُ الْقَوْمِ خَادِمُهُمْ",
+      "text_en": "The leader of a people is their servant.",
+      "narrator": "",
+      "reference": "Hadith 34"
+    },
+    {
+      "id": 35,
+      "text_ar": "خَیْرُ الْأُمُوْرِ أَوْسَطُهَا",
+      "text_en": "The best of affairs is that which is balanced.",
+      "narrator": "",
+      "reference": "Hadith 35"
+    },
+    {
+      "id": 36,
+      "text_ar": "اَللَّهُمَّ بَارِكْ فِیْ أُمَّتِیْ فِی بُکُوْرِهَا یَوْمَ الْخَمِیْسِ",
+      "text_en": "O Allah, bless my nation in its early rising on Thursdays!",
+      "narrator": "",
+      "reference": "Hadith 36"
+    },
+    {
+      "id": 37,
+      "text_ar": "کَادَ الْفَقْرُ أَنْ یَکُوْنَ کُفْرًا",
+      "text_en": "Poverty can almost turn into disbelief.",
+      "narrator": "",
+      "reference": "Hadith 37"
+    },
+    {
+      "id": 38,
+      "text_ar": "الْسَّفَرُ قِطْعَةٌ مِّنَ الْعَذَابِ",
+      "text_en": "Travelling is a portion of punishment.",
+      "narrator": "",
+      "reference": "Hadith 38"
+    },
+    {
+      "id": 39,
+      "text_ar": "خَیْرُ زَّادِ الْتَّقْوَی",
+      "text_en": "The best of provision is God-Consciousness (taqwa).",
+      "narrator": "",
+      "reference": "Hadith 39"
+    },
+    {
+      "id": 40,
+      "text_ar": "الْمَجَالِسُ بِالْاَمَانَةِ",
+      "text_en": "Meetings are under trust.",
+      "narrator": "",
+      "reference": "Hadith 40"
+    }
+  ]
+}

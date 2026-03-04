@@ -1,0 +1,14 @@
+{
+  "id": "nasai",
+  "title_ar": "سنن النسائي",
+  "title_en": "Sunan al-Nasa'i",
+  "author_ar": "الإمام أبو عبد الرحمن أحمد بن شعيب النسائي",
+  "author_en": "Imam Ahmad ibn Shu'ayb al-Nasa'i",
+  "category": "hadith",
+  "chapter_count": 52,
+  "hadith_count": 5768,
+  "source": "hadith-json",
+  "introduction_ar": "",
+  "introduction_en": "",
+  "total_size_bytes": 7903511
+}

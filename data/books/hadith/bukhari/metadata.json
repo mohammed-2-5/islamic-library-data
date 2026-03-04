@@ -1,0 +1,14 @@
+{
+  "id": "bukhari",
+  "title_ar": "صحيح البخاري",
+  "title_en": "Sahih al-Bukhari",
+  "author_ar": "الإمام محمد بن إسماعيل البخاري",
+  "author_en": "Imam Muhammad ibn Ismail al-Bukhari",
+  "category": "hadith",
+  "chapter_count": 97,
+  "hadith_count": 7277,
+  "source": "hadith-json",
+  "introduction_ar": "",
+  "introduction_en": "",
+  "total_size_bytes": 12660434
+}

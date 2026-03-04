@@ -1,0 +1,44 @@
+{
+  "book_id": "tafsir_muyassar",
+  "chapter_id": 114,
+  "title_ar": "سورة الناس",
+  "title_en": "Surah An-Nas",
+  "entries": [
+    {
+      "id": 1,
+      "text_ar": "قل -أيها الرسول-: أعوذ وأعتصم برب الناس، القادر وحده على ردِّ شر الوسواس.",
+      "text_en": "",
+      "reference": "Ayah 1"
+    },
+    {
+      "id": 2,
+      "text_ar": "ملك الناس المتصرف في كل شؤونهم، الغنيِّ عنهم.",
+      "text_en": "",
+      "reference": "Ayah 2"
+    },
+    {
+      "id": 3,
+      "text_ar": "إله الناس الذي لا معبود بحق سواه.",
+      "text_en": "",
+      "reference": "Ayah 3"
+    },
+    {
+      "id": 4,
+      "text_ar": "من أذى الشيطان الذي يوسوس عند الغفلة، ويختفي عند ذكر الله.",
+      "text_en": "",
+      "reference": "Ayah 4"
+    },
+    {
+      "id": 5,
+      "text_ar": "الذي يبثُّ الشر والشكوك في صدور الناس.",
+      "text_en": "",
+      "reference": "Ayah 5"
+    },
+    {
+      "id": 6,
+      "text_ar": "من شياطين الجن والإنس.",
+      "text_en": "",
+      "reference": "Ayah 6"
+    }
+  ]
+}

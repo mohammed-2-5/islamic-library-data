@@ -1,0 +1,14 @@
+{
+  "id": "darimi",
+  "title_ar": "سنن الدارمي",
+  "title_en": "Sunan al-Darimi",
+  "author_ar": "الإمام أبو محمد عبد الرحمن بن عبد الله بن الدارمي",
+  "author_en": "Imam Abu Muhammad Abd al-Rahman ibn Abd Allah ibn al-Darimi",
+  "category": "hadith",
+  "chapter_count": 24,
+  "hadith_count": 3406,
+  "source": "hadith-json",
+  "introduction_ar": "",
+  "introduction_en": "",
+  "total_size_bytes": 3125594
+}

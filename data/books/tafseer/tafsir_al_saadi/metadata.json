@@ -1,0 +1,12 @@
+{
+  "id": "tafsir_al_saadi",
+  "title_ar": "تفسير السعدي",
+  "title_en": "Tafsir al-Saadi",
+  "author_ar": "الشيخ عبد الرحمن السعدي",
+  "author_en": "Sheikh Abdur-Rahman al-Saadi",
+  "category": "tafseer",
+  "chapter_count": 114,
+  "entry_count": 6236,
+  "total_size_bytes": 7008504,
+  "source": "tafsir-api"
+}

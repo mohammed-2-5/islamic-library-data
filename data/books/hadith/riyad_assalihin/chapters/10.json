@@ -1,0 +1,30 @@
+{
+  "book_id": "riyad_assalihin",
+  "chapter_id": 10,
+  "original_chapter_id": 9,
+  "title_ar": "كتاب الاعتكاف",
+  "title_en": "The Book of I'tikaf",
+  "entries": [
+    {
+      "id": 589,
+      "text_ar": "عن ابن عمر رضي الله عنهما، قال: كان رسول الله صلى الله عليه وسلم يعتكف العشر الأواخر من رمضان. ((متفق عليه))",
+      "text_en": "The Messenger of Allah (ﷺ) used to observe I`tikaf in the last ten days of Ramadan. .",
+      "narrator": "Ibn `Umar (May Allah be pleased with them) reported:",
+      "reference": "Hadith 589"
+    },
+    {
+      "id": 590,
+      "text_ar": "وعن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم كان يعتكف العشر الأواخر من رمضان، حتى توفاه الله، تعالى ثم اعتكف أزواجه من بعده. ((متفق عليه))",
+      "text_en": "The Prophet (ﷺ) used to engage himself in I'tikaf (seclusion for prayers) in the mosque during the last ten nights of Ramadan till he passed away; thereafter, his wives followed this practice after him..",
+      "narrator": "'Aishah (May Allah be pleased with her) reported:",
+      "reference": "Hadith 590"
+    },
+    {
+      "id": 591,
+      "text_ar": "وعن أبي هريرة رضي الله عنه قال: كان النبي صلى الله عليه وسلم يعتكف في كل رمضان عشرة أيام، فلما كان العام الذي قبض فيه اعتكف عشرين يومًا ((رواه البخاري)).",
+      "text_en": "The Prophet (ﷺ) used to observe I'tikaf every year (during Ramadan) for ten days; in the year in which he passed away, he observed I'tikaf for twenty days..",
+      "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+      "reference": "Hadith 591"
+    }
+  ]
+}

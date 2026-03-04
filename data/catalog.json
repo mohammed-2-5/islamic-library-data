@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "generated": "2026-03-04T04:13:53.310533+00:00",
+  "categories": [
+    {
+      "id": "hadith",
+      "name_ar": "الحديث",
+      "name_en": "Hadith",
+      "icon": "menu_book"
+    }
+  ],
+  "books": [
+    {
+      "id": "shahwaliullah40",
+      "title_ar": "أربعون ولي الله الدهلوي",
+      "title_en": "The Forty Hadith of Shah Waliullah",
+      "author_ar": "الشاه ولي الدين الدهلوي",
+      "author_en": "Shah Waliullah Dahlawi",
+      "category": "hadith",
+      "chapter_count": 1,
+      "total_size_bytes": 10633,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "aladab_almufrad",
+      "title_ar": "الأدب المفرد",
+      "title_en": "Al-Adab Al-Mufrad",
+      "author_ar": "الإمام محمد بن إسماعيل البخاري",
+      "author_en": "Imam Muhammad ibn Ismail al-Bukhari",
+      "category": "hadith",
+      "chapter_count": 57,
+      "total_size_bytes": 1731839,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "qudsi40",
+      "title_ar": "الأربعون القدسية",
+      "title_en": "The Forty Hadith Qudsi",
+      "author_ar": "",
+      "author_en": "",
+      "category": "hadith",
+      "chapter_count": 1,
+      "total_size_bytes": 83919,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "nawawi40",
+      "title_ar": "الأربعون النووية",
+      "title_en": "The Forty Hadith of Imam Nawawi",
+      "author_ar": "الإمام يحيى بن شرف النووي",
+      "author_en": "Imam Yahya ibn Sharaf al-Nawawi",
+      "category": "hadith",
+      "chapter_count": 1,
+      "total_size_bytes": 71956,
+      "source": "hadith-json",
+      "featured": true
+    },
+    {
+      "id": "shamail_muhammadiyah",
+      "title_ar": "الشمائل المحمدية",
+      "title_en": "Shama'il Muhammadiyah",
+      "author_ar": "الإمام الترمذي",
+      "author_en": "Imam Tirmidhi",
+      "category": "hadith",
+      "chapter_count": 57,
+      "total_size_bytes": 533040,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "bulugh_almaram",
+      "title_ar": "بلوغ المرام",
+      "title_en": "Bulugh al-Maram",
+      "author_ar": "الإمام ابن حجر العسقلاني",
+      "author_en": "Ibn Hajar al-Asqalani",
+      "category": "hadith",
+      "chapter_count": 16,
+      "total_size_bytes": 2015879,
+      "source": "hadith-json",
+      "featured": true
+    },
+    {
+      "id": "tirmidhi",
+      "title_ar": "جامع الترمذي",
+      "title_en": "Jami' al-Tirmidhi",
+      "author_ar": "الإمام أبو عيسى محمد بن عيسى الترمذي",
+      "author_en": "Imam Abu Isa Muhammad ibn Isa al-Tirmidhi",
+      "category": "hadith",
+      "chapter_count": 49,
+      "total_size_bytes": 7591986,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "riyad_assalihin",
+      "title_ar": "رياض الصالحين",
+      "title_en": "Riyad as-Salihin",
+      "author_ar": "الإمام يحيى بن شرف النووي",
+      "author_en": "Imam Yahya ibn Sharaf al-Nawawi",
+      "category": "hadith",
+      "chapter_count": 20,
+      "total_size_bytes": 2115308,
+      "source": "hadith-json",
+      "featured": true
+    },
+    {
+      "id": "abudawud",
+      "title_ar": "سنن أبي داود",
+      "title_en": "Sunan Abi Dawud",
+      "author_ar": "الإمام سليمان بن الأشعث أبو داود السجستاني",
+      "author_en": "Imam Sulayman ibn al-Ash'ath Abu Dawud al-Sijistani",
+      "category": "hadith",
+      "chapter_count": 43,
+      "total_size_bytes": 7855824,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "ibnmajah",
+      "title_ar": "سنن ابن ماجه",
+      "title_en": "Sunan Ibn Majah",
+      "author_ar": "الإمام محمد بن يزيد بن ماجه القزويني",
+      "author_en": "Imam Muhammad ibn Yazid Ibn Majah al-Qazwini",
+      "category": "hadith",
+      "chapter_count": 38,
+      "total_size_bytes": 5720783,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "darimi",
+      "title_ar": "سنن الدارمي",
+      "title_en": "Sunan al-Darimi",
+      "author_ar": "الإمام أبو محمد عبد الرحمن بن عبد الله بن الدارمي",
+      "author_en": "Imam Abu Muhammad Abd al-Rahman ibn Abd Allah ibn al-Darimi",
+      "category": "hadith",
+      "chapter_count": 24,
+      "total_size_bytes": 3125594,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "nasai",
+      "title_ar": "سنن النسائي",
+      "title_en": "Sunan al-Nasa'i",
+      "author_ar": "الإمام أبو عبد الرحمن أحمد بن شعيب النسائي",
+      "author_en": "Imam Ahmad ibn Shu'ayb al-Nasa'i",
+      "category": "hadith",
+      "chapter_count": 52,
+      "total_size_bytes": 7903511,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "bukhari",
+      "title_ar": "صحيح البخاري",
+      "title_en": "Sahih al-Bukhari",
+      "author_ar": "الإمام محمد بن إسماعيل البخاري",
+      "author_en": "Imam Muhammad ibn Ismail al-Bukhari",
+      "category": "hadith",
+      "chapter_count": 97,
+      "total_size_bytes": 12660434,
+      "source": "hadith-json",
+      "featured": true
+    },
+    {
+      "id": "muslim",
+      "title_ar": "صحيح مسلم",
+      "title_en": "Sahih Muslim",
+      "author_ar": "الإمام مسلم بن الحجاج القشيري النيسابوري",
+      "author_en": "Imam Muslim ibn al-Hajjaj al-Naysaburi",
+      "category": "hadith",
+      "chapter_count": 57,
+      "total_size_bytes": 11445509,
+      "source": "hadith-json",
+      "featured": true
+    },
+    {
+      "id": "ahmed",
+      "title_ar": "مسند الإمام أحمد بن حنبل",
+      "title_en": "Musnad Ahmad ibn Hanbal",
+      "author_ar": "الإمام أحمد بن حنبل",
+      "author_en": "Imam Ahmad ibn Hanbal",
+      "category": "hadith",
+      "chapter_count": 8,
+      "total_size_bytes": 2401039,
+      "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "mishkat_almasabih",
+      "title_ar": "مشكاة المصابيح",
+      "title_en": "Mishkat al-Masabih",
+      "author_ar": "الإمام الكاتب التبريزي",
+      "author_en": "Al-Khatib Al-Tabrizi",
+      "category": "hadith",
+      "chapter_count": 25,
+      "total_size_bytes": 5312370,
+      "source": "hadith-json",
+      "featured": true
+    },
+    {
+      "id": "malik",
+      "title_ar": "موطأ مالك",
+      "title_en": "Muwatta Malik",
+      "author_ar": "الإمام مالك بن أنس",
+      "author_en": "Imam Malik ibn Anas",
+      "category": "hadith",
+      "chapter_count": 61,
+      "total_size_bytes": 3262161,
+      "source": "hadith-json",
+      "featured": false
+    }
+  ]
+}

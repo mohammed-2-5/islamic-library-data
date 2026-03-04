@@ -1,0 +1,14 @@
+{
+  "id": "ibnmajah",
+  "title_ar": "سنن ابن ماجه",
+  "title_en": "Sunan Ibn Majah",
+  "author_ar": "الإمام محمد بن يزيد بن ماجه القزويني",
+  "author_en": "Imam Muhammad ibn Yazid Ibn Majah al-Qazwini",
+  "category": "hadith",
+  "chapter_count": 38,
+  "hadith_count": 4345,
+  "source": "hadith-json",
+  "introduction_ar": "",
+  "introduction_en": "",
+  "total_size_bytes": 5720783
+}

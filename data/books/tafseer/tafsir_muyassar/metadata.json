@@ -1,0 +1,12 @@
+{
+  "id": "tafsir_muyassar",
+  "title_ar": "التفسير الميسر",
+  "title_en": "Tafsir Muyassar",
+  "author_ar": "مجمع الملك فهد",
+  "author_en": "King Fahd Complex",
+  "category": "tafseer",
+  "chapter_count": 114,
+  "entry_count": 6236,
+  "total_size_bytes": 3134762,
+  "source": "tafsir-api"
+}
