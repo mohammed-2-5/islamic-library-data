@@ -113,6 +113,70 @@ ENGLISH_TAFASEER = [
         "author_ar": "جلال الدين المحلي وجلال الدين السيوطي",
         "author_en": "Al-Jalalayn",
     },
+    {
+        "slug": "en-al-qushairi-tafsir",
+        "id": "tafsir_al_qushairi_en",
+        "name_ar": "تفسير القشيري (إنجليزي)",
+        "name_en": "Tafsir al-Qushairi",
+        "author_ar": "الإمام القشيري",
+        "author_en": "Imam al-Qushairi",
+    },
+    {
+        "slug": "en-asbab-al-nuzul-by-al-wahidi",
+        "id": "asbab_al_nuzul_en",
+        "name_ar": "أسباب النزول (إنجليزي)",
+        "name_en": "Asbab al-Nuzul",
+        "author_ar": "الإمام الواحدي",
+        "author_en": "Imam al-Wahidi",
+    },
+    {
+        "slug": "en-kashani-tafsir",
+        "id": "tafsir_kashani_en",
+        "name_ar": "تفسير الكاشاني (إنجليزي)",
+        "name_en": "Tafsir al-Kashani",
+        "author_ar": "عبد الرزاق الكاشاني",
+        "author_en": "Abd al-Razzaq al-Kashani",
+    },
+    {
+        "slug": "en-kashf-al-asrar-tafsir",
+        "id": "kashf_al_asrar_en",
+        "name_ar": "كشف الأسرار (إنجليزي)",
+        "name_en": "Kashf al-Asrar",
+        "author_ar": "الإمام الثعلبي",
+        "author_en": "Imam al-Tha'labi",
+    },
+    {
+        "slug": "en-tafsir-al-tustari",
+        "id": "tafsir_al_tustari_en",
+        "name_ar": "تفسير التستري (إنجليزي)",
+        "name_en": "Tafsir al-Tustari",
+        "author_ar": "سهل بن عبد الله التستري",
+        "author_en": "Sahl al-Tustari",
+    },
+    {
+        "slug": "en-tafsir-ibn-abbas",
+        "id": "tafsir_ibn_abbas_en",
+        "name_ar": "تفسير ابن عباس (إنجليزي)",
+        "name_en": "Tafsir Ibn Abbas",
+        "author_ar": "ابن عباس",
+        "author_en": "Ibn Abbas",
+    },
+    {
+        "slug": "en-tafsir-maarif-ul-quran",
+        "id": "tafsir_maariful_quran_en",
+        "name_ar": "معارف القرآن (إنجليزي)",
+        "name_en": "Ma'ariful Quran",
+        "author_ar": "المفتي محمد شفيع",
+        "author_en": "Mufti Muhammad Shafi",
+    },
+    {
+        "slug": "en-tazkirul-quran",
+        "id": "tazkirul_quran_en",
+        "name_ar": "تذكر القرآن (إنجليزي)",
+        "name_en": "Tazkirul Quran",
+        "author_ar": "الشيخ عبد الرحمن الكيلاني",
+        "author_en": "Sheikh Abdur-Rahman al-Kilani",
+    },
 ]
 
 ALL_TAFASEER = ARABIC_TAFASEER + ENGLISH_TAFASEER
@@ -198,7 +262,7 @@ def process_tafseer(tafseer_info: dict) -> dict | None:
         if data is None:
             continue
 
-        ayahs = data.get("ayahs", [])
+        ayahs = data.get("ayahs") or []
         surah_ar, surah_en = SURAH_NAMES[surah_num - 1]
 
         # Build chapter entries from ayahs
@@ -272,6 +336,10 @@ def main():
     print(f"\nProcessing {len(ALL_TAFASEER)} tafaseer...\n")
 
     for tafseer in ALL_TAFASEER:
+        book_dir = OUTPUT_DIR / tafseer["id"]
+        if (book_dir / "metadata.json").exists():
+            print(f"SKIP (already exists): {tafseer['name_en']}")
+            continue
         print(f"Fetching: {tafseer['name_en']} ({tafseer['slug']})")
         meta = process_tafseer(tafseer)
         if meta:

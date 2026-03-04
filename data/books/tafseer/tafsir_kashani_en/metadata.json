@@ -1,0 +1,12 @@
+{
+  "id": "tafsir_kashani_en",
+  "title_ar": "تفسير الكاشاني (إنجليزي)",
+  "title_en": "Tafsir al-Kashani",
+  "author_ar": "عبد الرزاق الكاشاني",
+  "author_en": "Abd al-Razzaq al-Kashani",
+  "category": "tafseer",
+  "chapter_count": 114,
+  "entry_count": 1668,
+  "total_size_bytes": 2424935,
+  "source": "tafsir-api"
+}

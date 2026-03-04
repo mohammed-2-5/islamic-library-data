@@ -21,7 +21,7 @@ CATEGORIES = [
     {"id": "fiqh", "name_ar": "الفقه", "name_en": "Jurisprudence", "icon": "gavel"},
     {"id": "aqeedah", "name_ar": "العقيدة", "name_en": "Creed", "icon": "star"},
     {"id": "seerah", "name_ar": "السيرة", "name_en": "Prophetic Biography", "icon": "history_edu"},
-    {"id": "raqaiq", "name_ar": "الرقائق", "name_en": "Heart Softeners", "icon": "favorite"},
+    {"id": "tazkiyah", "name_ar": "التزكية", "name_en": "Purification", "icon": "favorite"},
     {"id": "arabic_language", "name_ar": "اللغة العربية", "name_en": "Arabic Language", "icon": "translate"},
     {"id": "general", "name_ar": "عام", "name_en": "General", "icon": "library_books"},
 ]

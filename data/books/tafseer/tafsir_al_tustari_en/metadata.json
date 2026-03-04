@@ -1,0 +1,12 @@
+{
+  "id": "tafsir_al_tustari_en",
+  "title_ar": "تفسير التستري (إنجليزي)",
+  "title_en": "Tafsir al-Tustari",
+  "author_ar": "سهل بن عبد الله التستري",
+  "author_en": "Sahl al-Tustari",
+  "category": "tafseer",
+  "chapter_count": 114,
+  "entry_count": 888,
+  "total_size_bytes": 699135,
+  "source": "tafsir-api"
+}
