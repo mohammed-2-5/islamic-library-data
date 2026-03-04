@@ -1,0 +1,32 @@
+{
+  "book_id": "tafsir_al_jalalayn_en",
+  "chapter_id": 112,
+  "title_ar": "سورة الإخلاص",
+  "title_en": "Surah Al-Ikhlas",
+  "entries": [
+    {
+      "id": 1,
+      "text_ar": "Say ‘He is God One Allāhu is the predicate of huwa ‘He is’ and ahadun is its substitution or a second predicate.",
+      "text_en": "",
+      "reference": "Ayah 1"
+    },
+    {
+      "id": 2,
+      "text_ar": "God the Self-Sufficient Besought of all Allāhu’l-samad constitute a subject and a predicate al-samad means the One Who is always sought at times of need",
+      "text_en": "",
+      "reference": "Ayah 2"
+    },
+    {
+      "id": 3,
+      "text_ar": "He neither begot for no likeness of Him can exist nor was begotten since createdness is precluded in His case.",
+      "text_en": "",
+      "reference": "Ayah 3"
+    },
+    {
+      "id": 4,
+      "text_ar": "Nor is there anyone equal to Him’ neither match nor comparison lahu ‘to Him’ is semantically connected to kufuwan ‘equal’ but precedes it because it is the object of the intended negation; ahadun ‘anyone’ which is the subject of yakun ‘is there’ has been placed after the predicate of the latter kufuwan ‘equal’ in order to retain the harmony of the end-rhyme of the verses.",
+      "text_en": "",
+      "reference": "Ayah 4"
+    }
+  ]
+}

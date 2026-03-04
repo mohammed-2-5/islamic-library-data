@@ -1,0 +1,12 @@
+{
+  "id": "tafsir_al_baghawi",
+  "title_ar": "تفسير البغوي",
+  "title_en": "Tafsir al-Baghawi",
+  "author_ar": "الإمام البغوي",
+  "author_en": "Imam al-Baghawi",
+  "category": "tafseer",
+  "chapter_count": 111,
+  "entry_count": 5898,
+  "total_size_bytes": 7840857,
+  "source": "tafsir-api"
+}

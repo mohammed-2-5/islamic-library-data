@@ -1,12 +1,18 @@
 {
   "version": 1,
-  "generated": "2026-03-04T04:13:53.310533+00:00",
+  "generated": "2026-03-04T04:32:44.486195+00:00",
   "categories": [
     {
       "id": "hadith",
       "name_ar": "الحديث",
       "name_en": "Hadith",
       "icon": "menu_book"
+    },
+    {
+      "id": "tafseer",
+      "name_ar": "التفسير",
+      "name_en": "Exegesis",
+      "icon": "auto_stories"
     }
   ],
   "books": [
@@ -212,6 +218,126 @@
       "chapter_count": 61,
       "total_size_bytes": 3262161,
       "source": "hadith-json",
+      "featured": false
+    },
+    {
+      "id": "tafsir_muyassar",
+      "title_ar": "التفسير الميسر",
+      "title_en": "Tafsir Muyassar",
+      "author_ar": "مجمع الملك فهد",
+      "author_en": "King Fahd Complex",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 3134762,
+      "source": "tafsir-api",
+      "featured": true
+    },
+    {
+      "id": "tafsir_al_wasit",
+      "title_ar": "التفسير الوسيط",
+      "title_en": "Tafsir al-Wasit",
+      "author_ar": "محمد سيد طنطاوي",
+      "author_en": "Muhammad Sayyid Tantawi",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 18419370,
+      "source": "tafsir-api",
+      "featured": false
+    },
+    {
+      "id": "tafsir_ibn_kathir",
+      "title_ar": "تفسير ابن كثير",
+      "title_en": "Tafsir Ibn Kathir",
+      "author_ar": "الحافظ ابن كثير",
+      "author_en": "Hafiz Ibn Kathir",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 15031909,
+      "source": "tafsir-api",
+      "featured": true
+    },
+    {
+      "id": "tafsir_ibn_kathir_en",
+      "title_ar": "تفسير ابن كثير (مختصر - إنجليزي)",
+      "title_en": "Tafsir Ibn Kathir (Abridged)",
+      "author_ar": "الحافظ ابن كثير",
+      "author_en": "Hafiz Ibn Kathir",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 40451005,
+      "source": "tafsir-api",
+      "featured": false
+    },
+    {
+      "id": "tafsir_al_baghawi",
+      "title_ar": "تفسير البغوي",
+      "title_en": "Tafsir al-Baghawi",
+      "author_ar": "الإمام البغوي",
+      "author_en": "Imam al-Baghawi",
+      "category": "tafseer",
+      "chapter_count": 111,
+      "total_size_bytes": 7840857,
+      "source": "tafsir-api",
+      "featured": true
+    },
+    {
+      "id": "tafsir_al_jalalayn_en",
+      "title_ar": "تفسير الجلالين (إنجليزي)",
+      "title_en": "Tafsir al-Jalalayn",
+      "author_ar": "جلال الدين المحلي وجلال الدين السيوطي",
+      "author_en": "Al-Jalalayn",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 2803993,
+      "source": "tafsir-api",
+      "featured": false
+    },
+    {
+      "id": "tafsir_al_saadi",
+      "title_ar": "تفسير السعدي",
+      "title_en": "Tafsir al-Saadi",
+      "author_ar": "الشيخ عبد الرحمن السعدي",
+      "author_en": "Sheikh Abdur-Rahman al-Saadi",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 7008504,
+      "source": "tafsir-api",
+      "featured": true
+    },
+    {
+      "id": "tafsir_al_tabari",
+      "title_ar": "تفسير الطبري",
+      "title_en": "Tafsir al-Tabari",
+      "author_ar": "الإمام الطبري",
+      "author_en": "Imam al-Tabari",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 35456184,
+      "source": "tafsir-api",
+      "featured": true
+    },
+    {
+      "id": "tafsir_al_qurtubi",
+      "title_ar": "تفسير القرطبي",
+      "title_en": "Tafsir al-Qurtubi",
+      "author_ar": "الإمام القرطبي",
+      "author_en": "Imam al-Qurtubi",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 20334296,
+      "source": "tafsir-api",
+      "featured": true
+    },
+    {
+      "id": "tafsir_tanwir_al_miqbas",
+      "title_ar": "تنوير المقباس من تفسير ابن عباس",
+      "title_en": "Tanwir al-Miqbas",
+      "author_ar": "ابن عباس",
+      "author_en": "Ibn Abbas",
+      "category": "tafseer",
+      "chapter_count": 114,
+      "total_size_bytes": 29015698,
+      "source": "tafsir-api",
       "featured": false
     }
   ]
