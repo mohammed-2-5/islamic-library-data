@@ -122,6 +122,206 @@ BOOKS_TO_FETCH = [
         "author_ar": "الإمام ابن حزم",
         "author_en": "Imam Ibn Hazm",
     },
+    {
+        "author_dir": "0620IbnQudamaMaqdisi",
+        "book_dir": "0620IbnQudamaMaqdisi.Mughni",
+        "book_id": "al_mughni",
+        "category": "fiqh",
+        "title_ar": "المغني",
+        "title_en": "Al-Mughni",
+        "author_ar": "ابن قدامة المقدسي",
+        "author_en": "Ibn Qudama al-Maqdisi",
+    },
+    {
+        "author_dir": "0620IbnQudamaMaqdisi",
+        "book_dir": "0620IbnQudamaMaqdisi.KafiFiFiqh",
+        "book_id": "al_kafi_fiqh",
+        "category": "fiqh",
+        "title_ar": "الكافي في فقه الإمام أحمد",
+        "title_en": "Al-Kafi fi Fiqh al-Imam Ahmad",
+        "author_ar": "ابن قدامة المقدسي",
+        "author_en": "Ibn Qudama al-Maqdisi",
+    },
+    {
+        "author_dir": "0620IbnQudamaMaqdisi",
+        "book_dir": "0620IbnQudamaMaqdisi.CumdatFiqh",
+        "book_id": "umdat_al_fiqh",
+        "category": "fiqh",
+        "title_ar": "عمدة الفقه",
+        "title_en": "Umdat al-Fiqh",
+        "author_ar": "ابن قدامة المقدسي",
+        "author_en": "Ibn Qudama al-Maqdisi",
+    },
+    {
+        "author_dir": "0620IbnQudamaMaqdisi",
+        "book_dir": "0620IbnQudamaMaqdisi.MuqnicFiFiqh",
+        "book_id": "al_muqni_fiqh",
+        "category": "fiqh",
+        "title_ar": "المقنع في فقه الإمام أحمد",
+        "title_en": "Al-Muqni fi Fiqh",
+        "author_ar": "ابن قدامة المقدسي",
+        "author_en": "Ibn Qudama al-Maqdisi",
+    },
+    {
+        "author_dir": "0620IbnQudamaMaqdisi",
+        "book_dir": "0620IbnQudamaMaqdisi.RawdatNazir",
+        "book_id": "rawdat_al_nazir",
+        "category": "fiqh",
+        "title_ar": "روضة الناظر وجنة المناظر",
+        "title_en": "Rawdat al-Nazir",
+        "author_ar": "ابن قدامة المقدسي",
+        "author_en": "Ibn Qudama al-Maqdisi",
+    },
+    {
+        "author_dir": "0179MalikIbnAnas",
+        "book_dir": "0179MalikIbnAnas.Muwatta",
+        "book_id": "muwatta_malik",
+        "category": "fiqh",
+        "title_ar": "الموطأ",
+        "title_en": "Al-Muwatta",
+        "author_ar": "الإمام مالك بن أنس",
+        "author_en": "Imam Malik ibn Anas",
+    },
+    {
+        "author_dir": "0204Shafici",
+        "book_dir": "0204Shafici.Umm",
+        "book_id": "al_umm",
+        "category": "fiqh",
+        "title_ar": "الأم",
+        "title_en": "Al-Umm",
+        "author_ar": "الإمام الشافعي",
+        "author_en": "Imam al-Shafi'i",
+    },
+    {
+        "author_dir": "0204Shafici",
+        "book_dir": "0204Shafici.Risala",
+        "book_id": "al_risala_shafii",
+        "category": "fiqh",
+        "title_ar": "الرسالة",
+        "title_en": "Al-Risala",
+        "author_ar": "الإمام الشافعي",
+        "author_en": "Imam al-Shafi'i",
+    },
+    {
+        "author_dir": "0676Nawawi",
+        "book_dir": "0676Nawawi.RawdatTalibin",
+        "book_id": "rawdat_al_talibin",
+        "category": "fiqh",
+        "title_ar": "روضة الطالبين وعمدة المفتين",
+        "title_en": "Rawdat al-Talibin",
+        "author_ar": "الإمام النووي",
+        "author_en": "Imam al-Nawawi",
+            "filename": "0676Nawawi.RawdatTalibin.Shamela0000499-ara1",
+    },
+    {
+        "author_dir": "0676Nawawi",
+        "book_dir": "0676Nawawi.Majmuc",
+        "book_id": "al_majmu_nawawi",
+        "category": "fiqh",
+        "title_ar": "المجموع شرح المهذب",
+        "title_en": "Al-Majmu Sharh al-Muhadhdhab",
+        "author_ar": "الإمام النووي",
+        "author_en": "Imam al-Nawawi",
+            "filename": "0676Nawawi.Majmuc.Shamela0002186-ara1",
+    },
+    {
+        "author_dir": "0505Ghazali",
+        "book_dir": "0505Ghazali.Mustasfa",
+        "book_id": "al_mustasfa",
+        "category": "fiqh",
+        "title_ar": "المستصفى من علم الأصول",
+        "title_en": "Al-Mustasfa",
+        "author_ar": "الإمام الغزالي",
+        "author_en": "Imam al-Ghazali",
+            "filename": "0505Ghazali.Mustasfa.Shamela0005459-ara1",
+    },
+    {
+        "author_dir": "0505Ghazali",
+        "book_dir": "0505Ghazali.Wajiz",
+        "book_id": "al_wajiz",
+        "category": "fiqh",
+        "title_ar": "الوجيز في فقه الشافعي",
+        "title_en": "Al-Wajiz",
+        "author_ar": "الإمام الغزالي",
+        "author_en": "Imam al-Ghazali",
+    },
+    {
+        "author_dir": "0728IbnTaymiyya",
+        "book_dir": "0728IbnTaymiyya.SiyasaSharciyya",
+        "book_id": "siyasa_shariyya",
+        "category": "fiqh",
+        "title_ar": "السياسة الشرعية",
+        "title_en": "Al-Siyasa al-Shar'iyyah",
+        "author_ar": "شيخ الإسلام ابن تيمية",
+        "author_en": "Sheikh al-Islam Ibn Taymiyyah",
+            "filename": "0728IbnTaymiyya.SiyasaSharciyya.Shamela0031237-ara1",
+    },
+    {
+        "author_dir": "0728IbnTaymiyya",
+        "book_dir": "0728IbnTaymiyya.QawacidNuraniyya",
+        "book_id": "qawaid_nuraniyyah",
+        "category": "fiqh",
+        "title_ar": "القواعد النورانية الفقهية",
+        "title_en": "Al-Qawa'id al-Nuraniyyah",
+        "author_ar": "شيخ الإسلام ابن تيمية",
+        "author_en": "Sheikh al-Islam Ibn Taymiyyah",
+            "filename": "0728IbnTaymiyya.QawacidNuraniyya.Shamela0021729-ara1.completed",
+    },
+    {
+        "author_dir": "0751IbnQayyimJawziyya",
+        "book_dir": "0751IbnQayyimJawziyya.AclamMuwaqqicin",
+        "book_id": "ilam_al_muwaqqiin",
+        "category": "fiqh",
+        "title_ar": "إعلام الموقعين عن رب العالمين",
+        "title_en": "I'lam al-Muwaqqi'in",
+        "author_ar": "ابن قيم الجوزية",
+        "author_en": "Ibn Qayyim al-Jawziyyah",
+            "filename": "0751IbnQayyimJawziyya.AclamMuwaqqicin.Shamela0011496-ara1",
+    },
+    {
+        "author_dir": "0751IbnQayyimJawziyya",
+        "book_dir": "0751IbnQayyimJawziyya.ZadMacad",
+        "book_id": "zad_al_maad",
+        "category": "fiqh",
+        "title_ar": "زاد المعاد في هدي خير العباد",
+        "title_en": "Zad al-Ma'ad",
+        "author_ar": "ابن قيم الجوزية",
+        "author_en": "Ibn Qayyim al-Jawziyyah",
+            "filename": "0751IbnQayyimJawziyya.ZadMacad.Shamela0021713-ara1",
+    },
+    {
+        "author_dir": "0751IbnQayyimJawziyya",
+        "book_dir": "0751IbnQayyimJawziyya.TuruqHukmiyya",
+        "book_id": "turuq_hukmiyya",
+        "category": "fiqh",
+        "title_ar": "الطرق الحكمية في السياسة الشرعية",
+        "title_en": "Al-Turuq al-Hukmiyyah",
+        "author_ar": "ابن قيم الجوزية",
+        "author_en": "Ibn Qayyim al-Jawziyyah",
+            "filename": "0751IbnQayyimJawziyya.TuruqHukmiyya.Shamela0011495-ara1",
+    },
+    {
+        "author_dir": "0463IbnCabdBarr",
+        "book_dir": "0463IbnCabdBarr.KafiFiFiqh",
+        "book_id": "kafi_ibn_abd_barr",
+        "category": "fiqh",
+        "title_ar": "الكافي في فقه أهل المدينة",
+        "title_en": "Al-Kafi fi Fiqh Ahl al-Madinah",
+        "author_ar": "ابن عبد البر",
+        "author_en": "Ibn Abd al-Barr",
+            "filename": "0463IbnCabdBarr.KafiFiFiqh.Shamela0007367-ara1",
+    },
+    {
+        "author_dir": "0456IbnHazm",
+        "book_dir": "0456IbnHazm.IhkamFiUsulAhkam",
+        "book_id": "ihkam_usul_ahkam",
+        "category": "fiqh",
+        "title_ar": "الإحكام في أصول الأحكام",
+        "title_en": "Al-Ihkam fi Usul al-Ahkam",
+        "author_ar": "الإمام ابن حزم",
+        "author_en": "Imam Ibn Hazm",
+            "filename": "0456IbnHazm.IhkamFiUsulAhkam.Shamela0010432-ara1",
+    },
 
     # ── Tazkiyah / Spirituality ──
     {
@@ -165,6 +365,95 @@ BOOKS_TO_FETCH = [
         "title_en": "Al-Sirah al-Nabawiyyah",
         "author_ar": "ابن هشام",
         "author_en": "Ibn Hisham",
+    },
+
+    {
+        "author_dir": "0751IbnQayyimJawziyya",
+        "book_dir": "0751IbnQayyimJawziyya.MadarijSalikin",
+        "book_id": "madarij_al_salikin",
+        "category": "tazkiyah",
+        "title_ar": "مدارج السالكين",
+        "title_en": "Madarij al-Salikin",
+        "author_ar": "ابن قيم الجوزية",
+        "author_en": "Ibn Qayyim al-Jawziyyah",
+            "filename": "0751IbnQayyimJawziyya.MadarijSalikin.Shamela0008370-ara1",
+    },
+    {
+        "author_dir": "0751IbnQayyimJawziyya",
+        "book_dir": "0751IbnQayyimJawziyya.CuddatSabirin",
+        "book_id": "uddat_al_sabirin",
+        "category": "tazkiyah",
+        "title_ar": "عدة الصابرين وذخيرة الشاكرين",
+        "title_en": "Uddat al-Sabirin",
+        "author_ar": "ابن قيم الجوزية",
+        "author_en": "Ibn Qayyim al-Jawziyyah",
+            "filename": "0751IbnQayyimJawziyya.CuddatSabirin.Shamela0011274-ara1",
+    },
+    {
+        "author_dir": "0751IbnQayyimJawziyya",
+        "book_dir": "0751IbnQayyimJawziyya.DaWaDawa",
+        "book_id": "al_da_wal_dawa",
+        "category": "tazkiyah",
+        "title_ar": "الداء والدواء (الجواب الكافي)",
+        "title_en": "Al-Da' wa al-Dawa'",
+        "author_ar": "ابن قيم الجوزية",
+        "author_en": "Ibn Qayyim al-Jawziyyah",
+            "filename": "0751IbnQayyimJawziyya.DaWaDawa.Shamela0000158-ara1",
+    },
+    {
+        "author_dir": "0751IbnQayyimJawziyya",
+        "book_dir": "0751IbnQayyimJawziyya.IghathatLahfan",
+        "book_id": "ighathat_al_lahfan",
+        "category": "tazkiyah",
+        "title_ar": "إغاثة اللهفان من مصايد الشيطان",
+        "title_en": "Ighathat al-Lahfan",
+        "author_ar": "ابن قيم الجوزية",
+        "author_en": "Ibn Qayyim al-Jawziyyah",
+            "filename": "0751IbnQayyimJawziyya.IghathatLahfan.Shamela0007513-ara1",
+    },
+    {
+        "author_dir": "0751IbnQayyimJawziyya",
+        "book_dir": "0751IbnQayyimJawziyya.WabilSayyib",
+        "book_id": "al_wabil_al_sayyib",
+        "category": "tazkiyah",
+        "title_ar": "الوابل الصيب من الكلم الطيب",
+        "title_en": "Al-Wabil al-Sayyib",
+        "author_ar": "ابن قيم الجوزية",
+        "author_en": "Ibn Qayyim al-Jawziyyah",
+            "filename": "0751IbnQayyimJawziyya.WabilSayyib.Shamela0000216-ara1",
+    },
+    {
+        "author_dir": "0676Nawawi",
+        "book_dir": "0676Nawawi.RiyadSalihin",
+        "book_id": "riyad_al_salihin",
+        "category": "tazkiyah",
+        "title_ar": "رياض الصالحين",
+        "title_en": "Riyad al-Salihin",
+        "author_ar": "الإمام النووي",
+        "author_en": "Imam al-Nawawi",
+            "filename": "0676Nawawi.RiyadSalihin.Shamela0000512-ara4",
+    },
+    {
+        "author_dir": "0620IbnQudamaMaqdisi",
+        "book_dir": "0620IbnQudamaMaqdisi.Tawwabin",
+        "book_id": "al_tawwabin",
+        "category": "tazkiyah",
+        "title_ar": "كتاب التوابين",
+        "title_en": "Al-Tawwabin",
+        "author_ar": "ابن قدامة المقدسي",
+        "author_en": "Ibn Qudama al-Maqdisi",
+            "filename": "0620IbnQudamaMaqdisi.Tawwabin.Shamela0011317-ara1",
+    },
+    {
+        "author_dir": "0620IbnQudamaMaqdisi",
+        "book_dir": "0620IbnQudamaMaqdisi.RiqqaWaBuka",
+        "book_id": "riqqa_wa_buka",
+        "category": "tazkiyah",
+        "title_ar": "الرقة والبكاء",
+        "title_en": "Al-Riqqa wa al-Buka'",
+        "author_ar": "ابن قدامة المقدسي",
+        "author_en": "Ibn Qudama al-Maqdisi",
+            "filename": "0620IbnQudamaMaqdisi.RiqqaWaBuka.Shamela0009384-ara1",
     },
 
     # ── Usul (Principles) ──
@@ -216,28 +505,40 @@ def fetch_json_api(url: str) -> list | None:
 
 
 def find_markdown_file(book_info: dict) -> str | None:
-    """Find the best mARkdown file for a book via GitHub API."""
-    url = f"{API_BASE}/{book_info['author_dir']}/{book_info['book_dir']}"
+    """Find the best mARkdown file for a book via GitHub API.
+
+    Falls back to brute-force raw URL probing if the API is rate-limited.
+    """
+    base = f"{book_info['author_dir']}/{book_info['book_dir']}"
+
+    # Try API first
+    url = f"{API_BASE}/{base}"
     files = fetch_json_api(url)
-    if not files:
-        return None
+    if files is not None:
+        # Prefer .mARkdown files, then Shamela files
+        markdown_files = [f for f in files if f["name"].endswith(".mARkdown")]
+        shamela_files = [
+            f for f in files
+            if not f["name"].endswith((".yml", ".md"))
+            and "Shamela" in f["name"]
+        ]
 
-    # Prefer .mARkdown files, then Shamela files
-    markdown_files = [f for f in files if f["name"].endswith(".mARkdown")]
-    shamela_files = [
-        f for f in files
-        if not f["name"].endswith((".yml", ".md"))
-        and "Shamela" in f["name"]
-    ]
+        candidates = markdown_files or shamela_files
+        if not candidates:
+            print(f"  No text files found in {book_info['book_dir']}")
+            return None
 
-    candidates = markdown_files or shamela_files
-    if not candidates:
-        print(f"  No text files found in {book_info['book_dir']}")
-        return None
+        chosen = candidates[0]
+        return f"{RAW_BASE}/{base}/{chosen['name']}"
 
-    # Pick the first one (usually the best edition)
-    chosen = candidates[0]
-    return f"{RAW_BASE}/{book_info['author_dir']}/{book_info['book_dir']}/{chosen['name']}"
+    # API failed (likely rate-limited) — use filename hint if available
+    filename = book_info.get("filename")
+    if filename:
+        print(f"  Using filename hint: {filename}")
+        return f"{RAW_BASE}/{base}/{filename}"
+
+    print(f"  No text file found for {book_info['book_dir']} (API rate-limited, no filename hint)")
+    return None
 
 
 def parse_openiti_text(raw_text: str) -> list[dict]:
