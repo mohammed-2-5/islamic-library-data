@@ -62,6 +62,45 @@ CATEGORY_MAP = {
 
 DEFAULT_CATEGORY = "general"
 
+# Target size for merged prose entries (Arabic characters).
+MAX_MERGE_CHARS = 3000
+
+
+def _merge_prose_entries(texts: list[str]) -> list[dict]:
+    """Merge short text fragments into ~3000-char prose blocks.
+
+    Joins consecutive paragraphs with \\n\\n so books read as flowing
+    text rather than numbered verse collections.
+    """
+    merged = []
+    parts: list[str] = []
+    char_count = 0
+
+    def flush():
+        nonlocal char_count
+        if not parts:
+            return
+        merged.append({
+            "id": len(merged) + 1,
+            "text_ar": "\n\n".join(parts),
+            "text_en": "",
+            "reference": "",
+        })
+        parts.clear()
+        char_count = 0
+
+    for text in texts:
+        text = text.strip()
+        if not text:
+            continue
+        parts.append(text)
+        char_count += len(text)
+        if char_count >= MAX_MERGE_CHARS:
+            flush()
+
+    flush()
+    return merged
+
 
 def map_category(category_name: str) -> str:
     """Map Shamela category name to our category ID."""
@@ -198,10 +237,9 @@ def convert_book_db(book_db_path: str, book_id: int, meta: dict) -> dict | None:
                 "chapter_id": 1,
                 "title_ar": meta.get("title_ar", ""),
                 "title_en": "",
-                "entries": [
-                    {"id": i + 1, "text_ar": p["text"], "text_en": "", "reference": ""}
-                    for i, p in enumerate(pages)
-                ],
+                "entries": _merge_prose_entries([
+                    p["text"] for p in pages
+                ]),
             }]
 
         # Write to disk
@@ -288,15 +326,9 @@ def _build_chapters(
         if not chapter_pages:
             continue
 
-        entries = [
-            {
-                "id": i + 1,
-                "text_ar": p["text"],
-                "text_en": "",
-                "reference": f"Part {p['part']}, Page {p['page_num']}" if p.get("part") else "",
-            }
-            for i, p in enumerate(chapter_pages)
-        ]
+        entries = _merge_prose_entries([
+            p["text"] for p in chapter_pages
+        ])
 
         chapters.append({
             "book_id": str(book_id),

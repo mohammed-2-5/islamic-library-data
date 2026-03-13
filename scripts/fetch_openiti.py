@@ -632,10 +632,14 @@ def sections_to_chapters(
     max_entries_per_chapter: int = 50,
     max_entry_chars: int = 3000,
 ) -> list[dict]:
-    """Group sections into chapters, splitting large paragraphs.
+    """Group sections into chapters with merged prose entries.
 
-    Each paragraph becomes an entry. Very long paragraphs are split
-    at sentence boundaries to keep entries readable.
+    Consecutive paragraphs within a section are merged into ~3000-char
+    entries (joined with \\n\\n) so that books read as flowing prose
+    rather than collections of numbered fragments.
+
+    Very long individual paragraphs are still split at sentence
+    boundaries before merging.
     """
     if not sections:
         return []
@@ -645,6 +649,24 @@ def sections_to_chapters(
     current_chapter_title = sections[0]["title"] or "مقدمة"
     chapter_num = 1
     entry_id = 1
+
+    # Accumulator for merging paragraphs into a single entry.
+    merge_parts: list[str] = []
+    merge_chars = 0
+
+    def flush_merge():
+        nonlocal entry_id, merge_chars
+        if not merge_parts:
+            return
+        current_entries.append({
+            "id": entry_id,
+            "text_ar": "\n\n".join(merge_parts),
+            "text_en": "",
+            "reference": "",
+        })
+        entry_id += 1
+        merge_parts.clear()
+        merge_chars = 0
 
     for section in sections:
         section_title = section["title"]
@@ -662,17 +684,15 @@ def sections_to_chapters(
                 if not text or len(text) < 5:
                     continue
 
-                entry = {
-                    "id": entry_id,
-                    "text_ar": text,
-                    "text_en": "",
-                    "reference": section_title or f"فقرة {entry_id}",
-                }
-                current_entries.append(entry)
-                entry_id += 1
+                merge_parts.append(text)
+                merge_chars += len(text)
 
-        # Start new chapter if we hit the limit
+                if merge_chars >= max_entry_chars:
+                    flush_merge()
+
+        # Start new chapter if we hit the entry limit
         if len(current_entries) >= max_entries_per_chapter:
+            flush_merge()
             chapters.append({
                 "book_id": book_id,
                 "chapter_id": chapter_num,
@@ -684,7 +704,8 @@ def sections_to_chapters(
             current_entries = []
             current_chapter_title = section_title or f"الجزء {chapter_num}"
 
-    # Last chapter
+    # Flush remaining merge buffer and last chapter
+    flush_merge()
     if current_entries:
         chapters.append({
             "book_id": book_id,

@@ -74,6 +74,47 @@ MIN_CHARS = 500
 # Files to skip (non-text files, duplicates, etc.)
 SKIP_EXTENSIONS = {".yml", ".md", ".py", ".txt", ".csv", ".json", ".xml"}
 
+# Target size for merged prose entries (Arabic characters).
+MAX_MERGE_CHARS = 3000
+
+
+def _merge_prose_paragraphs(
+    paragraphs: list[str], start_id: int = 1
+) -> list[dict]:
+    """Merge short text fragments into ~3000-char prose blocks.
+
+    Joins consecutive paragraphs with \\n\\n so books read as flowing
+    text rather than numbered verse collections.
+    """
+    merged = []
+    parts: list[str] = []
+    char_count = 0
+
+    def flush():
+        nonlocal char_count
+        if not parts:
+            return
+        merged.append({
+            "id": start_id + len(merged),
+            "text_ar": "\n\n".join(parts),
+            "text_en": "",
+            "reference": "",
+        })
+        parts.clear()
+        char_count = 0
+
+    for text in paragraphs:
+        text = clean_text(text)
+        if not text:
+            continue
+        parts.append(text)
+        char_count += len(text)
+        if char_count >= MAX_MERGE_CHARS:
+            flush()
+
+    flush()
+    return merged
+
 
 def find_markdown_files(input_dir: str) -> list[Path]:
     """Find all mARkdown text files in the OpenITI directory structure."""
@@ -185,16 +226,9 @@ def convert_file(file_path: Path) -> dict | None:
         for section in parsed.sections:
             if section.level <= 2 and section.content:
                 chapter_id += 1
-                entries = [
-                    {
-                        "id": i + 1,
-                        "text_ar": para,
-                        "text_en": "",
-                        "reference": "",
-                    }
-                    for i, para in enumerate(section.content)
-                    if para.strip()
-                ]
+                entries = _merge_prose_paragraphs([
+                    p for p in section.content if p.strip()
+                ])
 
                 if entries:
                     chapters.append({
@@ -205,30 +239,22 @@ def convert_file(file_path: Path) -> dict | None:
                         "entries": entries,
                     })
             elif section.level > 2 and chapters and section.content:
-                # Append subsection content to the last chapter
+                # Merge subsection content and append to the last chapter
                 last_ch = chapters[-1]
                 start_id = len(last_ch["entries"]) + 1
-                for i, para in enumerate(section.content):
-                    if para.strip():
-                        last_ch["entries"].append({
-                            "id": start_id + i,
-                            "text_ar": para,
-                            "text_en": "",
-                            "reference": "",
-                        })
+                sub_entries = _merge_prose_paragraphs([
+                    p for p in section.content if p.strip()
+                ], start_id=start_id)
+                last_ch["entries"].extend(sub_entries)
 
     # Fallback: if no chapters from sections, create from raw paragraphs
     if not chapters and parsed.raw_paragraphs:
         # Split into chunks of ~50 paragraphs per chapter
         chunk_size = 50
         for i in range(0, len(parsed.raw_paragraphs), chunk_size):
-            chunk = parsed.raw_paragraphs[i:i + chunk_size]
+            chunk = [p for p in parsed.raw_paragraphs[i:i + chunk_size] if p.strip()]
             chapter_id = (i // chunk_size) + 1
-            entries = [
-                {"id": j + 1, "text_ar": p, "text_en": "", "reference": ""}
-                for j, p in enumerate(chunk)
-                if p.strip()
-            ]
+            entries = _merge_prose_paragraphs(chunk)
             if entries:
                 chapters.append({
                     "book_id": book_id,
