@@ -47,18 +47,6 @@
   ],
   "books": [
     {
-      "id": "usul_al_sunnah",
-      "title_ar": "أصول السنة",
-      "title_en": "Usul al-Sunnah",
-      "author_ar": "الإمام أحمد بن حنبل",
-      "author_en": "Imam Ahmad ibn Hanbal",
-      "category": "aqeedah",
-      "chapter_count": 2,
-      "total_size_bytes": 15721,
-      "source": "openiti",
-      "featured": false
-    },
-    {
       "id": "aqeedah_wasitiyyah",
       "title_ar": "العقيدة الواسطية",
       "title_en": "Al-Aqeedah al-Wasitiyyah",
@@ -87,30 +75,6 @@
       "pdf_size_bytes": 308507
     },
     {
-      "id": "ilam_al_muwaqqiin",
-      "title_ar": "إعلام الموقعين عن رب العالمين",
-      "title_en": "I'lam al-Muwaqqi'in",
-      "author_ar": "ابن قيم الجوزية",
-      "author_en": "Ibn Qayyim al-Jawziyyah",
-      "category": "fiqh",
-      "chapter_count": 113,
-      "total_size_bytes": 4368742,
-      "source": "openiti",
-      "featured": false
-    },
-    {
-      "id": "adhkar_nawawi",
-      "title_ar": "الأذكار",
-      "title_en": "Al-Adhkar",
-      "author_ar": "الإمام النووي",
-      "author_en": "Imam al-Nawawi",
-      "category": "fiqh",
-      "chapter_count": 68,
-      "total_size_bytes": 1088916,
-      "source": "openiti",
-      "featured": false
-    },
-    {
       "id": "al_umm",
       "title_ar": "الأم",
       "title_en": "Al-Umm",
@@ -123,18 +87,6 @@
       "featured": false,
       "pdf_url": "https://archive.org/download/hm5100/1.pdf",
       "pdf_size_bytes": 18446781
-    },
-    {
-      "id": "ihkam_usul_ahkam",
-      "title_ar": "الإحكام في أصول الأحكام",
-      "title_en": "Al-Ihkam fi Usul al-Ahkam",
-      "author_ar": "الإمام ابن حزم",
-      "author_en": "Imam Ibn Hazm",
-      "category": "fiqh",
-      "chapter_count": 37,
-      "total_size_bytes": 3729280,
-      "source": "openiti",
-      "featured": false
     },
     {
       "id": "al_risala_shafii",
@@ -151,66 +103,6 @@
       "pdf_size_bytes": 11163286
     },
     {
-      "id": "siyasa_shariyya",
-      "title_ar": "السياسة الشرعية",
-      "title_en": "Al-Siyasa al-Shar'iyyah",
-      "author_ar": "شيخ الإسلام ابن تيمية",
-      "author_en": "Sheikh al-Islam Ibn Taymiyyah",
-      "category": "fiqh",
-      "chapter_count": 3,
-      "total_size_bytes": 284630,
-      "source": "openiti",
-      "featured": false
-    },
-    {
-      "id": "turuq_hukmiyya",
-      "title_ar": "الطرق الحكمية في السياسة الشرعية",
-      "title_en": "Al-Turuq al-Hukmiyyah",
-      "author_ar": "ابن قيم الجوزية",
-      "author_en": "Ibn Qayyim al-Jawziyyah",
-      "category": "fiqh",
-      "chapter_count": 33,
-      "total_size_bytes": 828557,
-      "source": "openiti",
-      "featured": false
-    },
-    {
-      "id": "qawaid_nuraniyyah",
-      "title_ar": "القواعد النورانية الفقهية",
-      "title_en": "Al-Qawa'id al-Nuraniyyah",
-      "author_ar": "شيخ الإسلام ابن تيمية",
-      "author_en": "Sheikh al-Islam Ibn Taymiyyah",
-      "category": "fiqh",
-      "chapter_count": 14,
-      "total_size_bytes": 731216,
-      "source": "openiti",
-      "featured": false
-    },
-    {
-      "id": "kafi_ibn_abd_barr",
-      "title_ar": "الكافي في فقه أهل المدينة",
-      "title_en": "Al-Kafi fi Fiqh Ahl al-Madinah",
-      "author_ar": "ابن عبد البر",
-      "author_en": "Ibn Abd al-Barr",
-      "category": "fiqh",
-      "chapter_count": 42,
-      "total_size_bytes": 1789544,
-      "source": "openiti",
-      "featured": false
-    },
-    {
-      "id": "al_kafi_fiqh",
-      "title_ar": "الكافي في فقه الإمام أحمد",
-      "title_en": "Al-Kafi fi Fiqh al-Imam Ahmad",
-      "author_ar": "ابن قدامة المقدسي",
-      "author_en": "Ibn Qudama al-Maqdisi",
-      "category": "fiqh",
-      "chapter_count": 115,
-      "total_size_bytes": 4123433,
-      "source": "openiti",
-      "featured": false
-    },
-    {
       "id": "al_majmu_nawawi",
       "title_ar": "المجموع شرح المهذب",
       "title_en": "Al-Majmu Sharh al-Muhadhdhab",
@@ -225,18 +117,6 @@
       "pdf_size_bytes": 12958573
     },
     {
-      "id": "al_mustasfa",
-      "title_ar": "المستصفى من علم الأصول",
-      "title_en": "Al-Mustasfa",
-      "author_ar": "الإمام الغزالي",
-      "author_en": "Imam al-Ghazali",
-      "category": "fiqh",
-      "chapter_count": 49,
-      "total_size_bytes": 1789734,
-      "source": "openiti",
-      "featured": false
-    },
-    {
       "id": "al_mughni",
       "title_ar": "المغني",
       "title_en": "Al-Mughni",
@@ -249,18 +129,6 @@
       "featured": false,
       "pdf_url": "https://archive.org/download/161222691AlMughniHanbaliFiqhIbnQudamaMourniARABICFULL/161222691-Al-Mughni-Hanbali-Fiqh-Ibn-Qudama-Mourni-ARABIC-FULL.pdf",
       "pdf_size_bytes": 154226804
-    },
-    {
-      "id": "al_muqni_fiqh",
-      "title_ar": "المقنع في فقه الإمام أحمد",
-      "title_en": "Al-Muqni fi Fiqh",
-      "author_ar": "ابن قدامة المقدسي",
-      "author_en": "Ibn Qudama al-Maqdisi",
-      "category": "fiqh",
-      "chapter_count": 33,
-      "total_size_bytes": 971656,
-      "source": "openiti",
-      "featured": false
     },
     {
       "id": "muwatta_malik",
@@ -291,18 +159,6 @@
       "pdf_size_bytes": 7144880
     },
     {
-      "id": "rawdat_al_nazir",
-      "title_ar": "روضة الناظر وجنة المناظر",
-      "title_en": "Rawdat al-Nazir",
-      "author_ar": "ابن قدامة المقدسي",
-      "author_en": "Ibn Qudama al-Maqdisi",
-      "category": "fiqh",
-      "chapter_count": 78,
-      "total_size_bytes": 993266,
-      "source": "openiti",
-      "featured": false
-    },
-    {
       "id": "zad_al_maad",
       "title_ar": "زاد المعاد في هدي خير العباد",
       "title_en": "Zad al-Ma'ad",
@@ -315,30 +171,6 @@
       "featured": false,
       "pdf_url": "https://archive.org/download/20240729_20240729_2036/%D8%B2%D8%A7%D8%AF%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%20%D9%81%D9%8A%20%D9%87%D8%AF%D9%8A%20%D8%AE%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%201.pdf",
       "pdf_size_bytes": 13120252
-    },
-    {
-      "id": "umdat_al_fiqh",
-      "title_ar": "عمدة الفقه",
-      "title_en": "Umdat al-Fiqh",
-      "author_ar": "ابن قدامة المقدسي",
-      "author_en": "Ibn Qudama al-Maqdisi",
-      "category": "fiqh",
-      "chapter_count": 17,
-      "total_size_bytes": 269015,
-      "source": "openiti",
-      "featured": false
-    },
-    {
-      "id": "minhaj_talibin",
-      "title_ar": "منهاج الطالبين",
-      "title_en": "Minhaj al-Talibin",
-      "author_ar": "الإمام النووي",
-      "author_en": "Imam al-Nawawi",
-      "category": "fiqh",
-      "chapter_count": 12,
-      "total_size_bytes": 765181,
-      "source": "openiti",
-      "featured": false
     },
     {
       "id": "mukhtasar_al_quduri",
@@ -355,18 +187,6 @@
       "pdf_size_bytes": 129949346
     },
     {
-      "id": "shahwaliullah40",
-      "title_ar": "أربعون ولي الله الدهلوي",
-      "title_en": "The Forty Hadith of Shah Waliullah",
-      "author_ar": "الشاه ولي الدين الدهلوي",
-      "author_en": "Shah Waliullah Dahlawi",
-      "category": "hadith",
-      "chapter_count": 1,
-      "total_size_bytes": 10633,
-      "source": "hadith-json",
-      "featured": false
-    },
-    {
       "id": "aladab_almufrad",
       "title_ar": "الأدب المفرد",
       "title_en": "Al-Adab Al-Mufrad",
@@ -379,18 +199,6 @@
       "featured": false,
       "pdf_url": "https://archive.org/download/HadithBooksPDFsSearchableArabicAlphabets/Al-adabAl-mufradkfgqpcUthmanTahaNaskh-1.00.02.pdf",
       "pdf_size_bytes": 5092648
-    },
-    {
-      "id": "qudsi40",
-      "title_ar": "الأربعون القدسية",
-      "title_en": "The Forty Hadith Qudsi",
-      "author_ar": "",
-      "author_en": "",
-      "category": "hadith",
-      "chapter_count": 1,
-      "total_size_bytes": 83919,
-      "source": "hadith-json",
-      "featured": false
     },
     {
       "id": "nawawi40",
@@ -617,30 +425,6 @@
       "pdf_size_bytes": 41391490
     },
     {
-      "id": "asbab_al_nuzul_en",
-      "title_ar": "أسباب النزول (إنجليزي)",
-      "title_en": "Asbab al-Nuzul",
-      "author_ar": "الإمام الواحدي",
-      "author_en": "Imam al-Wahidi",
-      "category": "tafseer",
-      "chapter_count": 77,
-      "total_size_bytes": 2014626,
-      "source": "tafsir-api",
-      "featured": false
-    },
-    {
-      "id": "tafsir_muyassar",
-      "title_ar": "التفسير الميسر",
-      "title_en": "Tafsir Muyassar",
-      "author_ar": "مجمع الملك فهد",
-      "author_en": "King Fahd Complex",
-      "category": "tafseer",
-      "chapter_count": 114,
-      "total_size_bytes": 3134762,
-      "source": "tafsir-api",
-      "featured": true
-    },
-    {
       "id": "tafsir_al_wasit",
       "title_ar": "التفسير الوسيط",
       "title_en": "Tafsir al-Wasit",
@@ -653,30 +437,6 @@
       "featured": false,
       "pdf_url": "https://archive.org/download/noor-book.com-1-15-3/Noor-Book.com%20%D8%A7%D9%84%D8%AA%20%D9%81%D8%B3%20%D9%8A%D8%B1%20%D8%A7%D9%84%D9%88%D8%B3%20%D9%8A%D8%B7%20%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D8%B7%D9%86%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B7%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D9%81%201%2015%203%20.pdf",
       "pdf_size_bytes": 113740193
-    },
-    {
-      "id": "tazkirul_quran_en",
-      "title_ar": "تذكر القرآن (إنجليزي)",
-      "title_en": "Tazkirul Quran",
-      "author_ar": "الشيخ عبد الرحمن الكيلاني",
-      "author_en": "Sheikh Abdur-Rahman al-Kilani",
-      "category": "tafseer",
-      "chapter_count": 114,
-      "total_size_bytes": 6755429,
-      "source": "tafsir-api",
-      "featured": false
-    },
-    {
-      "id": "tafsir_ibn_abbas_en",
-      "title_ar": "تفسير ابن عباس (إنجليزي)",
-      "title_en": "Tafsir Ibn Abbas",
-      "author_ar": "ابن عباس",
-      "author_en": "Ibn Abbas",
-      "category": "tafseer",
-      "chapter_count": 114,
-      "total_size_bytes": 2838852,
-      "source": "tafsir-api",
-      "featured": false
     },
     {
       "id": "tafsir_ibn_kathir",
@@ -693,18 +453,6 @@
       "pdf_size_bytes": 19781901
     },
     {
-      "id": "tafsir_ibn_kathir_en",
-      "title_ar": "تفسير ابن كثير (مختصر - إنجليزي)",
-      "title_en": "Tafsir Ibn Kathir (Abridged)",
-      "author_ar": "الحافظ ابن كثير",
-      "author_en": "Hafiz Ibn Kathir",
-      "category": "tafseer",
-      "chapter_count": 114,
-      "total_size_bytes": 40451005,
-      "source": "tafsir-api",
-      "featured": false
-    },
-    {
       "id": "tafsir_al_baghawi",
       "title_ar": "تفسير البغوي",
       "title_en": "Tafsir al-Baghawi",
@@ -717,18 +465,6 @@
       "featured": true,
       "pdf_url": "https://archive.org/download/20220616_20220616_1958/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A8%D8%BA%D9%88%D9%8A.pdf",
       "pdf_size_bytes": 38507826
-    },
-    {
-      "id": "tafsir_al_tustari_en",
-      "title_ar": "تفسير التستري (إنجليزي)",
-      "title_en": "Tafsir al-Tustari",
-      "author_ar": "سهل بن عبد الله التستري",
-      "author_en": "Sahl al-Tustari",
-      "category": "tafseer",
-      "chapter_count": 114,
-      "total_size_bytes": 699135,
-      "source": "tafsir-api",
-      "featured": false
     },
     {
       "id": "tafsir_al_jalalayn_en",
@@ -787,54 +523,6 @@
       "pdf_size_bytes": 109285166
     },
     {
-      "id": "tafsir_al_qushairi_en",
-      "title_ar": "تفسير القشيري (إنجليزي)",
-      "title_en": "Tafsir al-Qushairi",
-      "author_ar": "الإمام القشيري",
-      "author_en": "Imam al-Qushairi",
-      "category": "tafseer",
-      "chapter_count": 114,
-      "total_size_bytes": 2094250,
-      "source": "tafsir-api",
-      "featured": false
-    },
-    {
-      "id": "tafsir_kashani_en",
-      "title_ar": "تفسير الكاشاني (إنجليزي)",
-      "title_en": "Tafsir al-Kashani",
-      "author_ar": "عبد الرزاق الكاشاني",
-      "author_en": "Abd al-Razzaq al-Kashani",
-      "category": "tafseer",
-      "chapter_count": 114,
-      "total_size_bytes": 2424935,
-      "source": "tafsir-api",
-      "featured": false
-    },
-    {
-      "id": "tafsir_tanwir_al_miqbas",
-      "title_ar": "تنوير المقباس من تفسير ابن عباس",
-      "title_en": "Tanwir al-Miqbas",
-      "author_ar": "ابن عباس",
-      "author_en": "Ibn Abbas",
-      "category": "tafseer",
-      "chapter_count": 114,
-      "total_size_bytes": 29015698,
-      "source": "tafsir-api",
-      "featured": false
-    },
-    {
-      "id": "kashf_al_asrar_en",
-      "title_ar": "كشف الأسرار (إنجليزي)",
-      "title_en": "Kashf al-Asrar",
-      "author_ar": "الإمام الثعلبي",
-      "author_en": "Imam al-Tha'labi",
-      "category": "tafseer",
-      "chapter_count": 69,
-      "total_size_bytes": 1343218,
-      "source": "tafsir-api",
-      "featured": false
-    },
-    {
       "id": "tafsir_maariful_quran_en",
       "title_ar": "معارف القرآن (إنجليزي)",
       "title_en": "Ma'ariful Quran",
@@ -847,18 +535,6 @@
       "featured": false,
       "pdf_url": "https://archive.org/download/EnglishMaarifulQuranMuftiShafiUsmaniRA_201811/English-MaarifulQuran-MuftiShafiUsmaniRA.pdf",
       "pdf_size_bytes": 226655036
-    },
-    {
-      "id": "amrad_al_qulub",
-      "title_ar": "أمراض القلوب وشفاؤها",
-      "title_en": "Diseases of the Hearts",
-      "author_ar": "شيخ الإسلام ابن تيمية",
-      "author_en": "Sheikh al-Islam Ibn Taymiyyah",
-      "category": "tazkiyah",
-      "chapter_count": 1,
-      "total_size_bytes": 257389,
-      "source": "openiti",
-      "featured": false
     },
     {
       "id": "ihya_ulum_al_din",
@@ -903,18 +579,6 @@
       "pdf_size_bytes": 10649315
     },
     {
-      "id": "riqqa_wa_buka",
-      "title_ar": "الرقة والبكاء",
-      "title_en": "Al-Riqqa wa al-Buka'",
-      "author_ar": "ابن قدامة المقدسي",
-      "author_en": "Ibn Qudama al-Maqdisi",
-      "category": "tazkiyah",
-      "chapter_count": 6,
-      "total_size_bytes": 157694,
-      "source": "openiti",
-      "featured": false
-    },
-    {
       "id": "al_wabil_al_sayyib",
       "title_ar": "الوابل الصيب من الكلم الطيب",
       "title_en": "Al-Wabil al-Sayyib",
@@ -943,18 +607,6 @@
       "pdf_size_bytes": 24766142
     },
     {
-      "id": "bustan_al_arifin",
-      "title_ar": "بستان العارفين",
-      "title_en": "Bustan al-Arifin",
-      "author_ar": "الإمام النووي",
-      "author_en": "Imam al-Nawawi",
-      "category": "tazkiyah",
-      "chapter_count": 3,
-      "total_size_bytes": 166092,
-      "source": "openiti",
-      "featured": false
-    },
-    {
       "id": "riyad_al_salihin",
       "title_ar": "رياض الصالحين",
       "title_en": "Riyad al-Salihin",
@@ -967,30 +619,6 @@
       "featured": false,
       "pdf_url": "https://archive.org/download/RiyadSalihin/Riyad_Salihin2.pdf",
       "pdf_size_bytes": 13547640
-    },
-    {
-      "id": "uddat_al_sabirin",
-      "title_ar": "عدة الصابرين وذخيرة الشاكرين",
-      "title_en": "Uddat al-Sabirin",
-      "author_ar": "ابن قيم الجوزية",
-      "author_en": "Ibn Qayyim al-Jawziyyah",
-      "category": "tazkiyah",
-      "chapter_count": 12,
-      "total_size_bytes": 723870,
-      "source": "openiti",
-      "featured": false
-    },
-    {
-      "id": "al_tawwabin",
-      "title_ar": "كتاب التوابين",
-      "title_en": "Al-Tawwabin",
-      "author_ar": "ابن قدامة المقدسي",
-      "author_en": "Ibn Qudama al-Maqdisi",
-      "category": "tazkiyah",
-      "chapter_count": 30,
-      "total_size_bytes": 458767,
-      "source": "openiti",
-      "featured": false
     },
     {
       "id": "madarij_al_salikin",
