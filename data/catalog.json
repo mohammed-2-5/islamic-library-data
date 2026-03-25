@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-03-13T12:03:08.414716+00:00",
+  "generated": "2026-03-25T00:00:00.000000+00:00",
   "categories": [
     {
       "id": "hadith",
@@ -37,6 +37,12 @@
       "name_ar": "التزكية",
       "name_en": "Purification",
       "icon": "favorite"
+    },
+    {
+      "id": "tarikh",
+      "name_ar": "التاريخ",
+      "name_en": "History",
+      "icon": "menu_book"
     }
   ],
   "books": [
@@ -62,7 +68,9 @@
       "chapter_count": 12,
       "total_size_bytes": 59830,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/1-1999-1420/%D8%A7%D9%84%D8%AD%D8%B9%D9%82%D9%8A%D8%AF%D8%A9%20%D8%A7%D9%84%D9%88%D8%A7%D8%B3%D8%B7%D9%8A%D8%A9%20%D8%B5%D9%81%D8%AD%D8%A9%201%20%D8%B3%D9%86%D8%A9%201999%20-1420%D9%87%D9%8B%D9%8F.pdf",
+      "pdf_size_bytes": 13306861
     },
     {
       "id": "fiqh_akbar",
@@ -110,7 +118,9 @@
       "chapter_count": 207,
       "total_size_bytes": 10837281,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/hm5100/1.pdf",
+      "pdf_size_bytes": 18446781
     },
     {
       "id": "ihkam_usul_ahkam",
@@ -206,7 +216,9 @@
       "chapter_count": 253,
       "total_size_bytes": 26978528,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/magm22/MAGM01.PDF",
+      "pdf_size_bytes": 12958573
     },
     {
       "id": "al_mustasfa",
@@ -230,7 +242,9 @@
       "chapter_count": 532,
       "total_size_bytes": 17306561,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/161222691AlMughniHanbaliFiqhIbnQudamaMourniARABICFULL/161222691-Al-Mughni-Hanbali-Fiqh-Ibn-Qudama-Mourni-ARABIC-FULL.pdf",
+      "pdf_size_bytes": 154226804
     },
     {
       "id": "al_muqni_fiqh",
@@ -266,7 +280,9 @@
       "chapter_count": 323,
       "total_size_bytes": 10903075,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/nawawirawdah/01_44490.pdf",
+      "pdf_size_bytes": 7144880
     },
     {
       "id": "rawdat_al_nazir",
@@ -290,7 +306,9 @@
       "chapter_count": 201,
       "total_size_bytes": 5470140,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/20240729_20240729_2036/%D8%B2%D8%A7%D8%AF%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%20%D9%81%D9%8A%20%D9%87%D8%AF%D9%8A%20%D8%AE%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%201.pdf",
+      "pdf_size_bytes": 13120252
     },
     {
       "id": "umdat_al_fiqh",
@@ -317,6 +335,20 @@
       "featured": false
     },
     {
+      "id": "mukhtasar_al_quduri",
+      "title_ar": "مختصر القدوري",
+      "title_en": "Mukhtasar al-Quduri",
+      "author_ar": "الإمام القدوري",
+      "author_en": "Imam al-Quduri",
+      "category": "fiqh",
+      "chapter_count": 0,
+      "total_size_bytes": 0,
+      "source": "archive",
+      "featured": true,
+      "pdf_url": "https://archive.org/download/al-mukhtasar-al-quduri/Al-Mukhtasar%20al-Quduri.pdf",
+      "pdf_size_bytes": 129949346
+    },
+    {
       "id": "shahwaliullah40",
       "title_ar": "أربعون ولي الله الدهلوي",
       "title_en": "The Forty Hadith of Shah Waliullah",
@@ -338,7 +370,9 @@
       "chapter_count": 57,
       "total_size_bytes": 1731839,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/HadithBooksPDFsSearchableArabicAlphabets/Al-adabAl-mufradkfgqpcUthmanTahaNaskh-1.00.02.pdf",
+      "pdf_size_bytes": 5092648
     },
     {
       "id": "qudsi40",
@@ -362,7 +396,9 @@
       "chapter_count": 1,
       "total_size_bytes": 71956,
       "source": "hadith-json",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/20240113_20240113_2248/%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D9%88%D9%86_%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9_%D8%B7%D8%A8%D8%B9%D8%A9_%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%A7%D8%AC.pdf",
+      "pdf_size_bytes": 1736971
     },
     {
       "id": "shamail_muhammadiyah",
@@ -374,7 +410,9 @@
       "chapter_count": 57,
       "total_size_bytes": 533040,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/shmaelf/shmaelf.pdf",
+      "pdf_size_bytes": 4820206
     },
     {
       "id": "bulugh_almaram",
@@ -386,7 +424,9 @@
       "chapter_count": 16,
       "total_size_bytes": 2015879,
       "source": "hadith-json",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/HadithBooksPDFsSearchableArabicAlphabets/BulughAl-maramkfgqpcUthmanTahaNaskh-1.00.02.pdf",
+      "pdf_size_bytes": 3410378
     },
     {
       "id": "tirmidhi",
@@ -398,7 +438,9 @@
       "chapter_count": 49,
       "total_size_bytes": 7591986,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/photo_-_-_202603/%D8%AC%D8%A7%D9%85%D8%B9%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%D8%B0%D9%8A.pdf",
+      "pdf_size_bytes": 86375380
     },
     {
       "id": "riyad_assalihin",
@@ -410,7 +452,9 @@
       "chapter_count": 20,
       "total_size_bytes": 2115308,
       "source": "hadith-json",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/20260305_20260305_2334/%D8%B1%D9%8A%D9%8A%D8%B3%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D9%84%D8%AD%D9%8A%D9%86%20%D9%85%D9%86%20%D9%83%D9%84%D8%A7%D9%85%20%D8%B3%D9%8A%D8%AF%20%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D9%8A%D9%86%20%D8%AA%20%D8%A7%D9%84%D9%81%D8%AD%D9%84.pdf",
+      "pdf_size_bytes": 33422002
     },
     {
       "id": "abudawud",
@@ -422,7 +466,9 @@
       "chapter_count": 43,
       "total_size_bytes": 7855824,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/photo_-_-_202603/%D8%B3%D9%86%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%AF%D8%A7%D9%88%D8%AF%20%D8%B7%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20.pdf",
+      "pdf_size_bytes": 79620014
     },
     {
       "id": "ibnmajah",
@@ -434,7 +480,9 @@
       "chapter_count": 38,
       "total_size_bytes": 5720783,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/20191211_20191211_0806/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%86%20%D9%85%D8%A7%D8%AC%D9%87%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9.pdf",
+      "pdf_size_bytes": 23949999
     },
     {
       "id": "darimi",
@@ -446,7 +494,9 @@
       "chapter_count": 24,
       "total_size_bytes": 3125594,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/sunan-darmi_202202/Sunan%20Darmi.pdf",
+      "pdf_size_bytes": 13526061
     },
     {
       "id": "nasai",
@@ -458,7 +508,9 @@
       "chapter_count": 52,
       "total_size_bytes": 7903511,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/photo_-_-_202603/%D8%B3%D9%86%D9%86%20%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A6%D9%8A.pdf",
+      "pdf_size_bytes": 83880420
     },
     {
       "id": "bukhari",
@@ -470,7 +522,9 @@
       "chapter_count": 97,
       "total_size_bytes": 12660434,
       "source": "hadith-json",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/saheehbukhariarabic/Saheeh%20Bukhari-%20Arabic.pdf",
+      "pdf_size_bytes": 155320571
     },
     {
       "id": "muslim",
@@ -482,7 +536,9 @@
       "chapter_count": 57,
       "total_size_bytes": 11445509,
       "source": "hadith-json",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/sahih-muslim-arabic/sahih-muslim-arabic.pdf",
+      "pdf_size_bytes": 87247498
     },
     {
       "id": "ahmed",
@@ -494,7 +550,9 @@
       "chapter_count": 8,
       "total_size_bytes": 2401039,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/musnad_ahmad_arabic/musnad.pdf",
+      "pdf_size_bytes": 37837112
     },
     {
       "id": "mishkat_almasabih",
@@ -506,7 +564,9 @@
       "chapter_count": 25,
       "total_size_bytes": 5312370,
       "source": "hadith-json",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/3490213/3490%20-%20%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D8%A3%D9%84%D8%A8%D8%A7%D9%86%D9%8A%20-%20%D9%85%D8%B4%D9%83%D8%A7%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D8%AD%20-%20%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%B2%D9%8A%20-%20%D8%AA%20%D8%A7%D9%84%D8%A3%D9%84%D8%A8%D8%A7%D9%86%D9%8A%20-%20%D8%B7%20%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%86%D9%8A%20-%20%D8%B72%201-3%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%82%D8%B1%D8%A7%20%D8%A7%D9%88%D9%86%D9%84%D9%8A%D9%86%20.pdf",
+      "pdf_size_bytes": 32989228
     },
     {
       "id": "malik",
@@ -518,7 +578,9 @@
       "chapter_count": 61,
       "total_size_bytes": 3262161,
       "source": "hadith-json",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/muwatta-bashar/muwatta-bashar-1.pdf",
+      "pdf_size_bytes": 10682934
     },
     {
       "id": "sirat_ibn_hisham",
@@ -530,7 +592,23 @@
       "chapter_count": 5,
       "total_size_bytes": 1398523,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/Sirat_Ibn_Hisham/01_94563.pdf",
+      "pdf_size_bytes": 7214144
+    },
+    {
+      "id": "sifat_al_safwa",
+      "title_ar": "صفة الصفوة",
+      "title_en": "Sifat al-Safwa",
+      "author_ar": "ابن الجوزي",
+      "author_en": "Ibn al-Jawzi",
+      "category": "seerah",
+      "chapter_count": 0,
+      "total_size_bytes": 0,
+      "source": "archive",
+      "featured": true,
+      "pdf_url": "https://archive.org/download/AAlexandrina-054685/054685%20-%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%B5%D9%81%D8%A9%20%D8%A7%D9%84%D8%B5%D9%81%D9%88%D8%A9.pdf",
+      "pdf_size_bytes": 41391490
     },
     {
       "id": "asbab_al_nuzul_en",
@@ -566,7 +644,9 @@
       "chapter_count": 114,
       "total_size_bytes": 18419370,
       "source": "tafsir-api",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/noor-book.com-1-15-3/Noor-Book.com%20%D8%A7%D9%84%D8%AA%20%D9%81%D8%B3%20%D9%8A%D8%B1%20%D8%A7%D9%84%D9%88%D8%B3%20%D9%8A%D8%B7%20%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D8%B7%D9%86%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B7%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D9%81%201%2015%203%20.pdf",
+      "pdf_size_bytes": 113740193
     },
     {
       "id": "tazkirul_quran_en",
@@ -602,7 +682,9 @@
       "chapter_count": 114,
       "total_size_bytes": 15031909,
       "source": "tafsir-api",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/tafsir-ibn-kathir-tayba/tqa1.pdf",
+      "pdf_size_bytes": 19781901
     },
     {
       "id": "tafsir_ibn_kathir_en",
@@ -626,7 +708,9 @@
       "chapter_count": 111,
       "total_size_bytes": 7840857,
       "source": "tafsir-api",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/20220616_20220616_1958/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A8%D8%BA%D9%88%D9%8A.pdf",
+      "pdf_size_bytes": 38507826
     },
     {
       "id": "tafsir_al_tustari_en",
@@ -642,7 +726,7 @@
     },
     {
       "id": "tafsir_al_jalalayn_en",
-      "title_ar": "تفسير الجلالين (إنجليزي)",
+      "title_ar": "تفسير الجلالين",
       "title_en": "Tafsir al-Jalalayn",
       "author_ar": "جلال الدين المحلي وجلال الدين السيوطي",
       "author_en": "Al-Jalalayn",
@@ -650,7 +734,9 @@
       "chapter_count": 114,
       "total_size_bytes": 2803993,
       "source": "tafsir-api",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/islamicbooks-4u.com_20260313_0455/%5Bislamicbooks4u.com%5D%20-%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%D9%8A%D9%86%20-%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB.pdf",
+      "pdf_size_bytes": 31250946
     },
     {
       "id": "tafsir_al_saadi",
@@ -686,7 +772,9 @@
       "chapter_count": 114,
       "total_size_bytes": 20334296,
       "source": "tafsir-api",
-      "featured": true
+      "featured": true,
+      "pdf_url": "https://archive.org/download/AAlexandrina-122934/122934_%D8%AA%D9%81%D8%B3%D9%8A%D8%B1_%D8%A7%D9%84%D9%82%D8%B1%D8%B7%D8%A8%D9%89_%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9_%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.pdf",
+      "pdf_size_bytes": 109285166
     },
     {
       "id": "tafsir_al_qushairi_en",
@@ -770,7 +858,9 @@
       "chapter_count": 191,
       "total_size_bytes": 7936328,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/ihya-ulum/Vol%201.pdf",
+      "pdf_size_bytes": 17024178
     },
     {
       "id": "ighathat_al_lahfan",
@@ -818,7 +908,9 @@
       "chapter_count": 21,
       "total_size_bytes": 417466,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/20190804_20190804_1515/%D8%A7%D9%84%D9%88%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B5%D9%8A%D8%A8%20%D9%85%D9%86%20%D8%A7%D9%84%D9%83%D9%84%D9%85%20%D8%A7%D9%84%D8%B7%D9%8A%D8%A8%20-%20%D8%A7%D8%A8%D9%86%20%D9%82%D9%8A%D9%85%20%D8%A7%D9%84%D8%AC%D9%88%D8%B2%D9%8A%D8%A9.pdf",
+      "pdf_size_bytes": 8877335
     },
     {
       "id": "bidayat_al_hidaya",
@@ -890,7 +982,37 @@
       "chapter_count": 159,
       "total_size_bytes": 3827858,
       "source": "openiti",
-      "featured": false
+      "featured": false,
+      "pdf_url": "https://archive.org/download/BBib-Alex-17292/%D9%85%D8%AF%D8%A7%D8%B1%D8%AC_%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%83%D9%8A%D9%86_%D8%A8%D9%8A%D9%86_%D9%85%D9%86%D8%A7%D8%B2%D9%84_%D8%A5%D9%8A%D8%A7%D9%83_%D9%86%D8%B9%D8%A8%D8%AF_%D9%88_%D8%A5%D9%8A%D8%A7%D9%83_%D9%86%D8%B3%D8%AA%D8%B9%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_03_17292.pdf",
+      "pdf_size_bytes": 13646411
+    },
+    {
+      "id": "al_bidaya_wal_nihaya",
+      "title_ar": "البداية والنهاية",
+      "title_en": "Al-Bidaya wal-Nihaya",
+      "author_ar": "الحافظ ابن كثير",
+      "author_en": "Hafiz Ibn Kathir",
+      "category": "tarikh",
+      "chapter_count": 0,
+      "total_size_bytes": 0,
+      "source": "archive",
+      "featured": true,
+      "pdf_url": "https://archive.org/download/20250214_20250214_1538/%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D9%83%D8%A7%D9%85%D9%84%D8%A7_%D8%A7%D8%A8%D9%86_%D9%83%D8%AB%D9%8A%D8%B1_%D8%B7_%D8%A3%D9%88%D9%82%D8%A7%D9%81_%D9%82%D8%B7%D8%B1.pdf",
+      "pdf_size_bytes": 198372528
+    },
+    {
+      "id": "tarikh_al_tabari",
+      "title_ar": "تاريخ الأمم والملوك",
+      "title_en": "Tarikh al-Tabari",
+      "author_ar": "الإمام الطبري",
+      "author_en": "Imam al-Tabari",
+      "category": "tarikh",
+      "chapter_count": 0,
+      "total_size_bytes": 0,
+      "source": "archive",
+      "featured": false,
+      "pdf_url": "https://archive.org/download/20200825_20200825_1436/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%A3%D9%85%D9%85%20%D9%88%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83%20%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B7%D8%A8%D8%B1%D9%8A.pdf",
+      "pdf_size_bytes": 65207922
     }
   ]
 }
