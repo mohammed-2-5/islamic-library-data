@@ -1,0 +1,202 @@
+[
+  {
+    "id": "adam",
+    "nameAr": "آدم عليه السلام",
+    "nameEn": "Adam (peace be upon him)",
+    "order": 1,
+    "summaryAr": "أبو البشرية، خلقه الله بيده من طين ونفخ فيه من روحه، وعلّمه الأسماء كلها، وأسجد له الملائكة، وأسكنه الجنة ثم أهبطه خليفةً في الأرض",
+    "summaryEn": "Father of humanity, created by Allah from clay, taught all the names, honored by the prostration of angels, placed in Paradise then sent to Earth as a vicegerent"
+  },
+  {
+    "id": "idris",
+    "nameAr": "إدريس عليه السلام",
+    "nameEn": "Idris (Enoch, peace be upon him)",
+    "order": 2,
+    "summaryAr": "أول من خطّ بالقلم وخاط الثياب، رفعه الله مكاناً علياً في السماء الرابعة، وكان صدّيقاً نبياً",
+    "summaryEn": "The first to write with a pen and sew garments, raised by Allah to a high station in the fourth heaven, a man of truth and a prophet"
+  },
+  {
+    "id": "nuh",
+    "nameAr": "نوح عليه السلام",
+    "nameEn": "Nuh (Noah, peace be upon him)",
+    "order": 3,
+    "summaryAr": "أول رسول إلى أهل الأرض، لبث في قومه ألف سنة إلا خمسين عاماً يدعوهم، فأنجاه الله في السفينة وأغرق المكذبين",
+    "summaryEn": "The first messenger sent to the people of Earth, he called his people for 950 years, then Allah saved him in the Ark and drowned the deniers"
+  },
+  {
+    "id": "hud",
+    "nameAr": "هود عليه السلام",
+    "nameEn": "Hud (peace be upon him)",
+    "order": 4,
+    "summaryAr": "أُرسل إلى قوم عاد في الأحقاف، وكانوا أشد الناس أجساماً وأعظمهم بنياناً، فكذّبوه فأهلكهم الله بريح صرصر عاتية",
+    "summaryEn": "Sent to the people of 'Ad in Al-Ahqaf, who were the mightiest in stature and greatest in construction, they denied him so Allah destroyed them with a furious wind"
+  },
+  {
+    "id": "salih",
+    "nameAr": "صالح عليه السلام",
+    "nameEn": "Salih (peace be upon him)",
+    "order": 5,
+    "summaryAr": "أُرسل إلى قوم ثمود الذين نحتوا البيوت في الجبال، وآتاه الله الناقة آيةً فعقروها فأخذتهم الصيحة",
+    "summaryEn": "Sent to the people of Thamud who carved homes in the mountains, Allah gave him the she-camel as a sign but they hamstrung her, so the blast seized them"
+  },
+  {
+    "id": "ibrahim",
+    "nameAr": "إبراهيم عليه السلام",
+    "nameEn": "Ibrahim (Abraham, peace be upon him)",
+    "order": 6,
+    "summaryAr": "خليل الرحمن وأبو الأنبياء، حطّم الأصنام وألقي في النار فجعلها الله برداً وسلاماً، وبنى الكعبة مع ابنه إسماعيل",
+    "summaryEn": "The Close Friend of Allah and Father of the Prophets, he smashed the idols and was thrown into the fire which Allah made cool and safe, and he built the Ka'bah with his son Ismail"
+  },
+  {
+    "id": "lut",
+    "nameAr": "لوط عليه السلام",
+    "nameEn": "Lut (Lot, peace be upon him)",
+    "order": 7,
+    "summaryAr": "ابن أخي إبراهيم، أُرسل إلى أهل سدوم الذين ابتدعوا الفاحشة، فأهلكهم الله بحجارة من سجيل ونجّى لوطاً وأهله",
+    "summaryEn": "Nephew of Ibrahim, sent to the people of Sodom who committed unprecedented immorality, Allah destroyed them with stones of baked clay and saved Lut and his family"
+  },
+  {
+    "id": "ismail",
+    "nameAr": "إسماعيل عليه السلام",
+    "nameEn": "Ismail (Ishmael, peace be upon him)",
+    "order": 8,
+    "summaryAr": "الذبيح الصابر، ابن إبراهيم من هاجر، نشأ في مكة وساعد أباه في بناء الكعبة، وكان صادق الوعد وأبو العرب",
+    "summaryEn": "The patient sacrifice, son of Ibrahim and Hajar, grew up in Makkah and helped his father build the Ka'bah, true to his promise and father of the Arabs"
+  },
+  {
+    "id": "ishaq",
+    "nameAr": "إسحاق عليه السلام",
+    "nameEn": "Ishaq (Isaac, peace be upon him)",
+    "order": 9,
+    "summaryAr": "ابن إبراهيم من سارة، بُشّر به أبواه وهما شيخان كبيران، وجعله الله نبياً من الصالحين وأبو يعقوب",
+    "summaryEn": "Son of Ibrahim and Sarah, his parents received glad tidings of him in old age, Allah made him a prophet among the righteous and father of Yaqub"
+  },
+  {
+    "id": "yaqub",
+    "nameAr": "يعقوب عليه السلام",
+    "nameEn": "Yaqub (Jacob, peace be upon him)",
+    "order": 10,
+    "summaryAr": "إسرائيل، ابن إسحاق وأبو الأسباط الاثني عشر، ابتلي بفراق ابنه يوسف فصبر صبراً جميلاً حتى ردّه الله إليه",
+    "summaryEn": "Israel, son of Ishaq and father of the twelve tribes, tested with separation from his son Yusuf, he showed beautiful patience until Allah reunited them"
+  },
+  {
+    "id": "yusuf",
+    "nameAr": "يوسف عليه السلام",
+    "nameEn": "Yusuf (Joseph, peace be upon him)",
+    "order": 11,
+    "summaryAr": "أحسن القصص، ألقاه إخوته في البئر فصار عزيز مصر، أُوتي شطر الحسن وعلم تأويل الأحاديث",
+    "summaryEn": "The best of stories, cast into a well by his brothers yet became the Aziz of Egypt, given half of beauty and the knowledge of dream interpretation"
+  },
+  {
+    "id": "ayyub",
+    "nameAr": "أيوب عليه السلام",
+    "nameEn": "Ayyub (Job, peace be upon him)",
+    "order": 12,
+    "summaryAr": "مثال الصبر على البلاء، ابتلاه الله في ماله وولده وجسده فصبر حتى كشف الله ضرّه وآتاه أهله ومثلهم معهم",
+    "summaryEn": "The exemplar of patience in trial, Allah tested him in wealth, children and health, he persevered until Allah removed his affliction and restored his family twofold"
+  },
+  {
+    "id": "dhul_kifl",
+    "nameAr": "ذو الكفل عليه السلام",
+    "nameEn": "Dhul-Kifl (peace be upon him)",
+    "order": 13,
+    "summaryAr": "ذُكر في القرآن مع الصابرين، تكفّل بأمر قومه بعد نبي قبله فأوفى بعهده وكان من الأخيار",
+    "summaryEn": "Mentioned in the Quran among the patient, he undertook responsibility for his people after a prophet before him, fulfilled his pledge, and was among the chosen"
+  },
+  {
+    "id": "shuaib",
+    "nameAr": "شعيب عليه السلام",
+    "nameEn": "Shuaib (peace be upon him)",
+    "order": 14,
+    "summaryAr": "خطيب الأنبياء، أُرسل إلى أهل مدين وأصحاب الأيكة الذين كانوا يبخسون المكيال والميزان",
+    "summaryEn": "The orator of the prophets, sent to the people of Madyan and the Companions of the Thicket who used to cheat in weights and measures"
+  },
+  {
+    "id": "musa",
+    "nameAr": "موسى عليه السلام",
+    "nameEn": "Musa (Moses, peace be upon him)",
+    "order": 15,
+    "summaryAr": "كليم الله، أكثر الأنبياء ذكراً في القرآن، أنقذ بني إسرائيل من فرعون وأُنزلت عليه التوراة في ألواح",
+    "summaryEn": "The one who spoke directly to Allah, the most mentioned prophet in the Quran, saved the Children of Israel from Pharaoh and received the Torah on tablets"
+  },
+  {
+    "id": "harun",
+    "nameAr": "هارون عليه السلام",
+    "nameEn": "Harun (Aaron, peace be upon him)",
+    "order": 16,
+    "summaryAr": "أخو موسى ووزيره، أفصح منه لساناً، شدّ الله به أزر أخيه في مواجهة فرعون",
+    "summaryEn": "Brother and minister of Musa, more eloquent in speech, Allah strengthened Musa through him in confronting Pharaoh"
+  },
+  {
+    "id": "dawud",
+    "nameAr": "داود عليه السلام",
+    "nameEn": "Dawud (David, peace be upon him)",
+    "order": 17,
+    "summaryAr": "النبي الملك، قتل جالوت وألان الله له الحديد، أُوتي الزبور وكان أحسن الناس صوتاً بالتسبيح",
+    "summaryEn": "The prophet-king, he killed Goliath, Allah softened iron for him, was given the Psalms and had the most beautiful voice in glorifying Allah"
+  },
+  {
+    "id": "sulaiman",
+    "nameAr": "سليمان عليه السلام",
+    "nameEn": "Sulaiman (Solomon, peace be upon him)",
+    "order": 18,
+    "summaryAr": "ملك لا ينبغي لأحد من بعده، سخّر الله له الريح والجن وعلّمه منطق الطير والنمل",
+    "summaryEn": "A king whose like would never come after, Allah subjected the wind and jinn to him and taught him the language of birds and ants"
+  },
+  {
+    "id": "ilyas",
+    "nameAr": "إلياس عليه السلام",
+    "nameEn": "Ilyas (Elijah, peace be upon him)",
+    "order": 19,
+    "summaryAr": "أُرسل إلى بني إسرائيل حين عبدوا الصنم بعلاً، دعاهم إلى التوحيد فكذّبوه إلا قليلاً",
+    "summaryEn": "Sent to the Children of Israel when they worshipped the idol Ba'l, called them to monotheism but only a few believed"
+  },
+  {
+    "id": "alyasa",
+    "nameAr": "اليسع عليه السلام",
+    "nameEn": "Al-Yasa (Elisha, peace be upon him)",
+    "order": 20,
+    "summaryAr": "خليفة إلياس في بني إسرائيل، فُضّل على العالمين وكان من الأخيار الصابرين",
+    "summaryEn": "Successor of Ilyas among the Children of Israel, favored above all people and was among the chosen and patient"
+  },
+  {
+    "id": "yunus",
+    "nameAr": "يونس عليه السلام",
+    "nameEn": "Yunus (Jonah, peace be upon him)",
+    "order": 21,
+    "summaryAr": "صاحب الحوت، ذهب مغاضباً فالتقمه الحوت فسبّح في الظلمات فنجّاه الله وآمن قومه جميعاً",
+    "summaryEn": "Companion of the whale, he departed in anger and was swallowed by the whale, he glorified Allah in the darkness and was saved, and his entire people believed"
+  },
+  {
+    "id": "zakariyya",
+    "nameAr": "زكريا عليه السلام",
+    "nameEn": "Zakariyya (Zechariah, peace be upon him)",
+    "order": 22,
+    "summaryAr": "كفل مريم وكان يجد عندها رزقاً من الله، دعا ربه فرزقه يحيى على كبره",
+    "summaryEn": "Guardian of Maryam who found provision from Allah with her, prayed to his Lord and was granted Yahya in his old age"
+  },
+  {
+    "id": "yahya",
+    "nameAr": "يحيى عليه السلام",
+    "nameEn": "Yahya (John, peace be upon him)",
+    "order": 23,
+    "summaryAr": "سمّاه الله باسم لم يجعل له من قبل سمياً، آتاه الحكم صبياً وكان حصوراً تقياً سيداً",
+    "summaryEn": "Named by Allah with a name never given before, granted wisdom as a child, was chaste, pious, and a noble leader"
+  },
+  {
+    "id": "isa",
+    "nameAr": "عيسى عليه السلام",
+    "nameEn": "Isa (Jesus, peace be upon him)",
+    "order": 24,
+    "summaryAr": "روح الله وكلمته ألقاها إلى مريم، ولد من غير أب، تكلّم في المهد وأيّده الله بالمعجزات، ورفعه الله إليه",
+    "summaryEn": "The Spirit and Word of Allah cast unto Maryam, born without a father, spoke in the cradle, supported with miracles, and raised by Allah unto Himself"
+  },
+  {
+    "id": "muhammad",
+    "nameAr": "محمد ﷺ",
+    "nameEn": "Muhammad (peace and blessings be upon him)",
+    "order": 25,
+    "summaryAr": "خاتم النبيين وسيد المرسلين، أُرسل رحمة للعالمين بالقرآن الكريم، هاجر من مكة إلى المدينة وأقام دولة الإسلام",
+    "summaryEn": "The Seal of the Prophets and Master of the Messengers, sent as a mercy to all worlds with the Noble Quran, migrated from Makkah to Madinah and established the Islamic state"
+  }
+]

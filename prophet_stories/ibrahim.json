@@ -1,0 +1,127 @@
+{
+  "prophet": "إبراهيم عليه السلام",
+  "adult": [
+    {
+      "id": 1,
+      "titleAr": "النشأة في بابل وصراع الفطرة",
+      "titleEn": "Upbringing in Babylon and the Struggle of Nature",
+      "contentAr": "وُلد الخليل إبراهيم في أرض بابل بالعراق، في بيئة ساد فيها الشرك وعبادة الأصنام والكواكب. كان والده 'آزر' نحاتاً يصنع التماثيل ويبيعها، لكن إبراهيم أُوتي رشده منذ صغره، فبدأ بمحاورة والده بلطف: ﴿يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ﴾، فواجهه آزر بالتهديد، فما كان من إبراهيم إلا الصبر والاستغفار له اعتزالاً لشركهم.",
+      "contentEn": "Ibrahim was born in Babylon, Iraq, in an environment dominated by polytheism and the worship of idols and celestial bodies. His father, Azar, was a sculptor who made and sold idols. However, Ibrahim was granted wisdom from a young age and began questioning his father gently: 'O my father, why do you worship that which neither hears nor sees?' Azar responded with threats, but Ibrahim remained patient, seeking forgiveness for him while withdrawing from their shirk.",
+      "quranReferences": ["مريم 41-48", "الأنبياء 51"]
+    },
+    {
+      "id": 2,
+      "titleAr": "المناظرة الكونية: الرب لا يغيب",
+      "titleEn": "Celestial Debate: The Lord Never Sets",
+      "contentAr": "أقام إبراهيم الحجة على عبدة الكواكب بأسلوب عقلي باهر؛ فتظاهر بموافقتهم في النظر للكوكب ثم القمر ثم الشمس، وفي كل مرة يغيب فيها الجرم يقول: ﴿لَا أُحِبُّ الْآفِلِينَ﴾. يوضح ابن كثير أن إبراهيم لم يكن شاكاً، بل كان في مقام المناظرة ليثبت لقومه أن الإله لا يجوز عليه التغير أو الغياب، وأن الخالق هو الذي سيّر هذه الأجرام.",
+      "contentEn": "Ibrahim used a brilliant rational method to argue against star-worshippers. He pretended to observe the stars, then the moon, then the sun, and each time a celestial body set, he said: 'I do not like those that set.' Ibn Kathir clarifies that Ibrahim was not doubting but debating to prove that a deity cannot change or disappear, and that the Creator is the one who directs these bodies.",
+      "quranReferences": ["الأنعام 74-79"]
+    },
+    {
+      "id": 3,
+      "titleAr": "يوم العيد وحطام الأصنام",
+      "titleEn": "The Day of the Festival and the Broken Idols",
+      "contentAr": "تحيّن إبراهيم خروج قومه لعيدهم، وتسلل للمعبد الكبير وحطم الأصنام جميعاً إلا كبيرهم، وعلّق الفأس في عنقه. حين عادوا وواجهوه، قال بذكاء: ﴿بَلْ فَعَلَهُ كَبِيرُهُمْ هَٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ﴾. اعترف القوم بعجز آلهتهم في أنفسهم، لكن كبرهم دفعهم للانتقام منه بإلقائه في النار.",
+      "contentEn": "Ibrahim waited for his people to leave for their festival, entered the temple, and smashed all the idols except the largest one, hanging the axe around its neck. When they returned and confronted him, he said cleverly: 'Rather, this largest of them did it, so ask them if they can speak.' The people internally acknowledged their idols' helplessness, but their pride drove them to seek revenge by throwing him into the fire.",
+      "quranReferences": ["الأنبياء 57-65", "الصافات 88-93"]
+    },
+    {
+      "id": 4,
+      "titleAr": "برد المنجنيق: معجزة الخليل",
+      "titleEn": "Coolness of the Catapult: The Miracle of the Friend",
+      "contentAr": "أوقد القوم ناراً هائلة ووضعوا إبراهيم في المنجنيق. يروي ابن كثير أن جبريل سأله في الهواء: 'ألك حاجة؟' فقال الخليل: 'أما إليك فلا، وأما إلى الله فبلى'، ونطق: 'حسبي الله ونعم الوكيل'. فصدر الأمر الإلهي: ﴿يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ﴾. فخرج منها سالماً أمام ذهول الجميع.",
+      "contentEn": "The people lit a massive fire and placed Ibrahim in a catapult. Ibn Kathir narrates that Gabriel asked him mid-air: 'Do you have any need?' Ibrahim replied: 'From you, no; but from Allah, yes,' and uttered: 'Allah is sufficient for me, and He is the best Disposer of affairs.' The divine command was issued: 'O fire, be coolness and peace upon Ibrahim.' He emerged safe to everyone's astonishment.",
+      "quranReferences": ["الأنبياء 68-70", "الصافات 97-98"]
+    },
+    {
+      "id": 5,
+      "titleAr": "مناظرة الطاغية النمرود",
+      "titleEn": "Debating the Tyrant Nimrod",
+      "contentAr": "واجه إبراهيم الملك النمرود الذي ادعى الربوبية. قال إبراهيم: 'ربي الذي يحيي ويميت'، فادعى النمرود أنه يفعل ذلك بقتل وعفو. فبهته إبراهيم بالحجة: ﴿فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ﴾. هنا انقطع كلام الطاغية، وخرج إبراهيم مهاجراً إلى الشام ثم مصر.",
+      "contentEn": "Ibrahim faced King Nimrod, who claimed divinity. Ibrahim said: 'My Lord is He who gives life and causes death,' and Nimrod claimed he could do the same by killing or sparing. Ibrahim silenced him with the ultimate proof: 'Indeed, Allah brings the sun from the east, so bring it from the west.' The tyrant was speechless, and Ibrahim migrated to Sham then Egypt.",
+      "quranReferences": ["البقرة 258"]
+    },
+    {
+      "id": 6,
+      "titleAr": "صحراء مكة وتفجر زمزم",
+      "titleEn": "The Desert of Makkah and the Bursting of Zamzam",
+      "contentAr": "أمر الله إبراهيم أن يترك زوجته هاجر وابنه الرضيع إسماعيل في وادٍ مقفر بمكة. سألته هاجر: 'آلله أمرك بهذا؟' قال: 'نعم'، فقالت: 'إذن لا يضيعنا'. فجر الله بئر زمزم تحت قدمي الرضيع بعد سعي هاجر بين الصفا والمروة، وبدأت مكة تعمر ببركة دعاء الخليل.",
+      "contentEn": "Allah commanded Ibrahim to leave his wife Hajar and infant son Ismail in a barren valley in Makkah. Hajar asked: 'Did Allah command you to do this?' He said: 'Yes,' and she replied: 'Then He will not let us perish.' Allah caused the Zamzam well to gush beneath the infant's feet after Hajar ran between Safa and Marwa, and Makkah began to flourish through the Prophet's blessing.",
+      "quranReferences": ["إبراهيم 37"]
+    },
+    {
+      "id": 7,
+      "titleAr": "الذبح العظيم: قمة الاستسلام",
+      "titleEn": "The Great Sacrifice: The Peak of Submission",
+      "contentAr": "جاء الابتلاء في رؤيا ذبح ابنه إسماعيل. استسلم الأب والابن لأمر الله، وحين وضع إبراهيم السكين وتله للجبين، ناداه الله: ﴿قَدْ صَدَّقْتَ الرُّؤْيَا﴾. وفداه الله بذبح (كبش) عظيم من الجنة، لتصبح هذه الذكرى عيداً للمسلمين وسنة متبعة.",
+      "contentEn": "The trial came in a vision of sacrificing his son Ismail. Both father and son submitted to Allah’s command, and as Ibrahim placed the knife, Allah called him: 'You have fulfilled the vision.' Allah ransomed him with a great sacrifice (a ram) from Paradise, turning this memory into an Eid and an established tradition for Muslims.",
+      "quranReferences": ["الصافات 102-107"]
+    },
+    {
+      "id": 8,
+      "titleAr": "بناء الكعبة والأذان بالحج",
+      "titleEn": "Building the Ka'bah and the Call to Hajj",
+      "contentAr": "أمر الله إبراهيم وإسماعيل برفع قواعد البيت الحرام، وكانا يدعوان: ﴿رَبَّنَا تَقَبَّلْ مِنَّا﴾. جعل الله 'مقام إبراهيم' آية بينة، ثم أمره الله أن يؤذن في الناس بالحج، فبلغ صوته الآفاق، ولبت الأرواح نداء الخليل من كل مكان.",
+      "contentEn": "Allah commanded Ibrahim and Ismail to raise the foundations of the Sacred House, while they prayed: 'Our Lord, accept from us.' Allah made the 'Station of Ibrahim' a clear sign, then commanded him to call people to Hajj. His voice reached the horizons, and souls from everywhere answered his call.",
+      "quranReferences": ["البقرة 127", "الحج 27"]
+    },
+    {
+      "id": 9,
+      "titleAr": "وفاة الخليل وإرث النبوة",
+      "titleEn": "Death of the Friend and the Prophetic Legacy",
+      "contentAr": "توفي الخليل عليه السلام بمدينة الخليل بفلسطين ودُفن في المغارة التي تُعرف اليوم بالمسجد الإبراهيمي. ترك إبراهيم إرثاً لا ينقطع؛ فكل الأنبياء من بعده من نسله، وسماه الله 'أمة' وحده، وجعل ملته هي الحنيفية السمحاء التي بعث بها خاتم الأنبياء محمد ﷺ.",
+      "contentEn": "The Prophet (Khalil) died in Hebron, Palestine, and was buried in the cave now known as the Ibrahimi Mosque. Ibrahim left an unending legacy; all prophets after him were of his lineage. Allah called him an 'Ummah' (nation) in himself and established his faith as the upright path on which the final Prophet Muhammad was sent.",
+      "quranReferences": ["النحل 120-123", "البقرة 130-135"]
+    }
+  ],
+  "kids": [
+    {
+      "id": 1,
+      "titleAr": "إبراهيم والنجوم المنورة",
+      "titleEn": "Ibrahim and the Shining Stars",
+      "contentAr": "كان يا مكان، زمان كان فيه ناس بتعبد حجارة مابتتكلمش! إبراهيم كان ذكي جداً، فضل يبص للسماء ويقول: 'إزاي الحجارة دي تكون ربنا؟'. شاف نجمة منورة، وغابت.. وشاف القمر، وغاب.. وشاف الشمس، وغابت! عرف إن ربنا هو اللي خلق كل دول، وإن ربنا موجود دايماً مابينامش ومابيغيبش أبداً.",
+      "contentEn": "Once upon a time, there were people who worshipped stones that couldn't talk! Ibrahim was very smart. He looked at the sky and asked: 'How can these stones be God?' He saw a shining star, and it set. He saw the moon, and it set. He saw the sun, and it set! He realized that Allah created all of these, and that Allah is always present, never sleeps, and never disappears.",
+      "quranReferences": ["الأنعام 76"]
+    },
+    {
+      "id": 2,
+      "titleAr": "الفأس الكبيرة والأصنام",
+      "titleEn": "The Big Axe and the Idols",
+      "contentAr": "إبراهيم حب يوري الناس إن التماثيل دي ضعيفة. كسر كل الأصنام بفأس كبيرة، وساب أكبر صنم وحط الفأس على رقبته! لما الناس سألوه: 'أنت اللي عملت كدة؟'. قالهم: 'اسألوا الصنم الكبير لو بيعرف يتكلم!'. الناس سكتوا لأنهم عارفين إن الحجارة مابتتكلمش، بس برضه عاندوا.",
+      "contentEn": "Ibrahim wanted to show the people that the statues were weak. He broke all the idols with a big axe, except for the largest one, and hung the axe around its neck! When the people asked: 'Did you do this?' He told them: 'Ask the big idol if it can speak!' The people were silent because they knew the stones couldn't talk, but they still stubbornly resisted.",
+      "quranReferences": ["الأنبياء 63"]
+    },
+    {
+      "id": 3,
+      "titleAr": "النار اللي بقت ساقعة وجميلة",
+      "titleEn": "The Fire That Became Cool and Beautiful",
+      "contentAr": "الناس الأشرار رموا إبراهيم في نار كبيرة أوي، بس ربنا أمر النار وقالها: 'يا نار كوني برداً وسلاماً على إبراهيم'. النار اللي بتحرق، بقت باردة وجميلة، وملمستش منه شعرة واحدة. إبراهيم خرج من النار سليم ومبسوط عشان كان واثق في ربنا جداً وبيقول: 'حسبي الله ونعم الوكيل'.",
+      "contentEn": "The evil people threw Ibrahim into a huge fire, but Allah commanded the fire: 'O fire, be coolness and peace upon Ibrahim.' The fire that usually burns became cool and pleasant, and not a single hair of his was touched. Ibrahim emerged from the fire safe and happy because he trusted Allah completely and said: 'Allah is sufficient for me.'",
+      "quranReferences": ["الأنبياء 69"]
+    },
+    {
+      "id": 4,
+      "titleAr": "ماما هاجر ومية زمزم",
+      "titleEn": "Mother Hajar and Zamzam Water",
+      "contentAr": "ربنا أمر إبراهيم ياخد 'ماما هاجر' وابنه الصغير 'إسماعيل' لمكان في الصحراء (مكة). ماما هاجر قالت بكل ثقة: 'ربنا مش هيضيعنا'. لما إسماعيل عطش، ربنا طلع مية من تحت رجليه الصغيرين، وهي دي مية 'زمزم' اللي بنحب نشربها لحد النهاردة.",
+      "contentEn": "Allah commanded Ibrahim to take Mother Hajar and little Ismail to a place in the desert (Makkah). Hajar said confidently: 'Allah will not let us perish.' When Ismail got thirsty, Allah brought water out from under his little feet, and that is the Zamzam water we love to drink to this day.",
+      "quranReferences": ["إبراهيم 37"]
+    },
+    {
+      "id": 5,
+      "titleAr": "الخروف الجميل اللي نزل من السماء",
+      "titleEn": "The Beautiful Ram That Came From Heaven",
+      "contentAr": "ربنا اختبر إبراهيم في حبه لابنه إسماعيل. وأول ما إبراهيم جه ينفذ أمر ربنا، ربنا فدى إسماعيل بخروف كبير وجميل نزل من السماء. وعشان كدة إحنا بنذبح في عيد الأضحى وبنوزع اللحمة على الناس وبنفرح كلنا بالكبش الجميل.",
+      "contentEn": "Allah tested Ibrahim’s love for his son Ismail. Just as Ibrahim was about to obey Allah’s command, Allah ransomed Ismail with a large, beautiful ram that came from heaven. That is why we sacrifice during Eid al-Adha and share the meat with people, and we all celebrate the beautiful ram.",
+      "quranReferences": ["الصافات 107"]
+    },
+    {
+      "id": 6,
+      "titleAr": "بناء الكعبة وأجمل بيت",
+      "titleEn": "Building the Ka'bah and the Most Beautiful House",
+      "contentAr": "إبراهيم وإسماعيل بنوا 'الكعبة' حجر فوق حجر، وهما بيقولوا: 'يا رب تقبل منا'. الكعبة هي بيت ربنا اللي بنروح نزوره في الحج وبنصلي ناحيته كل يوم. سيدنا إبراهيم بقى اسمه 'خليل الله' القريب منه جداً عشان كان بيسمع كلام ربنا في كل حاجة.",
+      "contentEn": "Ibrahim and Ismail built the Ka'bah stone by stone, saying: 'Our Lord, accept from us.' The Ka'bah is Allah’s house that we visit for Hajj and face in prayer every day. Prophet Ibrahim became known as 'Khalilullah' (Friend of Allah) because he listened to Allah in everything.",
+      "quranReferences": ["البقرة 127"]
+    }
+  ]
+}
