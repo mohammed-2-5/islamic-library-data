@@ -1,240 +1,128 @@
 {
   "book_id": "nasai",
   "chapter_id": 29,
-  "original_chapter_id": 28,
-  "title_ar": "كتاب الخيل",
-  "title_en": "The Book of Horses, Races and Shooting",
+  "original_chapter_id": 29,
+  "title_ar": "كتاب الإحباس",
+  "title_en": "The Book of Endowments",
   "entries": [
     {
-      "id": 3569,
-      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدِ الْوَاحِدِ، قَالَ حَدَّثَنَا مَرْوَانُ، - وَهُوَ ابْنُ مُحَمَّدٍ - قَالَ حَدَّثَنَا خَالِدُ بْنُ يَزِيدَ بْنِ صَالِحِ بْنِ صَبِيحٍ الْمُرِّيُّ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ أَبِي عَبْلَةَ، عَنِ الْوَلِيدِ بْنِ عَبْدِ الرَّحْمَنِ الْجُرَشِيِّ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ سَلَمَةَ بْنِ نُفَيْلٍ الْكِنْدِيِّ، قَالَ كُنْتُ جَالِسًا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ رَجُلٌ يَا رَسُولَ اللَّهِ أَذَالَ النَّاسُ الْخَيْلَ وَوَضَعُوا السِّلاَحَ وَقَالُوا لاَ جِهَادَ قَدْ وَضَعَتِ الْحَرْبُ أَوْزَارَهَا فَأَقْبَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِوَجْهِهِ وَقَالَ \" كَذَبُوا الآنَ الآنَ جَاءَ الْقِتَالُ وَلاَ يَزَالُ مِنْ أُمَّتِي أُمَّةٌ يُقَاتِلُونَ عَلَى الْحَقِّ وَيُزِيغُ اللَّهُ لَهُمْ قُلُوبَ أَقْوَامٍ وَيَرْزُقُهُمْ مِنْهُمْ حَتَّى تَقُومَ السَّاعَةُ وَحَتَّى يَأْتِيَ وَعْدُ اللَّهِ وَالْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ وَهُوَ يُوحَى إِلَىَّ أَنِّي مَقْبُوضٌ غَيْرَ مُلَبَّثٍ وَأَنْتُمْ تَتَّبِعُونِي أَفْنَادًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ وَعُقْرُ دَارِ الْمُؤْمِنِينَ الشَّامُ \" .",
-      "text_en": "\"I was sitting with the Messenger of Allah when a man said: 'O Messenger of Allah! The people have lost interest in horses and put down their weapons, and they say there is no Jihad, and that war has ended.' The Messenger of Allah turned to face him and said: 'They are lying, now the fighting is to come. There will always be a group among my Ummah who will fight for the truth, for whom Allah will cause some people to deviate, and grant them provision from them, until the Hour begins and until the promise of Allah comes. Goodness is tied to the forelocks of horses until the Day of Resurrection. It has been revealed to me that I am going to die and will not stay long, and you will follow me group after group, striking one another's necks. And the place of safety for the believers is Ash-Sham.'\"",
-      "narrator": "It was narrated that Salamah bin Nufail Al-Kindi said:",
-      "reference": "Hadith 3569"
+      "id": 3602,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ الْحَارِثِ، قَالَ مَا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم دِينَارًا وَلاَ دِرْهَمًا وَلاَ عَبْدًا وَلاَ أَمَةً إِلاَّ بَغْلَتَهُ الشَّهْبَاءَ الَّتِي كَانَ يَرْكَبُهَا وَسِلاَحَهُ وَأَرْضًا جَعَلَهَا فِي سَبِيلِ اللَّهِ . وَقَالَ قُتَيْبَةُ مَرَّةً أُخْرَى صَدَقَةً .",
+      "text_en": "\"The Messenger of Allah did not leave behind a Dinar nor a Dirham, or any slave, male or female; except his white mule which he used to ride, his weapon and some land which he left to be used for the cause of Allah.\" (One of the narrators) Qutaibah said on one occasion: \"In charity.\"",
+      "narrator": "It was narrated that 'Amr bin Al-Harith said:",
+      "reference": "Hadith 3602"
     },
     {
-      "id": 3570,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ يَحْيَى بْنِ الْحَارِثِ، قَالَ حَدَّثَنَا مَحْبُوبُ بْنُ مُوسَى، قَالَ حَدَّثَنَا أَبُو إِسْحَاقَ، - يَعْنِي الْفَزَارِيَّ - عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ الْخَيْلُ ثَلاَثَةٌ فَهِيَ لِرَجُلٍ أَجْرٌ وَهِيَ لِرَجُلٍ سَتْرٌ وَهِيَ عَلَى رَجُلٍ وِزْرٌ فَأَمَّا الَّذِي هِيَ لَهُ أَجْرٌ فَالَّذِي يَحْتَبِسُهَا فِي سَبِيلِ اللَّهِ فَيَتَّخِذُهَا لَهُ وَلاَ تُغَيِّبُ فِي بُطُونِهَا شَيْئًا إِلاَّ كُتِبَ لَهُ بِكُلِّ شَىْءٍ غَيَّبَتْ فِي بُطُونِهَا أَجْرٌ وَلَوْ عَرَضَتْ لَهُ مَرْجٌ \" . وَسَاقَ الْحَدِيثَ .",
-      "text_en": "\"The Messenger of Allah said: 'There is goodness tied to the forelocks of horses until the Day of Resurrection. And horses are of three types: Those that bring reward to man, those that are a means of protection for a man, and those that are a burden (of sin) for a man. As for those that bring reward, they are kept for the cause of Allah and for Jihad. No fodder enters their stomach but for everything that enters their stomachs, reward is written for him, even if he puts them out to pasture.'\" And he quoted the Hadith.",
-      "narrator": "It was narrated that Abu Hurairah said:",
-      "reference": "Hadith 3570"
+      "id": 3603,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي أَبُو إِسْحَاقَ، قَالَ سَمِعْتُ عَمْرَو بْنَ الْحَارِثِ، يَقُولُ مَا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلاَّ بَغْلَتَهُ الْبَيْضَاءَ وَسِلاَحَهُ وَأَرْضًا تَرَكَهَا صَدَقَةً .",
+      "text_en": "\"I heard 'Amr bin Al-Harith say: 'The Messenger of Allah did not leave behind anything except his white mule, his weapon and some land which he left as a charity.'\"",
+      "narrator": "Abu Ishaq narrated:",
+      "reference": "Hadith 3603"
     },
     {
-      "id": 3571,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" الْخَيْلُ لِرَجُلٍ أَجْرٌ وَلِرَجُلٍ سَتْرٌ وَعَلَى رَجُلٍ وِزْرٌ فَأَمَّا الَّذِي هِيَ لَهُ أَجْرٌ فَرَجُلٌ رَبَطَهَا فِي سَبِيلِ اللَّهِ فَأَطَالَ لَهَا فِي مَرْجٍ أَوْ رَوْضَةٍ فَمَا أَصَابَتْ فِي طِيَلِهَا ذَلِكَ فِي الْمَرْجِ أَوِ الرَّوْضَةِ كَانَ لَهُ حَسَنَاتٌ وَلَوْ أَنَّهَا قَطَعَتْ طِيَلَهَا ذَلِكَ فَاسْتَنَّتْ شَرَفًا أَوْ شَرَفَيْنِ كَانَتْ آثَارُهَا \" . وَفِي حَدِيثِ الْحَارِثِ \" وَأَرْوَاثُهَا حَسَنَاتٍ لَهُ وَلَوْ أَنَّهَا مَرَّتْ بِنَهَرٍ فَشَرِبَتْ مِنْهُ وَلَمْ يُرِدْ أَنْ تُسْقَى كَانَ ذَلِكَ حَسَنَاتٍ فَهِيَ لَهُ أَجْرٌ وَرَجُلٌ رَبَطَهَا تَغَنِّيًا وَتَعَفُّفًا وَلَمْ يَنْسَ حَقَّ اللَّهِ عَزَّ وَجَلَّ فِي رِقَابِهَا وَلاَ ظُهُورِهَا فَهِيَ لِذَلِكَ سَتْرٌ وَرَجُلٌ رَبَطَهَا فَخْرًا وَرِيَاءً وَنِوَاءً لأَهْلِ الإِسْلاَمِ فَهِيَ عَلَى ذَلِكَ وِزْرٌ \" . وَسُئِلَ النَّبِيُّ صلى الله عليه وسلم عَنِ الْحَمِيرِ فَقَالَ \" لَمْ يَنْزِلْ عَلَىَّ فِيهَا شَىْءٌ إِلاَّ هَذِهِ الآيَةُ الْجَامِعَةُ الْفَاذَّةُ { فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ * وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ } \" .",
-      "text_en": "\"Horses may bring reward to a man, or they may be a means of protection, or they may be a burden (of sin). As for that which brings reward, it is a man who keeps it for the cause of Allah and ties it with a long rope in a pasture or a garden; whatever it eats or drinks in that pasture or garden will count as good deeds for him. If it breaks its rope and jumps over one or two hills, its footsteps\" -and according to the Hadith of Al-Harith, \"its dung will count as good deeds for him. If it passes by a river and drinks from it, even though (its owner) did not intend to give it water from that river, that will also bring him reward. If a man keeps a horse in order to earn an independent living and avoid asking others for help, and he does not forget his duty toward Allah with regard to their (the horses') necks and backs, then they will be a means of protection for him. If a man keeps horses out of pride, to show off before others and to fight the Muslims, then that will be a burden (of sin) for him.\" The Prophet was asked about donkeys and he said: \"Nothing has been revealed to me concerning them except this Verse which is comprehensive in meaning: 'So whosoever does good equal to the weight of an atom (or a small ant) shall see it. And whosoever does evil equal to the weight of an atom (or a small ant) shall see it.'\"",
-      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah said:",
-      "reference": "Hadith 3571"
+      "id": 3604,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، قَالَ حَدَّثَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ عَمْرَو بْنَ الْحَارِثِ، يَقُولُ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم مَا تَرَكَ إِلاَّ بَغْلَتَهُ الشَّهْبَاءَ وَسِلاَحَهُ وَأَرْضًا تَرَكَهَا صَدَقَةً .",
+      "text_en": "\"I heard 'Amr bin Al-Harith say: 'I saw the Messenger of Allah and he left nothing behind except his white mule, his weapon and some land which he left as a charity.'\"",
+      "narrator": "Yunus bin Abi Ishaq narrated that his father said:",
+      "reference": "Hadith 3604"
     },
     {
-      "id": 3572,
-      "text_ar": "أَخْبَرَنِي أَحْمَدُ بْنُ حَفْصٍ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ لَمْ يَكُنْ شَىْءٌ أَحَبَّ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بَعْدَ النِّسَاءِ مِنَ الْخَيْلِ .",
-      "text_en": "\"There was nothing dearer to the Messenger of Allah after women than horses.\"",
+      "id": 3605,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، عُمَرُ بْنُ سَعْدٍ عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنِ ابْنِ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، قَالَ أَصَبْتُ أَرْضًا مِنْ أَرْضِ خَيْبَرَ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ أَصَبْتُ أَرْضًا لَمْ أُصِبْ مَالاً أَحَبَّ إِلَىَّ وَلاَ أَنْفَسَ عِنْدِي مِنْهَا . قَالَ \" إِنْ شِئْتَ تَصَدَّقْتَ بِهَا \" . فَتَصَدَّقَ بِهَا - عَلَى أَنْ لاَ تُبَاعَ وَلاَ تُوهَبَ - فِي الْفُقَرَاءِ وَذِي الْقُرْبَى وَالرِّقَابِ وَالضَّيْفِ وَابْنِ السَّبِيلِ لاَ جُنَاحَ عَلَى مَنْ وَلِيَهَا أَنْ يَأْكُلَ بِالْمَعْرُوفِ غَيْرَ مُتَمَوِّلٍ مَالاً وَيُطْعِمَ .",
+      "text_en": "\"I was allocated some land of Khaibar. I came to the Messenger of Allah and said: 'I have acquired some land and I have never acquired any wealth that is dearer to me or more precious than it.' He said: 'If you wish, you can give it in charity.'\" So he gave it in charity on condition that it would not be bought or given away, for the poor, relatives, slaves, guests and wayfarers. And there is no sin on the administrator if he eats from it or feeds others on a reasonable basis, with no intention of becoming wealthy from it.",
+      "narrator": "It was narrated from Sufyan Ath-Thawri, from Ibn 'Awn, from Nafi', from Ibn 'Umar, from 'Umar, that he said:",
+      "reference": "Hadith 3605"
+    },
+    {
+      "id": 3606,
+      "text_ar": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، عَنْ أَبِي إِسْحَاقَ الْفَزَارِيِّ، عَنِ ابْنِ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، رضى الله عنه عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ .",
+      "text_en": "A similar report was narrated from Abu Ishaq Al-Fazari, from (Ayyub) bin 'Awn, from Nafi', from Ibn 'Umar, from 'Umar, may Allah be pleased with him, from the Prophet.",
+      "narrator": "",
+      "reference": "Hadith 3606"
+    },
+    {
+      "id": 3607,
+      "text_ar": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، قَالَ أَصَابَ عُمَرُ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ أَصَبْتُ أَرْضًا لَمْ أُصِبْ مَالاً قَطُّ أَنْفَسَ عِنْدِي فَكَيْفَ تَأْمُرُ بِهِ قَالَ \" إِنْ شِئْتَ حَبَّسْتَ أَصْلَهَا وَتَصَدَّقْتَ بِهَا \" . فَتَصَدَّقَ بِهَا - عَلَى أَنْ لاَ تُبَاعَ وَلاَ تُوهَبَ وَلاَ تُورَثَ - فِي الْفُقَرَاءِ وَالْقُرْبَى وَالرِّقَابِ وَفِي سَبِيلِ اللَّهِ وَالضَّيْفِ وَابْنِ السَّبِيلِ لاَ جُنَاحَ عَلَى مَنْ وَلِيَهَا أَنْ يَأْكُلَ مِنْهَا بِالْمَعْرُوفِ وَيُطْعِمَ صَدِيقًا غَيْرَ مُتَمَوِّلٍ فِيهِ .",
+      "text_en": "\"Ibn 'Awn narrated to us, from Nafi', from Ibn 'Umar, from 'Umar, who said: 'I acquired some land at Khaibar. He came to the Prophet and said: I have acquired some land at Khaibar, and I have never been given any wealth that is more precious to me than it. What do you command me to do with it? He said: If you wish, you can 'freeze' it and give it in charity. So he gave it in charity on condition that it would not be sold, given away or inherited, to the poor, relatives, slaves, for the cause of Allah, guests and wayfarers. There is no sin on the one who administers it if he eats from it on a reasonable basis and feeds his friend, with no intention of becoming wealthy from it.'\"",
+      "narrator": "It was narrated that Yazid -Ibn Ruzaiq- said:",
+      "reference": "Hadith 3607"
+    },
+    {
+      "id": 3608,
+      "text_ar": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا بِشْرٌ، عَنِ ابْنِ عَوْنٍ، قَالَ وَأَنْبَأَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا بِشْرٌ، قَالَ حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ أَصَابَ عُمَرُ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَاسْتَأْمَرَهُ فِيهَا فَقَالَ إِنِّي أَصَبْتُ أَرْضًا كَثِيرًا لَمْ أُصِبْ مَالاً قَطُّ أَنْفَسَ عِنْدِي مِنْهُ فَمَا تَأْمُرُ فِيهَا قَالَ \" إِنْ شِئْتَ حَبَّسْتَ أَصْلَهَا وَتَصَدَّقْتَ بِهَا \" . فَتَصَدَّقَ بِهَا - عَلَى أَنَّهُ لاَ تُبَاعُ وَلاَ تُوهَبُ - فَتَصَدَّقَ بِهَا فِي الْفُقَرَاءِ وَالْقُرْبَى وَفِي الرِّقَابِ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ وَالضَّيْفِ لاَ جُنَاحَ - يَعْنِي - عَلَى مَنْ وَلِيَهَا أَنْ يَأْكُلَ أَوْ يُطْعِمَ صَدِيقًا غَيْرَ مُتَمَوِّلٍ اللَّفْظُ لإِسْمَاعِيلَ .",
+      "text_en": "\"Umar acquired some land at Khaibar. He came to the Prophet and consulted him about it. He said: 'I have acquired a great deal of land, and I have never acquired any wealth that is more precious to me than it. What do you command me to do with it?' He said: 'If you wish, you may freeze it and give it in charity.' So he gave it in charity on condition that it would not be sold or given away, and he gave it in charity to the poor, relatives, to emancipate slaves, for the cause of Allah, for wayfarers and guests. There is no sin -on the administrator- if he eats (from it) or feeds a friend, with no intention of becoming wealthy from it.'\" These are the wordings of Isma'il.",
+      "narrator": "It was narrated from Bishr, from Ibn 'Awn, from Nafi', from Ibn 'Umar who said:",
+      "reference": "Hadith 3608"
+    },
+    {
+      "id": 3609,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَزْهَرُ السَّمَّانُ، عَنِ ابْنِ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، أَصَابَ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم يَسْتَأْمِرُهُ فِي ذَلِكَ فَقَالَ \" إِنْ شِئْتَ حَبَّسْتَ أَصْلَهَا وَتَصَدَّقْتَ بِهَا \" . فَحَبَّسَ أَصْلَهَا أَنْ لاَ تُبَاعَ وَ لاَ تُوهَبَ وَلاَ تُورَثَ فَتَصَدَّقَ بِهَا عَلَى الْفُقَرَاءِ وَالْقُرْبَى وَالرِّقَابِ وَفِي الْمَسَاكِينِ وَابْنِ السَّبِيلِ وَالضَّيْفِ لاَ جُنَاحَ عَلَى مَنْ وَلِيَهَا أَنْ يَأْكُلَ مِنْهَا بِالْمَعْرُوفِ أَوْ يُطْعِمَ صَدِيقَهُ غَيْرَ مُتَمَوِّلٍ فِيهِ .",
+      "text_en": "\"If you wish, you may 'freeze' it and give it in charity.\" So he 'froze' it, stipulating that it should not be sold, given as a gift or inherited, and he gave it in charity to the poor, relatives, slaves, the needy, wayfarers and guests. There is no sin on the administrator if he eats from it on a reasonable basis or feeds a friend with no intention of becoming wealthy from it.",
+      "narrator": "It was narrated from Azhar As-Samman, from Ibn 'Awn, from Nafi', from Ibn 'Umar, that 'Umar acquired some land at Khaibar. He came to the Prophet and consulted him about that. He said:",
+      "reference": "Hadith 3609"
+    },
+    {
+      "id": 3610,
+      "text_ar": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ نَافِعٍ، قَالَ حَدَّثَنَا بَهْزٌ، قَالَ حَدَّثَنَا حَمَّادٌ، قَالَ حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ، قَالَ لَمَّا نَزَلَتْ هَذِهِ الآيَةُ { لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ } قَالَ أَبُو طَلْحَةَ إِنَّ رَبَّنَا لَيَسْأَلُنَا عَنْ أَمْوَالِنَا فَأُشْهِدُكَ يَا رَسُولَ اللَّهِ أَنِّي قَدْ جَعَلْتُ أَرْضِي لِلَّهِ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" اجْعَلْهَا فِي قَرَابَتِكَ فِي حَسَّانَ بْنِ ثَابِتٍ وَأُبَىِّ بْنِ كَعْبٍ \" .",
+      "text_en": "\"When this Verse was revealed -'By no means shall you attain Al Birr (piety, righteousness--here it means Allah's reward, i.e. Paradise), unless you spend (in Allah's cause) of that which you love'- Abu Talha said: 'Our Lord will ask us about our wealth. I adjure you, O Messenger of Allah! I am giving my land to Allah.' The Messenger of Allah said: 'Make it for your relatives, Hassan bin Thabit and Ubayy bin Ka'b.'\"",
       "narrator": "It was narrated that Anas said:",
-      "reference": "Hadith 3572"
+      "reference": "Hadith 3610"
     },
     {
-      "id": 3573,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا أَبُو أَحْمَدَ الْبَزَّازُ، هِشَامُ بْنُ سَعِيدٍ الطَّالْقَانِيُّ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مُهَاجِرٍ الأَنْصَارِيُّ، عَنْ عَقِيلِ بْنِ شَبِيبٍ، عَنْ أَبِي وَهْبٍ، - وَكَانَتْ لَهُ صُحْبَةٌ - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" تَسَمَّوْا بِأَسْمَاءِ الأَنْبِيَاءِ وَأَحَبُّ الأَسْمَاءِ إِلَى اللَّهِ عَزَّ وَجَلَّ عَبْدُ اللَّهِ وَعَبْدُ الرَّحْمَنِ وَارْتَبِطُوا الْخَيْلَ وَامْسَحُوا بِنَوَاصِيهَا وَأَكْفَالِهَا وَقَلِّدُوهَا وَلاَ تُقَلِّدُوهَا الأَوْتَارَ وَعَلَيْكُمْ بِكُلِّ كُمَيْتٍ أَغَرَّ مُحَجَّلٍ أَوْ أَشْقَرَ أَغَرَّ مُحَجَّلٍ أَوْ أَدْهَمَ أَغَرَّ مُحَجَّلٍ \" .",
-      "text_en": "\"The Messenger of Allah said: 'Call (your children) by the names of the prophets. And the most beloved names to Allah, the Mighty and Sublime, are 'Abdullah and 'Abdur-Rahman. Keep horses; wipe their forelocks and posteriors, and prepare them for Jihad, but do not prepare them to seek vengeance for people killed during the Jahiliyyah. You should seek out Kumait, horses with a white mark on the face and white feet, or red with a white mark on the face and white feet, or black with a white mark on the face and white feet.'\"",
-      "narrator": "It was narrated that Abu Wahb, who was a Companion of the Prophet, said:",
-      "reference": "Hadith 3573"
+      "id": 3611,
+      "text_ar": "أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ عُمَرُ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ الْمِائَةَ سَهْمٍ الَّتِي لِي بِخَيْبَرَ لَمْ أُصِبْ مَالاً قَطُّ أَعْجَبَ إِلَىَّ مِنْهَا قَدْ أَرَدْتُ أَنْ أَتَصَدَّقَ بِهَا . فَقَالَ النَّبِيُّ صلى الله عليه وسلم \" احْبِسْ أَصْلَهَا وَسَبِّلْ ثَمَرَتَهَا \" .",
+      "text_en": "\"Umar said to the Prophet: 'The one hundred shares that I acquired in Khaibar -I have never acquired any wealth that I like more than that, and I want to give it in charity.' The Prophet said: Freeze it and donate its fruits.\"",
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "reference": "Hadith 3611"
     },
     {
-      "id": 3574,
-      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، ح وَأَنْبَأَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا بِشْرٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَكْرَهُ الشِّكَالَ مِنَ الْخَيْلِ . وَاللَّفْظُ لإِسْمَاعِيلَ .",
-      "text_en": "The Prophet used to dislike the Shikal among horses. And the wording is that of Isma'il.",
-      "narrator": "It was narrated that Abu Hurairah said:",
-      "reference": "Hadith 3574"
+      "id": 3612,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الْخَلَنْجِيُّ، بِبَيْتِ الْمَقْدِسِ قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، رضى الله عنه قَالَ جَاءَ عُمَرُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي أَصَبْتُ مَالاً لَمْ أُصِبْ مِثْلَهُ قَطُّ كَانَ لِي مِائَةُ رَأْسٍ فَاشْتَرَيْتُ بِهَا مِائَةَ سَهْمٍ مِنْ خَيْبَرَ مِنْ أَهْلِهَا وَإِنِّي قَدْ أَرَدْتُ أَنْ أَتَقَرَّبَ بِهَا إِلَى اللَّهِ عَزَّ وَجَلَّ . قَالَ \" فَاحْبِسْ أَصْلَهَا وَسَبِّلِ الثَّمَرَةَ \" .",
+      "text_en": "\"Umar came to the Messenger of Allah and said: 'O Messenger of Allah, I have acquired some wealth the like of which I have never acquired before. I had one hundred head (of livestock) with which I bought one hundred shares of Khaibar from its people. I wanted to draw closer to Allah, the Mighty and Sublime, by means of it.' He said: 'Freeze it and donate its fruits.'\"",
+      "narrator": "It was narrated that 'Umar, may Allah be pleased with him, said:",
+      "reference": "Hadith 3612"
     },
     {
-      "id": 3575,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي سَلْمُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَرِهَ الشِّكَالَ مِنَ الْخَيْلِ . قَالَ أَبُو عَبْدِ الرَّحْمَنِ الشِّكَالُ مِنَ الْخَيْلِ أَنْ تَكُونَ ثَلاَثُ قَوَائِمَ مُحَجَّلَةً وَوَاحِدَةٌ مُطْلَقَةً أَوْ تَكُونَ الثَّلاَثَةُ مُطْلَقَةً وَرِجْلٌ مُحَجَّلَةً وَلَيْسَ يَكُونُ الشِّكَالُ إِلاَّ فِي رِجْلٍ وَلاَ يَكُونُ فِي الْيَدِ .",
-      "text_en": "It was narrated from Abu Hurairah that the Prophet used to dislike the Shikal among horses.",
-      "narrator": "",
-      "reference": "Hadith 3575"
+      "id": 3613,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُصَفَّى بْنِ بُهْلُولٍ، قَالَ حَدَّثَنَا بَقِيَّةُ، عَنْ سَعِيدِ بْنِ سَالِمٍ الْمَكِّيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ أَرْضٍ لِي بِثَمْغٍ قَالَ \" احْبِسْ أَصْلَهَا وَسَبِّلْ ثَمَرَتَهَا \" .",
+      "text_en": "\"I asked the Messenger of Allah about some land of mine in Thamgh. He said: 'Freeze it and donate its fruits.'\"",
+      "narrator": "It was narrated that 'Umar said:",
+      "reference": "Hadith 3613"
     },
     {
-      "id": 3576,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ مَنْصُورٍ، - وَاللَّفْظُ لَهُ - قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيَّ صلى الله عليه وسلم قَالَ \" الشُّؤْمُ فِي ثَلاَثَةٍ الْمَرْأَةِ وَالْفَرَسِ وَالدَّارِ \" .",
-      "text_en": "\"Omens are only in three things: a woman, a horse or a house.\"",
-      "narrator": "It was narrated from Salim, from his father, that the Prophet said:",
-      "reference": "Hadith 3576"
+      "id": 3614,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ سَمِعْتُ أَبِي يُحَدِّثُ، عَنْ حُصَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَمْرِو بْنِ جَاوَانَ، - رَجُلٌ مِنْ بَنِي تَمِيمٍ - وَذَاكَ أَنِّي قُلْتُ لَهُ أَرَأَيْتَ اعْتِزَالَ الأَحْنَفِ بْنِ قَيْسٍ مَا كَانَ قَالَ سَمِعْتُ الأَحْنَفَ يَقُولُ أَتَيْتُ الْمَدِينَةَ وَأَنَا حَاجٌّ فَبَيْنَا نَحْنُ فِي مَنَازِلِنَا نَضَعُ رِحَالَنَا إِذْ أَتَى آتٍ فَقَالَ قَدِ اجْتَمَعَ النَّاسُ فِي الْمَسْجِدِ فَاطَّلَعْتُ فَإِذَا يَعْنِي النَّاسَ مُجْتَمِعُونَ وَإِذَا بَيْنَ أَظْهُرِهِمْ نَفَرٌ قُعُودٌ فَإِذَا هُوَ عَلِيُّ بْنُ أَبِي طَالِبٍ وَالزُّبَيْرُ وَطَلْحَةُ وَسَعْدُ بْنُ أَبِي وَقَّاصٍ رَحْمَةُ اللَّهِ عَلَيْهِمْ فَلَمَّا قُمْتُ عَلَيْهِمْ قِيلَ هَذَا عُثْمَانُ بْنُ عَفَّانَ قَدْ جَاءَ - قَالَ - فَجَاءَ وَعَلَيْهِ مُلَيَّةٌ صَفْرَاءُ فَقُلْتُ لِصَاحِبِي كَمَا أَنْتَ حَتَّى أَنْظُرَ مَا جَاءَ بِهِ . فَقَالَ عُثْمَانُ أَهَا هُنَا عَلِيٌّ أَهَا هُنَا الزُّبَيْرُ أَهَا هُنَا طَلْحَةُ أَهَا هُنَا سَعْدٌ قَالُوا نَعَمْ . قَالَ فَأَنْشُدُكُمْ بِاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ أَتَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" مَنْ يَبْتَاعُ مِرْبَدَ بَنِي فُلاَنٍ غَفَرَ اللَّهُ لَهُ \" . فَابْتَعْتُهُ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ إِنِّي ابْتَعْتُ مِرْبَدَ بَنِي فُلاَنٍ . قَالَ \" فَاجْعَلْهُ فِي مَسْجِدِنَا وَأَجْرُهُ لَكَ \" . قَالُوا نَعَمْ . قَالَ فَأَنْشُدُكُمْ بِاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ هَلْ تَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" مَنْ يَبْتَاعُ بِئْرَ رُومَةَ غَفَرَ اللَّهُ لَهُ \" . فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ قَدِ ابْتَعْتُ بِئْرَ رُومَةَ . قَالَ \" فَاجْعَلْهَا سِقَايَةً لِلْمُسْلِمِينَ وَأَجْرُهَا لَكَ \" . قَالُوا نَعَمْ . قَالَ فَأَنْشُدُكُمْ بِاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ هَلْ تَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" مَنْ يُجَهِّزْ جَيْشَ الْعُسْرَةِ غَفَرَ اللَّهُ لَهُ \" . فَجَهَّزْتُهُمْ حَتَّى مَا يَفْقِدُونَ عِقَالاً وَلاَ خِطَامًا . قَالُوا نَعَمْ . قَالَ اللَّهُمَّ اشْهَدِ اللَّهُمَّ اشْهَدِ اللَّهُمَّ اشْهَدْ .",
+      "text_en": "\"I came to Al-Madinah, and I was performing Hajj, and while we were in our camping place unloading our mounts, someone came to us and said: 'The people have gathered in the Masjid.' I looked and found the people gathered, and in the midst of them was a group; there I saw 'Ali bin Abi Talib, Az-Zubair, Talhah and Sa'd bin Abi Waqqas, may Allah have mercy on them. When I got there, it was said that 'Uthman bin 'Affan had come. He came, wearing a yellowish cloak. I said to my companion: Stay where you are until I find out what is happening. 'Uthman said: Is 'Ali here? Is Az-Zubair here? Is Talhah here? Is Sa'd here? They said: Yes. He said: I adjure you by Allah, beside Whom there is none worthy of worship, are you aware that the Messenger of Allah said: Whoever buys the Mirbad of Banu so and so, Allah will forgive him, and I bought it, then I came to the Messenger of Allah and told him, and he said: Add it to our Masjid and the reward for it will be yours? They said: Yes. He said: I adjure you by Allah, beside Whom there is none worthy of worship, are you aware that the Messenger of Allah said: Whoever buys the well of Rumah, Allah will forgive him, so I came to the Messenger of Allah and said: I have bought the well of Rumah. He said: Give it to provide water for the Muslims, and the reward for it will be yours? They said: Yes. He said: 'I adjure you by Allah, beside Whom there is none worthy of worship, are you aware that the Messenger of Allah said: Whoever equips the army of Al-'Usrah (i.e. Tabuk), Allah will forgive him, so I equipped them until they were not lacking even a rope or a bridle?' They said: Yes. He said: O Allah, bear witness, O Allah, bear witness, O Allah, bear witness.\"",
+      "narrator": "Al-Ahnaf said:",
+      "reference": "Hadith 3614"
     },
     {
-      "id": 3577,
-      "text_ar": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ حَمْزَةَ، وَسَالِمٍ، ابْنَىْ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، رضى الله عنهما أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" الشُّؤْمُ فِي الدَّارِ وَالْمَرْأَةِ وَالْفَرَسِ \" .",
-      "text_en": "\"Omens are in houses, women and horses.\"",
-      "narrator": "It was narrated from 'Abdullah bin 'Umar that the Messenger of Allah said:",
-      "reference": "Hadith 3577"
+      "id": 3615,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، قَالَ سَمِعْتُ حُصَيْنَ بْنَ عَبْدِ الرَّحْمَنِ، يُحَدِّثُ عَنْ عَمْرِو بْنِ جَاوَانَ، عَنِ الأَحْنَفِ بْنِ قَيْسٍ، قَالَ خَرَجْنَا حُجَّاجًا فَقَدِمْنَا الْمَدِينَةَ وَنَحْنُ نُرِيدُ الْحَجَّ فَبَيْنَا نَحْنُ فِي مَنَازِلِنَا نَضَعُ رِحَالَنَا إِذْ أَتَانَا آتٍ فَقَالَ إِنَّ النَّاسَ قَدِ اجْتَمَعُوا فِي الْمَسْجِدِ وَفَزِعُوا . فَانْطَلَقْنَا فَإِذَا النَّاسُ مُجْتَمِعُونَ عَلَى نَفَرٍ فِي وَسَطِ الْمَسْجِدِ وَإِذَا عَلِيٌّ وَالزُّبَيْرُ وَطَلْحَةُ وَسَعْدُ بْنُ أَبِي وَقَّاصٍ فَإِنَّا لَكَذَلِكَ إِذْ جَاءَ عُثْمَانُ بْنُ عَفَّانَ عَلَيْهِ مُلاَءَةٌ صَفْرَاءُ قَدْ قَنَّعَ بِهَا رَأْسَهُ فَقَالَ أَهَا هُنَا عَلِيٌّ أَهَا هُنَا طَلْحَةُ أَهَا هُنَا الزُّبَيْرُ أَهَا هُنَا سَعْدٌ قَالُوا نَعَمْ . قَالَ فَإِنِّي أَنْشُدُكُمْ بِاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ أَتَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" مَنْ يَبْتَاعُ مِرْبَدَ بَنِي فُلاَنٍ غَفَرَ اللَّهُ لَهُ \" . فَابْتَعْتُهُ بِعِشْرِينَ أَلْفًا أَوْ بِخَمْسَةٍ وَعِشْرِينَ أَلْفًا فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقَالَ \" اجْعَلْهَا فِي مَسْجِدِنَا وَأَجْرُهُ لَكَ \" . قَالُوا اللَّهُمَّ نَعَمْ . قَالَ فَأَنْشُدُكُمْ بِاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ أَتَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" مَنْ يَبْتَاعُ بِئْرَ رُومَةَ غَفَرَ اللَّهُ لَهُ \" . فَابْتَعْتُهُ بِكَذَا وَكَذَا فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ قَدِ ابْتَعْتُهَا بِكَذَا وَكَذَا . قَالَ \" اجْعَلْهَا سِقَايَةً لِلْمُسْلِمِينَ وَأَجْرُهَا لَكَ \" . قَالُوا اللَّهُمَّ نَعَمْ . قَالَ فَأَنْشُدُكُمْ بِاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ أَتَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَظَرَ فِي وُجُوهِ الْقَوْمِ فَقَالَ \" مَنْ جَهَّزَ هَؤُلاَءِ اللَّهُ غَفَرَ لَهُ \" . يَعْنِي جَيْشَ الْعُسْرَةِ فَجَهَّزْتُهُمْ حَتَّى مَا يَفْقِدُونَ عِقَالاً وَلاَ خِطَامًا . قَالُوا اللَّهُمَّ نَعَمْ . قَالَ اللَّهُمَّ اشْهَدِ اللَّهُمَّ اشْهَدْ .",
+      "text_en": "\"We set out for Hajj, and came to Al-Madinah intending to perform Hajj. While we were in our camping place unloading our mounts, someone came to us and said: 'The people have gathered in the Masjid and there is panic.' So we set out and found the people gathered around a group in the middle of the Masjid, among whom were 'Ali, Az-Zubair, Talhah and Sa'd bin Abi Waqqas. While we were like that, 'Uthman came, wearing a yellowish cloak with which he had covered his head. He said: Is 'Ali here? Is Talhah here? Is Az-Zubair here? Is Sa'd here? They said: Yes. He said: I adjure you by Allah, beside Whom there is none worthy of worship, are you aware that the Messenger of Allah said: Whoever buys the Mirbad of Banu so and so, Allah will forgive him, and I bought it for twenty or twenty-five thousand, then I came to the Messenger of Allah and told him, and he said: Add it to our Masjid and the reward for it will be yours? They said: By Allah, yes. He said: 'I adjure you by Allah, beside Whom there is none worthy of worship, are you aware that the Messenger of Allah said: Whoever buys the well of Rumah, Allah will forgive him, so I bought it for such and such an amount, then I came to the Messenger of Allah and told him, and he said: Give it to provide water for the Muslims, and the reward for it will be yours?' They said: By Allah, yes. He said: 'I adjure you by Allah, beside Whom there is none worthy of worship, are you aware that the Messenger of Allah said: Whoever equips these (men), Allah will forgive him, -meaning the army of Al-'Usrah (i.e. Tabuk)- so I equipped them until they were not lacking even a rope or a bridle?' They said: By Allah, yes. He said: O Allah, bear witness, O Allah, bear witness.\"",
+      "narrator": "It was narrated that Al-Ahnaf bin Qais said:",
+      "reference": "Hadith 3615"
     },
     {
-      "id": 3578,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" إِنْ يَكُ فِي شَىْءٍ فَفِي الرَّبْعَةِ وَالْمَرْأَةِ وَالْفَرَسِ \" .",
-      "text_en": "\"If there are (omens) in anything, they are in houses, women and horses.\"",
-      "narrator": "It was narrated from Jabir that the Messenger of Allah said:",
-      "reference": "Hadith 3578"
+      "id": 3616,
+      "text_ar": "أَخْبَرَنِي زِيَادُ بْنُ أَيُّوبَ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ، عَنْ يَحْيَى بْنِ أَبِي الْحَجَّاجِ، عَنْ سَعِيدٍ الْجُرَيْرِيِّ، عَنْ ثُمَامَةَ بْنِ حَزْنٍ الْقُشَيْرِيِّ، قَالَ شَهِدْتُ الدَّارَ حِينَ أَشْرَفَ عَلَيْهِمْ عُثْمَانُ فَقَالَ أَنْشُدُكُمْ بِاللَّهِ وَبِالإِسْلاَمِ هَلْ تَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدِمَ الْمَدِينَةَ وَلَيْسَ بِهَا مَاءٌ يُسْتَعْذَبُ غَيْرَ بِئْرِ رُومَةَ فَقَالَ \" مَنْ يَشْتَرِي بِئْرَ رُومَةَ فَيَجْعَلُ فِيهَا دَلْوَهُ مَعَ دِلاَءِ الْمُسْلِمِينَ بِخَيْرٍ لَهُ مِنْهَا فِي الْجَنَّةِ \" . فَاشْتَرَيْتُهَا مِنْ صُلْبِ مَالِي فَجَعَلْتُ دَلْوِي فِيهَا مَعَ دِلاَءِ الْمُسْلِمِينَ وَأَنْتُمُ الْيَوْمَ تَمْنَعُونِي مِنَ الشُّرْبِ مِنْهَا حَتَّى أَشْرَبَ مِنْ مَاءِ الْبَحْرِ قَالُوا اللَّهُمَّ نَعَمْ . قَالَ فَأَنْشُدُكُمْ بِاللَّهِ وَالإِسْلاَمِ هَلْ تَعْلَمُونَ أَنِّي جَهَّزْتُ جَيْشَ الْعُسْرَةِ مِنْ مَالِي قَالُوا اللَّهُمَّ نَعَمْ . قَالَ فَأَنْشُدُكُمْ بِاللَّهِ وَالإِسْلاَمِ هَلْ تَعْلَمُونَ أَنَّ الْمَسْجِدَ ضَاقَ بِأَهْلِهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" مَنْ يَشْتَرِي بُقْعَةَ آلِ فُلاَنٍ فَيَزِيدُهَا فِي الْمَسْجِدِ بِخَيْرٍ لَهُ مِنْهَا فِي الْجَنَّةِ \" . فَاشْتَرَيْتُهَا مِنْ صُلْبِ مَالِي فَزِدْتُهَا فِي الْمَسْجِدِ وَأَنْتُمْ تَمْنَعُونِي أَنْ أُصَلِّيَ فِيهِ رَكْعَتَيْنِ قَالُوا اللَّهُمَّ نَعَمْ . قَالَ أَنْشُدُكُمْ بِاللَّهِ وَالإِسْلاَمِ هَلْ تَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ عَلَى ثَبِيرٍ ثَبِيرِ مَكَّةَ وَمَعَهُ أَبُو بَكْرٍ وَعُمَرُ وَأَنَا فَتَحَرَّكَ الْجَبَلُ فَرَكَضَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم بِرِجْلِهِ وَقَالَ \" اسْكُنْ ثَبِيرُ فَإِنَّمَا عَلَيْكَ نَبِيٌّ وَصِدِّيقٌ وَشَهِيدَانِ \" . قَالُوا اللَّهُمَّ نَعَمْ . قَالَ اللَّهُ أَكْبَرُ شَهِدُوا لِي وَرَبِّ الْكَعْبَةِ . يَعْنِي أَنِّي شَهِيدٌ .",
+      "text_en": "\"I was present at the house when 'Uthman looked out over them and said: 'I adjure you by Allah and by Islam, are you aware that when the Messenger of Allah came to Al-Madinah, and it had no water that was considered sweet (suitable for drinking) except the well of Rumah, he said: \"Who will buy the well of Rumah and dip his bucket in it alongside the buckets of the Muslims, in return for a better one in Paradise?\" and I bought it with my capital and dipped my bucket into it alongside the buckets of the Muslims? Yet today you are preventing me from drinking from it, so that I have to drink salty water.' They said: 'By Allah, yes.' He said: 'I adjure you by Allah and by Islam, are you aware that I equipped the army of Al-'Usrah (Tabuk) from my own wealth?' They said: 'By Allah, yes.' He said: 'I adjure you by Allah and by Islam, are you aware that when the Masjid became too small for the people and the Messenger of Allah said: Who will buy the plot of the family of so and so and add it to the Masjid, in return for a better plot in Paradise? I bought it with my capital and added it to the Masjid? Yet now you are preventing me from praying two Rak'ahs therein.' They said: 'By Allah, yes.' He said: 'I adjure you by Allah and by Islam, are you aware that when the Messenger of Allah was atop Thabir -the Thabir in Makkah- and with him were Abu Bakr, 'Umar and myself, the mountain shook, and the Messenger of Allah kicked it with his foot and said: Be still, Thabir, for upon you are a Prophet, a Siddiq and two martyrs?' They said: 'By Allah, yes.' He said: 'Allahu Akbar! They have testified for me, by the Lord of the Ka'bah' -i.e., that I am a martyr.\"",
+      "narrator": "It was narrated that Thumamah bin Hazn Al-Qushairi said:",
+      "reference": "Hadith 3616"
     },
     {
-      "id": 3579,
-      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا النَّضْرُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، قَالَ سَمِعْتُ أَنَسًا، ح وَأَنْبَأَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي أَبُو التَّيَّاحِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" الْبَرَكَةُ فِي نَوَاصِي الْخَيْلِ \" .",
-      "text_en": "\"The Messenger of Allah said: 'Blessing is in the forelocks of horses.'\"",
-      "narrator": "It was narrated that Anas bin Malik said:",
-      "reference": "Hadith 3579"
+      "id": 3617,
+      "text_ar": "أَخْبَرَنَا عِمْرَانُ بْنُ بَكَّارِ بْنِ رَاشِدٍ، قَالَ حَدَّثَنَا خَطَّابُ بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنِي أَبِي، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ عُثْمَانَ، أَشْرَفَ عَلَيْهِمْ حِينَ حَصَرُوهُ فَقَالَ أَنْشُدُ بِاللَّهِ رَجُلاً سَمِعَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم يَقُولُ يَوْمَ الْجَبَلِ حِينَ اهْتَزَّ فَرَكَلَهُ بِرِجْلِهِ وَقَالَ \" اسْكُنْ فَإِنَّهُ لَيْسَ عَلَيْكَ إِلاَّ نَبِيٌّ أَوْ صِدِّيقٌ أَوْ شَهِيدَانِ \" . وَأَنَا مَعَهُ فَانْتَشَدَ لَهُ رِجَالٌ ثُمَّ قَالَ أَنْشُدُ بِاللَّهِ رَجُلاً شَهِدَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَوْمَ بَيْعَةِ الرِّضْوَانِ يَقُولُ \" هَذِهِ يَدُ اللَّهِ وَهَذِهِ يَدُ عُثْمَانَ \" . فَانْتَشَدَ لَهُ رِجَالٌ ثُمَّ قَالَ أَنْشُدُ بِاللَّهِ رَجُلاً سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَوْمَ جَيْشِ الْعُسْرَةِ يَقُولُ \" مَنْ يُنْفِقُ نَفَقَةً مُتَقَبَّلَةً \" . فَجَهَّزْتُ نِصْفَ الْجَيْشِ مِنْ مَالِي فَانْتَشَدَ لَهُ رِجَالٌ ثُمَّ قَالَ أَنْشُدُ بِاللَّهِ رَجُلاً سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" مَنْ يَزِيدُ فِي هَذَا الْمَسْجِدِ بِبَيْتٍ فِي الْجَنَّةِ \" . فَاشْتَرَيْتُهُ مِنْ مَالِي فَانْتَشَدَ لَهُ رِجَالٌ ثُمَّ قَالَ أَنْشُدُ بِاللَّهِ رَجُلاً شَهِدَ رُومَةَ تُبَاعُ فَاشْتَرَيْتُهَا مِنْ مَالِي فَأَبَحْتُهَا لاِبْنِ السَّبِيلِ فَانْتَشَدَ لَهُ رِجَالٌ .",
+      "text_en": "\"By Allah, I adjure a man who heard the Messenger of Allah, on the day when the mountain shook with him, and he kicked it with his foot and said: 'Be still, for there is no one upon you but a Prophet or a Siddiq or two martyrs,' and I was with him.\" Some men responded and affirmed that. Then he said: \"By Allah, I adjure a man who witnessed the Messenger of Allah, on the day of Bai'at Al-Ridwan, say: 'This is the Hand of Allah and this is the hand of 'Uthman.'\" Some men responded and affirmed that. He said: \"By Allah, I adjure a man who heard the Messenger of Allah say, on the day of the army of Al-'Usrah (i.e. Tabuk): 'Who will spend and it will be accepted?' And I equipped half of the army from my own wealth.\" Some men responded and affirmed that. Then he said: \"By Allah, I adjure a man who heard the Messenger of Allah say: 'Who will add to this Masjid in return for a house in Paradise,' and I bought it with my own wealth.\" Some men responded and affirmed that. Then he said: \"By Allah, I adjure a man who witness Rumah being sold, and I bought it from my own wealth and allowed wayfarers to use it.\" Some men responded and affirmed that.",
+      "narrator": "It was narrated from Abu Salamah bin 'Abdur-Rahman that 'Uthman looked out over them when they besieged him and said:",
+      "reference": "Hadith 3617"
     },
     {
-      "id": 3580,
-      "text_ar": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا يُونُسُ، عَنْ عَمْرِو بْنِ سَعِيدٍ، عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ، عَنْ جَرِيرٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَفْتِلُ نَاصِيَةَ فَرَسٍ بَيْنَ أُصْبُعَيْهِ وَيَقُولُ \" الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ الأَجْرُ وَالْغَنِيمَةُ \" .",
-      "text_en": "\"I saw the Messenger of Allah twisting the forelock of a horse with his two fingers, and saying: 'Goodness is tied to the forelocks of horses until the Day of Resurrection: Reward and spoils of war.'\"",
-      "narrator": "It was narrated that Jarir said:",
-      "reference": "Hadith 3580"
-    },
-    {
-      "id": 3581,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ \" الْخَيْلُ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ \" .",
-      "text_en": "\"There is goodness in the forelocks of horses until the Day of Resurrection.\"",
-      "narrator": "It was narrated from Ibn 'Umar that the Prophet said:",
-      "reference": "Hadith 3581"
-    },
-    {
-      "id": 3582,
-      "text_ar": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ أَبُو كُرَيْبٍ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ حُصَيْنٍ، عَنْ عَامِرٍ، عَنْ عُرْوَةَ الْبَارِقِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ \" .",
-      "text_en": "\"The Messenger of Allah said: 'Goodness is tied to the forelocks of horses until the Day of Resurrection.'\"",
-      "narrator": "It was narrated that 'Urwah Al-Bariqi said:",
-      "reference": "Hadith 3582"
-    },
-    {
-      "id": 3583,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ حُصَيْنٍ، عَنِ الشَّعْبِيِّ، عَنْ عُرْوَةَ بْنِ أَبِي الْجَعْدِ، أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ \" الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ الأَجْرُ وَالْمَغْنَمُ \" .",
-      "text_en": "\"Goodness is tied to the forelocks of horses until the Day of Resurrection: Reward and spoils of war.\"",
-      "narrator": "It was narrated from 'Urwah bin Abi Al-Ja'd that he heard the Prophet say:",
-      "reference": "Hadith 3583"
-    },
-    {
-      "id": 3584,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ، عَنْ عُرْوَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ الأَجْرُ وَالْمَغْنَمُ \" .",
-      "text_en": "\"Goodness is tied to the forelocks of horses until the Day of Resurrection: Reward and spoils of war.\"",
-      "narrator": "It was narrated that 'Urwah said that he heard the Messenger of Allah say:",
-      "reference": "Hadith 3584"
-    },
-    {
-      "id": 3585,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ أَنْبَأَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي حُصَيْنٌ، وَعَبْدُ اللَّهِ بْنُ أَبِي السَّفَرِ، أَنَّهُمَا سَمِعَا الشَّعْبِيَّ، يُحَدِّثُ عَنْ عُرْوَةَ بْنِ أَبِي الْجَعْدِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ الأَجْرُ وَالْمَغْنَمُ \" .",
-      "text_en": "\"Goodness is tied to the forelocks of horses until the Day of Resurrection: Reward and spoils of war.\"",
-      "narrator": "It was narrated from 'Urwah bin Abi Al-Ja'd that the Prophet said:",
-      "reference": "Hadith 3585"
-    },
-    {
-      "id": 3586,
-      "text_ar": "أَخْبَرَنَا الْحَسَنُ بْنُ إِسْمَاعِيلَ بْنِ مُجَالِدٍ، قَالَ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ، قَالَ حَدَّثَنِي أَبُو سَلاَّمٍ الدِّمَشْقِيُّ، عَنْ خَالِدِ بْنِ يَزِيدَ الْجُهَنِيِّ، قَالَ كَانَ عُقْبَةُ بْنُ عَامِرٍ يَمُرُّ بِي فَيَقُولُ يَا خَالِدُ اخْرُجْ بِنَا نَرْمِي . فَلَمَّا كَانَ ذَاتَ يَوْمٍ أَبْطَأْتُ عَنْهُ فَقَالَ يَا خَالِدُ تَعَالَ أُخْبِرْكَ بِمَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ فَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنَّ اللَّهَ يُدْخِلُ بِالسَّهْمِ الْوَاحِدِ ثَلاَثَةَ نَفَرٍ الْجَنَّةَ صَانِعَهُ يَحْتَسِبُ فِي صُنْعِهِ الْخَيْرَ وَالرَّامِيَ بِهِ وَمُنَبِّلَهُ وَارْمُوا وَارْكَبُوا وَأَنْ تَرْمُوا أَحَبُّ إِلَىَّ مِنْ أَنْ تَرْكَبُوا وَلَيْسَ اللَّهْوُ إِلاَّ فِي ثَلاَثَةٍ تَأْدِيبِ الرَّجُلِ فَرَسَهُ وَمُلاَعَبَتِهِ امْرَأَتَهُ وَرَمْيِهِ بِقَوْسِهِ وَنَبْلِهِ وَمَنْ تَرَكَ الرَّمْىَ بَعْدَ مَا عَلِمَهُ رَغْبَةً عَنْهُ فَإِنَّهَا نِعْمَةٌ كَفَرَهَا \" . أَوْ قَالَ \" كَفَرَ بِهَا \" .",
-      "text_en": "\"Uqbah bin 'Amir used to pass by me and say: 'O Khalid, let us go out and shoot arrows.' One day I came late and he said: 'O Khalid, come and I will tell you what the Messenger of Allah said.' So I went to him and he said: 'The Messenger of Allah said: Allah will admit three people to Paradise because of one arrow: The one who makes it seeking good thereby, the one who shoots it and the one who hands it to him. So shoot and ride, and if you shoot that is dearer to me than if you ride. And play is only in three things: A man training his horse, and playing with his wife, and shooting with his bow and arrow. Whoever gives up shooting after learning it because he is no longer interested in it, that is a blessing for which he is ungrateful -or that he has rejected.'\"",
-      "narrator": "It was narrated that Khalid bin Yazid Al-Juhani said:",
-      "reference": "Hadith 3586"
-    },
-    {
-      "id": 3587,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ أَنْبَأَنَا يَحْيَى، قَالَ حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنْ سُوَيْدِ بْنِ قَيْسٍ، عَنْ مُعَاوِيَةَ بْنِ حُدَيْجٍ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" مَا مِنْ فَرَسٍ عَرَبِيِّ إِلاَّ يُؤْذَنُ لَهُ عِنْدَ كُلِّ سَحَرٍ بِدَعْوَتَيْنِ اللَّهُمَّ خَوَّلْتَنِي مَنْ خَوَّلْتَنِي مِنْ بَنِي آدَمَ وَجَعَلْتَنِي لَهُ فَاجْعَلْنِي أَحَبَّ أَهْلِهِ وَمَالِهِ إِلَيْهِ أَوْ مِنْ أَحَبِّ مَالِهِ وَأَهْلِهِ إِلَيْهِ \" .",
-      "text_en": "\"The Messenger of Allah said: 'There is no Arabian horse but it is allowed to offer two supplications every Sahar (end of the night): O Allah, You have caused me to be owned by whoever You wanted among the sons of Adam, and you have made me belong to him. Make me the dearest of his family and wealth to him, or among the dearest of his family and wealth to him.'\"",
-      "narrator": "It was narrated that Abu Dharr said:",
-      "reference": "Hadith 3587"
-    },
-    {
-      "id": 3588,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنِ ابْنِ زُرَيْرٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رضى الله عنه قَالَ أُهْدِيَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بَغْلَةٌ فَرَكِبَهَا فَقَالَ عَلِيٌّ لَوْ حَمَلْنَا الْحَمِيرَ عَلَى الْخَيْلِ لَكَانَتْ لَنَا مِثْلَ هَذِهِ . قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنَّمَا يَفْعَلُ ذَلِكَ الَّذِينَ لاَ يَعْلَمُونَ \" .",
-      "text_en": "\"A mule was given as a gift to the Messenger of Allah and he rode it.\" 'Ali said: \"If we mate a donkey with a horse, we will have one like this.\" The Messenger of Allah said: \"That is only done by those who do not know.\"",
-      "narrator": "It was narrated that Ali bin Abi Talib, may Allah be pleased with him, said:",
-      "reference": "Hadith 3588"
-    },
-    {
-      "id": 3589,
-      "text_ar": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَبِي جَهْضَمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدِ اللَّهِ بْنِ عَبَّاسٍ، قَالَ كُنْتُ عِنْدَ ابْنِ عَبَّاسٍ فَسَأَلَهُ رَجُلٌ أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْرَأُ فِي الظُّهْرِ وَالْعَصْرِ قَالَ لاَ . قَالَ فَلَعَلَّهُ كَانَ يَقْرَأُ فِي نَفْسِهِ قَالَ خَمْشًا هَذِهِ شَرٌّ مِنَ الأُولَى إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم عَبْدٌ أَمَرَهُ اللَّهُ تَعَالَى بِأَمْرِهِ فَبَلَّغَهُ وَاللَّهِ مَا اخْتَصَّنَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِشَىْءٍ دُونَ النَّاسِ إِلاَّ بِثَلاَثَةٍ أَمَرَنَا أَنْ نُسْبِغَ الْوُضُوءَ وَأَنْ لاَ نَأْكُلَ الصَّدَقَةَ وَلاَ نُنْزِيَ الْحُمُرَ عَلَى الْخَيْلِ .",
-      "text_en": "I was with Ibn 'Abbas and a man asked him: \"Did the Messenger of Allah recite during Zuhr and 'Asr?\" He said: \"No.\" He said: \"Perhaps he used to recite to himself?\" He said: \"May your face be scratched! This question is worse than the first one. The Messenger of Allah was a slave whose Lord commanded him and he conveyed (the message). By Allah, the Messenger of Allah did not specify anything for us above the people, except for three things: He commanded us to perform Wudu' properly, not to consume charity, and not to mate donkeys with horses.\"",
-      "narrator": "It was narrated that 'Abdullah bin 'Ubaidullah bin 'Abbas said:",
-      "reference": "Hadith 3589"
-    },
-    {
-      "id": 3590,
-      "text_ar": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، حَدَّثَنِي طَلْحَةُ بْنُ أَبِي سَعِيدٍ، أَنَّ سَعِيدًا الْمَقْبُرِيَّ، حَدَّثَهُ عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ \" مَنِ احْتَبَسَ فَرَسًا فِي سَبِيلِ اللَّهِ إِيمَانًا بِاللَّهِ وَتَصْدِيقًا لِوَعْدِ اللَّهِ كَانَ شِبَعُهُ وَرِيُّهُ وَبَوْلُهُ وَرَوْثُهُ حَسَنَاتٍ فِي مِيزَانِهِ \" .",
-      "text_en": "\"Whoever keeps a horse for the cause of Allah out of faith in Allah and believing the promise of Allah, its feed, water, urine and dung will all count as Hasanat in the balance of his deeds.\"",
-      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah said:",
-      "reference": "Hadith 3590"
-    },
-    {
-      "id": 3591,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَابَقَ بَيْنَ الْخَيْلِ يُرْسِلُهَا مِنَ الْحَفْيَاءِ وَكَانَ أَمَدُهَا ثَنِيَّةَ الْوَدَاعِ وَسَابَقَ بَيْنَ الْخَيْلِ الَّتِي لَمْ تُضْمَرْ وَكَانَ أَمَدُهَا مِنَ الثَّنِيَّةِ إِلَى مَسْجِدِ بَنِي زُرَيْقٍ .",
-      "text_en": "It was narrated from Ibn 'Umar that the Messenger of Allah organized a horse race and sent them from Al-Hafya' and its finish line was Thaniyyat Al-Wada'; and he organized a race for horses that had not been made lean, and the course stretched from Ath-Thaniyyah to the Masjid of Banu Zuraiq.",
-      "narrator": "",
-      "reference": "Hadith 3591"
-    },
-    {
-      "id": 3592,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَابَقَ بَيْنَ الْخَيْلِ الَّتِي قَدْ أُضْمِرَتْ مِنَ الْحَفْيَاءِ وَكَانَ أَمَدُهَا ثَنِيَّةَ الْوَدَاعِ وَسَابَقَ بَيْنَ الْخَيْلِ الَّتِي لَمْ تُضْمَرْ مِنَ الثَّنِيَّةِ إِلَى مَسْجِدِ بَنِي زُرَيْقٍ وَأَنَّ عَبْدَ اللَّهِ كَانَ مِمَّنْ سَابَقَ بِهَا .",
-      "text_en": "It was narrated from Ibn 'Umar that the Messenger of Allah organized a race for horses that had been made lean, from Al-Hafya' and its finish line was Thaniyyat Al-Wada', and he organized another race for horses that had not been made lean, from Ath-Thaniyyah to the Masjid of Banu Zuraiq, and 'Abdullah was among those who took part in the race.",
-      "narrator": "",
-      "reference": "Hadith 3592"
-    },
-    {
-      "id": 3593,
-      "text_ar": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ نَافِعِ بْنِ أَبِي نَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" لاَ سَبَقَ إِلاَّ فِي نَصْلٍ أَوْ حَافِرٍ أَوْ خُفٍّ \" .",
-      "text_en": "\"There should be no awards (for victory in a competition) except for arrows, camels or horses.\"",
-      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah said:",
-      "reference": "Hadith 3593"
-    },
-    {
-      "id": 3594,
-      "text_ar": "أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ أَبُو عُبَيْدِ اللَّهِ الْمَخْزُومِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ نَافِعِ بْنِ أَبِي نَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" لاَ سَبَقَ إِلاَّ فِي نَصْلٍ أَوْ خُفٍّ أَوْ حَافِرٍ \" .",
-      "text_en": "\"There should be no awards (for victory in a competition) except on arrows, camels or horses.\"",
-      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah said:",
-      "reference": "Hadith 3594"
-    },
-    {
-      "id": 3595,
-      "text_ar": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، قَالَ أَنْبَأَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي جَعْفَرٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أَبِي عَبْدِ اللَّهِ، مَوْلَى الْجُنْدَعِيِّينَ عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه قَالَ لاَ يَحِلُّ سَبَقٌ إِلاَّ عَلَى خُفٍّ أَوْ حَافِرٍ .",
-      "text_en": "\"No award (for victory in a competition) is permissible except over camels or horses.\"",
-      "narrator": "It was narrated that Abu Hurairah said:",
-      "reference": "Hadith 3595"
-    },
-    {
-      "id": 3596,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ خَالِدٍ، قَالَ حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسٍ، قَالَ كَانَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم نَاقَةٌ تُسَمَّى الْعَضْبَاءَ لاَ تُسْبَقُ فَجَاءَ أَعْرَابِيٌّ عَلَى قَعُودٍ فَسَبَقَهَا فَشَقَّ عَلَى الْمُسْلِمِينَ فَلَمَّا رَأَى مَا فِي وُجُوهِهِمْ قَالُوا يَا رَسُولَ اللَّهِ سُبِقَتِ الْعَضْبَاءُ . قَالَ \" إِنَّ حَقًّا عَلَى اللَّهِ أَنْ لاَ يَرْتَفِعَ مِنَ الدُّنْيَا شَىْءٌ إِلاَّ وَضَعَهُ \" .",
-      "text_en": "\"The Messenger of Allah had a she-camel called Al-'Adba' which could not be beaten. One day a Bedouin came on a riding-camel and beat her (in a race). The Muslims were upset by that, and when he saw the expressions on their faces they said: 'O Messenger of Allah, Al-'Adba' has been beaten.' He said: 'It is a right upon Allah that nothing is raised in this world except He lowers it.'\"",
-      "narrator": "It was narrated that Anas said:",
-      "reference": "Hadith 3596"
-    },
-    {
-      "id": 3597,
-      "text_ar": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي الْحَكَمِ، - مَوْلًى لِبَنِي لَيْثٍ - عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" لاَ سَبَقَ إِلاَّ فِي خُفٍّ أَوْ حَافِرٍ \" .",
-      "text_en": "\"There should be no awards (for victory in a competition) except over camels or horses.\"",
-      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah said:",
-      "reference": "Hadith 3597"
-    },
-    {
-      "id": 3598,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنَا حُمَيْدٌ، قَالَ حَدَّثَنَا الْحَسَنُ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" لاَ جَلَبَ وَلاَ جَنَبَ وَلاَ شِغَارَ فِي الإِسْلاَمِ وَمَنِ انْتَهَبَ نُهْبَةً فَلَيْسَ مِنَّا \" .",
-      "text_en": "\"There is no 'bringing', no 'avoidance' and no Shighar in Islam, and whoever robs is not one of us.\"",
-      "narrator": "It was narrated from 'Imran bin Husain that the Messenger of Allah said:",
-      "reference": "Hadith 3598"
-    },
-    {
-      "id": 3599,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي قَزَعَةَ، عَنِ الْحَسَنِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" لاَ جَلَبَ وَلاَ جَنَبَ وَلاَ شِغَارَ فِي الإِسْلاَمِ \" .",
-      "text_en": "\"There is no 'bringing', no 'avoidance' and no Shighar in Islam.\"",
-      "narrator": "It was narrated from 'Imran bin Husain that the Messenger of Allah said:",
-      "reference": "Hadith 3599"
-    },
-    {
-      "id": 3600,
-      "text_ar": "أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرٍ، قَالَ حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ، قَالَ حَدَّثَنَى شُعْبَةُ، قَالَ حَدَّثَنِي حُمَيْدٌ الطَّوِيلُ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ سَابَقَ رَسُولَ اللَّهِ صلى الله عليه وسلم أَعْرَابِيٌّ فَسَبَقَهُ فَكَأَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَجَدُوا فِي أَنْفُسِهِمْ مِنْ ذَلِكَ فَقِيلَ لَهُ فِي ذَلِكَ فَقَالَ \" حَقٌّ عَلَى اللَّهِ أَنْ لاَ يَرْفَعَ شَىْءٌ نَفْسَهُ فِي الدُّنْيَا إِلاَّ وَضَعَهُ اللَّهُ \" .",
-      "text_en": "\"The Messenger of Allah raced with a Bedouin and (the latter) won. It was as if the Companions of the Messenger of Allah were upset by this, so he said: 'It is a right upon Allah that there is nothing that raises itself in this world except that He lowers it.'\"",
-      "narrator": "It was narrated that Anas bin Malik said:",
-      "reference": "Hadith 3600"
-    },
-    {
-      "id": 3601,
-      "text_ar": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ يَحْيَى بْنِ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ جَدِّهِ، أَنَّهُ كَانَ يَقُولُ ضَرَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَامَ خَيْبَرَ لِلزُّبَيْرِ بْنِ الْعَوَّامِ أَرْبَعَةَ أَسْهُمٍ سَهْمًا لِلزُّبَيْرِ وَسَهْمًا لِذِي الْقُرْبَى لِصَفِيَّةَ بِنْتِ عَبْدِ الْمُطَّلِبِ أُمِّ الزُّبَيْرِ وَسَهْمَيْنِ لِلْفَرَسِ .",
-      "text_en": "\"In the year of Khaibar, the Messenger of Allah allocated four shares to Az-Zubair bin Al-'Awwam: A share of Az-Zubair, a share for the relatives of Safiyyah bint 'Abdul-Muttalib, the mother of Az-Zubair, and two shares for the horse.\"",
-      "narrator": "It was narrated from Yahya bin 'Abbad bin 'Abdullah bin Az-Zubair, from his grandfather, that he used to say:",
-      "reference": "Hadith 3601"
+      "id": 3618,
+      "text_ar": "أَخْبَرَنِي مُحَمَّدُ بْنُ وَهْبٍ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنِي أَبُو عَبْدِ الرَّحِيمِ، قَالَ حَدَّثَنِي زَيْدُ بْنُ أَبِي أُنَيْسَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، قَالَ لَمَّا حُصِرَ عُثْمَانُ فِي دَارِهِ اجْتَمَعَ النَّاسُ حَوْلَ دَارِهِ - قَالَ - فَأَشْرَفَ عَلَيْهِمْ . وَسَاقَ الْحَدِيثَ .",
+      "text_en": "\"When 'Uthman was besieged in his house, the people gathered around his house and he looked out over them\" and he quoted the same Hadith.",
+      "narrator": "It was narrated that 'Abdur-Rahman Al-Sulami said:",
+      "reference": "Hadith 3618"
     }
   ]
 }

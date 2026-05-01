@@ -1,380 +1,331 @@
 {
   "book_id": "nasai",
   "chapter_id": 5,
-  "original_chapter_id": 4,
-  "title_ar": "كتاب الغسل والتيمم",
-  "title_en": "The Book of Ghusl and Tayammum",
+  "original_chapter_id": 5,
+  "title_ar": "كتاب الصلاة",
+  "title_en": "The Book of Salah",
   "entries": [
     {
-      "id": 397,
-      "text_ar": "أَخْبَرَنَا سُلَيْمَانُ بْنُ دَاوُدَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ بُكَيْرٍ، أَنَّ أَبَا السَّائِبِ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" لاَ يَغْتَسِلْ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ وَهُوَ جُنُبٌ \" .",
-      "text_en": "\"The Messenger of Allah (ﷺ) said: 'None of you should perform ghusl in standing water while he is Junub.'\"",
-      "narrator": "Abu Hurairah said:",
-      "reference": "Hadith 397"
+      "id": 450,
+      "text_ar": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا هِشَامٌ الدَّسْتَوَائِيُّ، قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ مَالِكِ بْنِ صَعْصَعَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ \" بَيْنَا أَنَا عِنْدَ الْبَيْتِ بَيْنَ النَّائِمِ وَالْيَقْظَانِ إِذْ أَقْبَلَ أَحَدُ الثَّلاَثَةِ بَيْنَ الرَّجُلَيْنِ فَأُتِيتُ بِطَسْتٍ مِنْ ذَهَبٍ مَلآنَ حِكْمَةً وَإِيمَانًا فَشَقَّ مِنَ النَّحْرِ إِلَى مَرَاقِّ الْبَطْنِ فَغَسَلَ الْقَلْبَ بِمَاءِ زَمْزَمَ ثُمَّ مُلِئَ حِكْمَةً وَإِيمَانًا ثُمَّ أُتِيتُ بِدَابَّةٍ دُونَ الْبَغْلِ وَفَوْقَ الْحِمَارِ ثُمَّ انْطَلَقْتُ مَعَ جِبْرِيلَ عَلَيْهِ السَّلاَمُ فَأَتَيْنَا السَّمَاءَ الدُّنْيَا فَقِيلَ مَنْ هَذَا قَالَ جِبْرِيلُ . قِيلَ وَمَنْ مَعَكَ قَالَ مُحَمَّدٌ . قِيلَ وَقَدْ أُرْسِلَ إِلَيْهِ مَرْحَبًا بِهِ وَنِعْمَ الْمَجِيءُ جَاءَ فَأَتَيْتُ عَلَى آدَمَ عَلَيْهِ السَّلاَمُ فَسَلَّمْتُ عَلَيْهِ قَالَ مَرْحَبًا بِكَ مِنِ ابْنٍ وَنَبِيٍّ . ثُمَّ أَتَيْنَا السَّمَاءَ الثَّانِيَةَ قِيلَ مَنْ هَذَا قَالَ جِبْرِيلُ . قِيلَ وَمَنْ مَعَكَ قَالَ مُحَمَّدٌ فَمِثْلُ ذَلِكَ فَأَتَيْتُ عَلَى يَحْيَى وَعِيسَى فَسَلَّمْتُ عَلَيْهِمَا فَقَالاَ مَرْحَبًا بِكَ مِنْ أَخٍ وَنَبِيٍّ . ثُمَّ أَتَيْنَا السَّمَاءَ الثَّالِثَةَ قِيلَ مَنْ هَذَا قَالَ جِبْرِيلُ . قِيلَ وَمَنْ مَعَكَ قَالَ مُحَمَّدٌ فَمِثْلُ ذَلِكَ فَأَتَيْتُ عَلَى يُوسُفَ عَلَيْهِ السَّلاَمُ فَسَلَّمْتُ عَلَيْهِ قَالَ مَرْحَبًا بِكَ مِنْ أَخٍ وَنَبِيٍّ . ثُمَّ أَتَيْنَا السَّمَاءَ الرَّابِعَةَ فَمِثْلُ ذَلِكَ فَأَتَيْتُ عَلَى إِدْرِيسَ عَلَيْهِ السَّلاَمُ فَسَلَّمْتُ عَلَيْهِ فَقَالَ مَرْحَبًا بِكَ مِنْ أَخٍ وَنَبِيٍّ . ثُمَّ أَتَيْنَا السَّمَاءَ الْخَامِسَةَ فَمِثْلُ ذَلِكَ فَأَتَيْتُ عَلَى هَارُونَ عَلَيْهِ السَّلاَمُ فَسَلَّمْتُ عَلَيْهِ قَالَ مَرْحَبًا بِكَ مِنْ أَخٍ وَنَبِيٍّ . ثُمَّ أَتَيْنَا السَّمَاءَ السَّادِسَةَ فَمِثْلُ ذَلِكَ ثُمَّ أَتَيْتُ عَلَى مُوسَى عَلَيْهِ السَّلاَمُ فَسَلَّمْتُ عَلَيْهِ فَقَالَ مَرْحَبًا بِكَ مِنْ أَخٍ وَنَبِيٍّ . فَلَمَّا جَاوَزْتُهُ بَكَى قِيلَ مَا يُبْكِيكَ قَالَ يَا رَبِّ هَذَا الْغُلاَمُ الَّذِي بَعَثْتَهُ بَعْدِي يَدْخُلُ مِنْ أُمَّتِهِ الْجَنَّةَ أَكْثَرُ وَأَفْضَلُ مِمَّا يَدْخُلُ مِنْ أُمَّتِي . ثُمَّ أَتَيْنَا السَّمَاءَ السَّابِعَةَ فَمِثْلُ ذَلِكَ فَأَتَيْتُ عَلَى إِبْرَاهِيمَ عَلَيْهِ السَّلاَمُ فَسَلَّمْتُ عَلَيْهِ فَقَالَ مَرْحَبًا بِكَ مِنِ ابْنٍ وَنَبِيٍّ . ثُمَّ رُفِعَ لِيَ الْبَيْتُ الْمَعْمُورُ فَسَأَلْتُ جِبْرِيلَ فَقَالَ هَذَا الْبَيْتُ الْمَعْمُورُ يُصَلِّي فِيهِ كُلَّ يَوْمٍ سَبْعُونَ أَلْفَ مَلَكٍ فَإِذَا خَرَجُوا مِنْهُ لَمْ يَعُودُوا فِيهِ آخِرَ مَا عَلَيْهِمْ ثُمَّ رُفِعَتْ لِي سِدْرَةُ الْمُنْتَهَى فَإِذَا نَبِقُهَا مِثْلُ قِلاَلِ هَجَرٍ وَإِذَا وَرَقُهَا مِثْلُ آذَانِ الْفِيَلَةِ وَإِذَا فِي أَصْلِهَا أَرْبَعَةُ أَنْهَارٍ نَهْرَانِ بَاطِنَانِ وَنَهْرَانِ ظَاهِرَانِ فَسَأَلْتُ جِبْرِيلَ فَقَالَ أَمَّا الْبَاطِنَانِ فَفِي الْجَنَّةِ وَأَمَّا الظَّاهِرَانِ فَالْفُرَاتُ وَالنِّيلُ ثُمَّ فُرِضَتْ عَلَىَّ خَمْسُونَ صَلاَةً فَأَتَيْتُ عَلَى مُوسَى فَقَالَ مَا صَنَعْتَ قُلْتُ فُرِضَتْ عَلَىَّ خَمْسُونَ صَلاَةً . قَالَ إِنِّي أَعْلَمُ بِالنَّاسِ مِنْكَ إِنِّي عَالَجْتُ بَنِي إِسْرَائِيلَ أَشَدَّ الْمُعَالَجَةِ وَإِنَّ أُمَّتَكَ لَنْ يُطِيقُوا ذَلِكَ فَارْجِعْ إِلَى رَبِّكَ فَاسْأَلْهُ أَنْ يُخَفِّفَ عَنْكَ فَرَجَعْتُ إِلَى رَبِّي فَسَأَلْتُهُ أَنْ يُخَفِّفَ عَنِّي فَجَعَلَهَا أَرْبَعِينَ ثُمَّ رَجَعْتُ إِلَى مُوسَى عَلَيْهِ السَّلاَمُ فَقَالَ مَا صَنَعْتَ قُلْتُ جَعَلَهَا أَرْبَعِينَ . فَقَالَ لِي مِثْلَ مَقَالَتِهِ الأُولَى فَرَجَعْتُ إِلَى رَبِّي عَزَّ وَجَلَّ فَجَعَلَهَا ثَلاَثِينَ فَأَتَيْتُ عَلَى مُوسَى عَلَيْهِ السَّلاَمُ فَأَخْبَرْتُهُ فَقَالَ لِي مِثْلَ مَقَالَتِهِ الأُولَى فَرَجَعْتُ إِلَى رَبِّي فَجَعَلَهَا عِشْرِينَ ثُمَّ عَشْرَةً ثُمَّ خَمْسَةً فَأَتَيْتُ عَلَى مُوسَى عَلَيْهِ السَّلاَمُ فَقَالَ لِي مِثْلَ مَقَالَتِهِ الأُولَى فَقُلْتُ إِنِّي أَسْتَحِي مِنْ رَبِّي عَزَّ وَجَلَّ أَنْ أَرْجِعَ إِلَيْهِ فَنُودِيَ أَنْ قَدْ أَمْضَيْتُ فَرِيضَتِي وَخَفَّفْتُ عَنْ عِبَادِي وَأَجْزِي بِالْحَسَنَةِ عَشْرَ أَمْثَالِهَا \" .",
+      "text_en": "\"While I was at the Ka'bah, in a state between sleep and wakefulness, three men came, and one of them who was in the middle came toward me. I was brought a basin of gold, filled with wisdom and faith, and he slit open from the throat to the lower abdomen, and washed the heart with Zamzam water, then - \"it was filled with wisdom and faith. Then I was brought a riding-beast, smaller than a mule and bigger than a donkey. I set off with Jibril, peace be upon him, and we came to the lowest heaven. It was said: 'Who is with you?' He said: 'Muhammad.' It was said: 'Has (revelation) been sent to him? Welcome to him, what an excellent visit his is.' I came to Adam, peace be upon him, and greeted him, and he said: 'Welcome to you! What an excellent son and Prophet.' Then we came to the second heaven and it was said: 'Who is this?' He said: 'Jibra'il.' of Hajar and its leaves were like the ears of elephants. At its base were four rivers: Two hidden rivers and two manifest rivers. I asked Jibril (About them) and he said: 'The two hidden ones are in paradise, and the two manifest ones are the Euphrates and the Nile.' Then fifty prayers were enjoined upon me. I came to Musa and he said: 'What happened?' I said: 'Fifty prayers have been enjoined upon me.' He said: 'I know more about the people than you. I tried hard with the Children of Israel. Your Ummah will never be able to bear that. Go back to your Lord and ask Him to reduce it for you.' So I went back to my Lord and asked Him to reduce it, and He made it forty. Then I went back to Musa, peace be upon him, and he said: 'What happened?' I said: 'He made it forty.' He said to me something similar to what he said the first time, so I went back to my Lord and He made it thirty. I came to Musa, peace be upon him, and told him, and he said to me something similar to what he said the first time, so I went back to my Lord and he made it twenty, then ten, then five. I came to Musa, peace be upon him, and he said to me something like he had said the first time, but I said: 'I feel too shy before my Lord to go back to Him.' Then it was called out: 'I have decreed (the reward for) My obligation, and I have reduced the burden for My slaves and I will give a ten-fold reward for each good deed.'\" It is like this here, while it is Jibra'il the first time it appears in this narration, and Jibra'il is often used in the Hadith literature. Plural of Qullah",
+      "narrator": "It was narrated from Anas bin Malik, from Malik bin Sa'sa'ah, that the Prophet (ﷺ) said:",
+      "reference": "Hadith 450"
     },
     {
-      "id": 398,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ حَدَّثَنَا حِبَّانُ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" لاَ يَبُولَنَّ الرَّجُلُ فِي الْمَاءِ الدَّائِمِ ثُمَّ يَغْتَسِلُ مِنْهُ أَوْ يَتَوَضَّأُ \" .",
-      "text_en": "\"None of you should urinate into standing water and then perform Ghusl or Wudu' with it.\"",
+      "id": 451,
+      "text_ar": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَنَسُ بْنُ مَالِكٍ وَابْنُ حَزْمٍ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" فَرَضَ اللَّهُ عَزَّ وَجَلَّ عَلَى أُمَّتِي خَمْسِينَ صَلاَةً فَرَجَعْتُ بِذَلِكَ حَتَّى أَمُرَّ بِمُوسَى عَلَيْهِ السَّلاَمُ فَقَالَ مَا فَرَضَ رَبُّكَ عَلَى أُمَّتِكَ قُلْتُ فَرَضَ عَلَيْهِمْ خَمْسِينَ صَلاَةً . قَالَ لِي مُوسَى فَرَاجِعْ رَبَّكَ عَزَّ وَجَلَّ فَإِنَّ أُمَّتَكَ لاَ تُطِيقُ ذَلِكَ . فَرَاجَعْتُ رَبِّي عَزَّ وَجَلَّ فَوَضَعَ شَطْرَهَا فَرَجَعْتُ إِلَى مُوسَى فَأَخْبَرْتُهُ فَقَالَ رَاجِعْ رَبَّكَ فَإِنَّ أُمَّتَكَ لاَ تُطِيقُ ذَلِكَ . فَرَاجَعْتُ رَبِّي عَزَّ وَجَلَّ فَقَالَ هِيَ خَمْسٌ وَهِيَ خَمْسُونَ لاَ يُبَدَّلُ الْقَوْلُ لَدَىَّ . فَرَجَعْتُ إِلَى مُوسَى فَقَالَ رَاجِعْ رَبَّكَ فَقُلْتُ قَدِ اسْتَحْيَيْتُ مِنْ رَبِّي عَزَّ وَجَلَّ \" .",
+      "text_en": "\"The Messenger of Allah (ﷺ) said: 'Allah, the Mighty and Sublime, enjoined fifty prayers upon my Ummah, and I came back with that until I passed by Musa, peace be upon him, who said: 'What has your Lord enjoined upon your Ummah?' I said: 'He has enjoined fifty prayers on them.' Musa said to me: 'Go back to your Lord, the Mighty and Sublime, for your Ummah will not be able to do that.' So I went back to my Lord, the Mighty and Sublime, and He reduced a portion of it. Then I came back to Musa and told him, and he said: 'Go back to you Lord, for your Ummah will not be able to do that.' So I went back to my Lord, the Mighty and Sublime, and He said: 'They are five (prayers) but they are fifty (in reward), and the Word that comes from Me cannot be changed.' I came back to Musa and he said: 'Go back to your Lord.' I said: 'I feel too shy before my Lord, the Mighty and Sublime.'\" See Surah Qaf 50:29.",
+      "narrator": "Anas bin Malik and Ibn Hazm said:",
+      "reference": "Hadith 451"
+    },
+    {
+      "id": 452,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ هِشَامٍ، قَالَ حَدَّثَنَا مَخْلَدٌ، عَنْ سَعِيدِ بْنِ عَبْدِ الْعَزِيزِ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ أَبِي مَالِكٍ، قَالَ حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" أُتِيتُ بِدَابَّةٍ فَوْقَ الْحِمَارِ وَدُونَ الْبَغْلِ خَطْوُهَا عِنْدَ مُنْتَهَى طَرْفِهَا فَرَكِبْتُ وَمَعِي جِبْرِيلُ عَلَيْهِ السَّلاَمُ فَسِرْتُ فَقَالَ انْزِلْ فَصَلِّ . فَفَعَلْتُ فَقَالَ أَتَدْرِي أَيْنَ صَلَّيْتَ صَلَّيْتَ بِطَيْبَةَ وَإِلَيْهَا الْمُهَاجَرُ ثُمَّ قَالَ انْزِلْ فَصَلِّ . فَصَلَّيْتُ فَقَالَ أَتَدْرِي أَيْنَ صَلَّيْتَ صَلَّيْتَ بِطُورِ سَيْنَاءَ حَيْثُ كَلَّمَ اللَّهُ عَزَّ وَجَلَّ مُوسَى عَلَيْهِ السَّلاَمُ ثُمَّ قَالَ انْزِلْ فَصَلِّ . فَنَزَلْتُ فَصَلَّيْتُ فَقَالَ أَتَدْرِي أَيْنَ صَلَّيْتَ صَلَّيْتَ بِبَيْتِ لَحْمٍ حَيْثُ وُلِدَ عِيسَى عَلَيْهِ السَّلاَمُ . ثُمَّ دَخَلْتُ بَيْتَ الْمَقْدِسِ فَجُمِعَ لِيَ الأَنْبِيَاءُ عَلَيْهِمُ السَّلاَمُ فَقَدَّمَنِي جِبْرِيلُ حَتَّى أَمَمْتُهُمْ ثُمَّ صُعِدَ بِي إِلَى السَّمَاءِ الدُّنْيَا فَإِذَا فِيهَا آدَمُ عَلَيْهِ السَّلاَمُ ثُمَّ صُعِدَ بِي إِلَى السَّمَاءِ الثَّانِيَةِ فَإِذَا فِيهَا ابْنَا الْخَالَةِ عِيسَى وَيَحْيَى عَلَيْهِمَا السَّلاَمُ ثُمَّ صُعِدَ بِي إِلَى السَّمَاءِ الثَّالِثَةِ فَإِذَا فِيهَا يُوسُفُ عَلَيْهِ السَّلاَمُ ثُمَّ صُعِدَ بِي إِلَى السَّمَاءِ الرَّابِعَةِ فَإِذَا فِيهَا هَارُونُ عَلَيْهِ السَّلاَمُ ثُمَّ صُعِدَ بِي إِلَى السَّمَاءِ الْخَامِسَةِ فَإِذَا فِيهَا إِدْرِيسُ عَلَيْهِ السَّلاَمُ ثُمَّ صُعِدَ بِي إِلَى السَّمَاءِ السَّادِسَةِ فَإِذَا فِيهَا مُوسَى عَلَيْهِ السَّلاَمُ ثُمَّ صُعِدَ بِي إِلَى السَّمَاءِ السَّابِعَةِ فَإِذَا فِيهَا إِبْرَاهِيمُ عَلَيْهِ السَّلاَمُ ثُمَّ صُعِدَ بِي فَوْقَ سَبْعِ سَمَوَاتٍ فَأَتَيْنَا سِدْرَةَ الْمُنْتَهَى فَغَشِيَتْنِي ضَبَابَةٌ فَخَرَرْتُ سَاجِدًا فَقِيلَ لِي إِنِّي يَوْمَ خَلَقْتُ السَّمَوَاتِ وَالأَرْضَ فَرَضْتُ عَلَيْكَ وَعَلَى أُمَّتِكَ خَمْسِينَ صَلاَةً فَقُمْ بِهَا أَنْتَ وَأُمَّتُكَ . فَرَجَعْتُ إِلَى إِبْرَاهِيمَ فَلَمْ يَسْأَلْنِي عَنْ شَىْءٍ ثُمَّ أَتَيْتُ عَلَى مُوسَى فَقَالَ كَمْ فَرَضَ اللَّهُ عَلَيْكَ وَعَلَى أُمَّتِكَ قُلْتُ خَمْسِينَ صَلاَةً . قَالَ فَإِنَّكَ لاَ تَسْتَطِيعُ أَنْ تَقُومَ بِهَا أَنْتَ وَلاَ أُمَّتُكَ فَارْجِعْ إِلَى رَبِّكَ فَاسْأَلْهُ التَّخْفِيفَ . فَرَجَعْتُ إِلَى رَبِّي فَخَفَّفَ عَنِّي عَشْرًا ثُمَّ أَتَيْتُ مُوسَى فَأَمَرَنِي بِالرُّجُوعِ فَرَجَعْتُ فَخَفَّفَ عَنِّي عَشْرًا ثُمَّ رُدَّتْ إِلَى خَمْسِ صَلَوَاتٍ . قَالَ فَارْجِعْ إِلَى رَبِّكَ فَاسْأَلْهُ التَّخْفِيفَ فَإِنَّهُ فَرَضَ عَلَى بَنِي إِسْرَائِيلَ صَلاَتَيْنِ فَمَا قَامُوا بِهِمَا . فَرَجَعْتُ إِلَى رَبِّي عَزَّ وَجَلَّ فَسَأَلْتُهُ التَّخْفِيفَ فَقَالَ إِنِّي يَوْمَ خَلَقْتُ السَّمَوَاتِ وَالأَرْضَ فَرَضْتُ عَلَيْكَ وَعَلَى أُمَّتِكَ خَمْسِينَ صَلاَةً فَخَمْسٌ بِخَمْسِينَ فَقُمْ بِهَا أَنْتَ وَأُمَّتُكَ . فَعَرَفْتُ أَنَّهَا مِنَ اللَّهِ تَبَارَكَ وَتَعَالَى صِرَّى فَرَجَعْتُ إِلَى مُوسَى عَلَيْهِ السَّلاَمُ فَقَالَ ارْجِعْ فَعَرَفْتُ أَنَّهَا مِنَ اللَّهِ صِرَّى - أَىْ حَتْمٌ - فَلَمْ أَرْجِعْ .",
+      "text_en": "\"I was brought an animal that was larger than a donkey and smaller than a mule, whose stride could reach as far as it could see. I mounted it, and Jibril was with me, and I set off. Then he said: 'Dismount and pray,' so I did that. He said: 'Do you know where you have prayed? You have prayed in Taibah, which will be the place of the emigration.' Then he said: 'Dismount and pray,' so I prayed. He said: 'Do you know where you have prayed? You have prayed in Mount Sinai, where Allah, the Mighty and Sublime, spoke to Musa, peace be upon him.' So I dismounted and prayed, and he said: 'Do you know where you have prayed? You have prayed in Bethlehem, where 'Eisa, peace be upon him, was born.' Then I entered Bait Al-Maqdis (Jerusalem) where the Prophets, peace be upon them, were assembled for me, and Jibril brought me forward to lead them in prayer. Then I was taken up to the first heaven, where I saw Adam, peace be upon him. Then I was taken up to the second heaven where I saw the maternal cousins 'Eisa and Yahya, peace be upon them. Then I was taken up to the third heaven where I saw Yusuf, peace be upon him. Then I was taken up to the fourth heaven where I saw Harun, peace be upon him. Then I was taken up to the fifth heaven where I saw Idris, peace be upon him. Then I was taken up to the sixth heaven where I saw Musa, peace be upon him. Then I was taken up to the seventh heaven where I saw Ibrahim, peace be upon him. Then I was taken up above seven heavens and we came to Sidrah Al-Muntaha and I was covered with fog. I fell down prostrate and it was said to me: '(Indeed) The day I created the heavens and the Earth, I enjoined upon you and your Ummah fifty prayers, so establish them, you and your Ummah.' I came back to Ibrahim and he did not ask me about anything, then I came to Musa and he said: 'How much did your Lord enjoin upon you and your Ummah?' I said: 'Fifty prayers.' He said: 'You will not be able to establish them, neither you nor your Ummah. Go back to your Lord and ask Him to reduce it.' So I went back to my Lord and He reduced it by ten. Then I came to Musa and he told me to go back, so I went back and He reduced it by ten. Then I came to Musa and he told me to go back, so I went back and He reduced it by ten. Then it was reduced it by ten. Then it was reduced to five prayers. He (Musa) said: 'Go back to you Lord and ask Him to reduce it, for two prayers were enjoined upon the Children of Israel but they did not establish them.' So I went back to my Lord and asked Him to reduce it, but He said: 'The day I created the heavens and the Earth, I enjoined fifty prayers upon you and your Ummah. Five is for fifty, so establish them, you and your Ummah.' I knew that this was what Allah, the Mighty and Sublime, had determined so I went back to Musa, peace be upon him, and he said: 'Go back.' But I knew that it was what Allah had determined, so I did not go back.\"",
+      "narrator": "Anas bin Malik narrated that the Messenger of Allah (ﷺ) said:",
+      "reference": "Hadith 452"
+    },
+    {
+      "id": 453,
+      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، قَالَ حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ، عَنِ الزُّبَيْرِ بْنِ عَدِيٍّ، عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ، عَنْ مُرَّةَ، عَنْ عَبْدِ اللَّهِ، قَالَ لَمَّا أُسْرِيَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم انْتُهِيَ بِهِ إِلَى سِدْرَةِ الْمُنْتَهَى وَهِيَ فِي السَّمَاءِ السَّادِسَةِ وَإِلَيْهَا يَنْتَهِي مَا عُرِجَ بِهِ مِنْ تَحْتِهَا وَإِلَيْهَا يَنْتَهِي مَا أُهْبِطَ بِهِ مِنْ فَوْقِهَا حَتَّى يُقْبَضَ مِنْهَا قَالَ { إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى } قَالَ فَرَاشٌ مِنْ ذَهَبٍ فَأُعْطِيَ ثَلاَثًا الصَّلَوَاتُ الْخَمْسُ وَخَوَاتِيمُ سُورَةِ الْبَقَرَةِ وَيُغْفَرُ لِمَنْ مَاتَ مِنْ أُمَّتِهِ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا الْمُقْحِمَاتُ .",
+      "text_en": "\"When the Messenger of Allah (ﷺ) was taken on the Night Journey, he came to Sidrah Al-Muntaha, which is in the sixth heaven. That is where everything that comes up from below ends, and where everything that comes down from above, until it is taken from it. Allah says: When what covered the lote-tree did cover it! An-Najm 53:16. \"The sins of the worst magnitude that drag one into the Fire.\" (An-Nihayah)",
+      "narrator": "It was narrated that 'Abdullah said:",
+      "reference": "Hadith 453"
+    },
+    {
+      "id": 454,
+      "text_ar": "أَخْبَرَنَا سُلَيْمَانُ بْنُ دَاوُدَ، عَنِ ابْنِ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، أَنَّ عَبْدَ رَبِّهِ بْنَ سَعِيدٍ، حَدَّثَهُ أَنَّ الْبُنَانِيَّ حَدَّثَهُ عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ الصَّلَوَاتِ، فُرِضَتْ بِمَكَّةَ وَأَنَّ مَلَكَيْنِ أَتَيَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَذَهَبَا بِهِ إِلَى زَمْزَمَ فَشَقَّا بَطْنَهُ وَأَخْرَجَا حَشْوَهُ فِي طَسْتٍ مِنْ ذَهَبٍ فَغَسَلاَهُ بِمَاءِ زَمْزَمَ ثُمَّ كَبَسَا جَوْفَهُ حِكْمَةً وَعِلْمًا .",
+      "text_en": "It was narrated from Anas bin Malik that the prayers were enjoined in Makkah, and that two angels came to the Messenger of Allah (ﷺ) and took him to Zamzam, where they split open his stomach and took out his innards in a basin of gold, and washed them with Zamzam water, then they filled his heart with wisdom and knowledge.",
+      "narrator": "",
+      "reference": "Hadith 454"
+    },
+    {
+      "id": 455,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ أَوَّلَ مَا فُرِضَتِ الصَّلاَةُ رَكْعَتَيْنِ فَأُقِرَّتْ صَلاَةُ السَّفَرِ وَأُتِمَّتْ صَلاَةُ الْحَضَرِ .",
+      "text_en": "\"The first time the Salah was enjoined it was two Rak'ahs, and it remained as such when traveling, but the Salah while resident was made complete.\"",
+      "narrator": "It was narrated that 'Aishah said:",
+      "reference": "Hadith 455"
+    },
+    {
+      "id": 456,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ هَاشِمٍ الْبَعْلَبَكِّيُّ، قَالَ أَنْبَأَنَا الْوَلِيدُ، قَالَ أَخْبَرَنِي أَبُو عَمْرٍو يَعْنِي الأَوْزَاعِيَّ، أَنَّهُ سَأَلَ الزُّهْرِيَّ عَنْ صَلاَةِ، رَسُولِ اللَّهِ صلى الله عليه وسلم بِمَكَّةَ قَبْلَ الْهِجْرَةِ إِلَى الْمَدِينَةِ قَالَ أَخْبَرَنِي عُرْوَةُ عَنْ عَائِشَةَ قَالَتْ فَرَضَ اللَّهُ عَزَّ وَجَلَّ الصَّلاَةَ عَلَى رَسُولِهِ صلى الله عليه وسلم أَوَّلَ مَا فَرَضَهَا رَكْعَتَيْنِ رَكْعَتَيْنِ ثُمَّ أُتِمَّتْ فِي الْحَضَرِ أَرْبَعًا وَأُقِرَّتْ صَلاَةُ السَّفَرِ عَلَى الْفَرِيضَةِ الأُولَى .",
+      "text_en": "\"Urwah told me that 'Aishah said: 'Allah enjoined the salah upon the Messenger of Allah (ﷺ), and the first thing that He enjoined was two Rak'ahs at a time, then it was made complete four Rak'ahs while in the state of residence but the prayer when traveling remained two Rak'ahs, as it was first enjoined.'\"",
+      "narrator": "Abu 'Amr - meaning, Al-Awza'i - said that he asked Az-Zuhri about the prayer of the Messenger of Allah (ﷺ) in Makkah before the Hijrah to Al-Madinah. He said:",
+      "reference": "Hadith 456"
+    },
+    {
+      "id": 457,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ فُرِضَتِ الصَّلاَةُ رَكْعَتَيْنِ رَكْعَتَيْنِ فَأُقِرَّتْ صَلاَةُ السَّفَرِ وَزِيدَ فِي صَلاَةِ الْحَضَرِ .",
+      "text_en": "\"The Salah was enjoined two Rak'ahs at a time, then the Salah when traveling remained like that, but the Salah while resident was increased.\"",
+      "narrator": "It was narrated that 'Aishah said:",
+      "reference": "Hadith 457"
+    },
+    {
+      "id": 458,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، وَعَبْدُ الرَّحْمَنِ، قَالاَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ بُكَيْرِ بْنِ الأَخْنَسِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ فُرِضَتِ الصَّلاَةُ عَلَى لِسَانِ النَّبِيِّ صلى الله عليه وسلم فِي الْحَضَرِ أَرْبَعًا وَفِي السَّفَرِ رَكْعَتَيْنِ وَفِي الْخَوْفِ رَكْعَةً .",
+      "text_en": "\"The Salah was enjoined on the lips of the Prophet (ﷺ), four Rak'ahs while resident, and two while traveling, and one Rak'ah during times of fear.\"",
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "reference": "Hadith 458"
+    },
+    {
+      "id": 459,
+      "text_ar": "أَخْبَرَنَا يُوسُفُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الشُّعَيْثِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، عَنْ أُمَيَّةَ بْنِ عَبْدِ اللَّهِ بْنِ خَالِدِ بْنِ أَسِيدٍ، أَنَّهُ قَالَ لاِبْنِ عُمَرَ كَيْفَ تَقْصُرُ الصَّلاَةَ وَإِنَّمَا قَالَ اللَّهُ عَزَّ وَجَلَّ { فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنَ الصَّلاَةِ إِنْ خِفْتُمْ } فَقَالَ ابْنُ عُمَرَ يَا ابْنَ أَخِي إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَتَانَا وَنَحْنُ ضُلاَّلٌ فَعَلَّمَنَا فَكَانَ فِيمَا عَلَّمَنَا أَنَّ اللَّهَ عَزَّ وَجَلَّ أَمَرَنَا أَنْ نُصَلِّيَ رَكْعَتَيْنِ فِي السَّفَرِ . قَالَ الشُّعَيْثِيُّ وَكَانَ الزُّهْرِيُّ يُحَدِّثُ بِهَذَا الْحَدِيثِ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ .",
+      "text_en": "\"How can the Salah be shortened as Allah says: There is no sin on you if you shorten As-Salah (the prayer) if you are in fear?\" Ibn 'Umar said: \"O son of my brother! The Messenger of Allah (ﷺ) came to us when we had gone astray and he taught us. One of the things that he taught us was that Allah, the Mighty and Sublime, has commanded us to pray two Rak'ahs when traveling.\" An-Nisa' 4:101.",
+      "narrator": "It was narrated that Umayyah bin 'Abdullah bin Khalid bin Asid said to Ibn 'Umar:",
+      "reference": "Hadith 459"
+    },
+    {
+      "id": 460,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ أَبِي سُهَيْلٍ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ طَلْحَةَ بْنَ عُبَيْدِ اللَّهِ، يَقُولُ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ أَهْلِ نَجْدٍ ثَائِرَ الرَّأْسِ نَسْمَعُ دَوِيَّ صَوْتِهِ وَلاَ نَفْهَمُ مَا يَقُولُ حَتَّى دَنَا فَإِذَا هُوَ يَسْأَلُ عَنِ الإِسْلاَمِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم \" خَمْسُ صَلَوَاتٍ فِي الْيَوْمِ وَاللَّيْلَةِ \" . قَالَ هَلْ عَلَىَّ غَيْرُهُنَّ قَالَ \" لاَ إِلاَّ أَنْ تَطَّوَّعَ \" . قَالَ \" وَصِيَامُ شَهْرِ رَمَضَانَ \" . قَالَ هَلْ عَلَىَّ غَيْرُهُ قَالَ \" لاَ إِلاَّ أَنْ تَطَّوَّعَ \" . وَذَكَرَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم الزَّكَاةَ قَالَ هَلْ عَلَىَّ غَيْرُهَا قَالَ \" لاَ إِلاَّ أَنْ تَطَّوَّعَ \" . فَأَدْبَرَ الرَّجُلُ وَهُوَ يَقُولُ وَاللَّهِ لاَ أَزِيدُ عَلَى هَذَا وَلاَ أَنْقُصُ مِنْهُ . قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" أَفْلَحَ إِنْ صَدَقَ \" .",
+      "text_en": "\"A man from the people of Najd came to the Messenger of Allah (ﷺ) with unkempt hair. We could hear him talking loudly but we could not understand what he was saying until he came closer. He was asking about Islam. The Messenger of Allah (ﷺ) said to him: 'Five prayers each day and night.' He said: 'Do I have to do anything else' He said: 'No, unless you do it voluntarily.' He said: 'And fasting the month of Ramadan.' He said: 'Do I have to do anything else?' He said: 'No, unless you do it voluntarily.' And the Messenger of Allah (ﷺ) mentioned Zakah to him, and he said: 'Do I have to do anything else?' He said: 'No, unless you do it voluntarily.' The man left saying: 'By Allah, I will not do any more than this or any less.' The Messenger of Allah (ﷺ) said: 'He will achieve salvation, if he is speaking the truth.'\"",
+      "narrator": "It was narrated from Abu Suhail, from his fatehr, that he heard Talhah bin 'Ubaidullah say:",
+      "reference": "Hadith 460"
+    },
+    {
+      "id": 461,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا نُوحُ بْنُ قَيْسٍ، عَنْ خَالِدِ بْنِ قَيْسٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ سَأَلَ رَجُلٌ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ كَمِ افْتَرَضَ اللَّهُ عَزَّ وَجَلَّ عَلَى عِبَادِهِ مِنَ الصَّلَوَاتِ قَالَ \" افْتَرَضَ اللَّهُ عَلَى عِبَادِهِ صَلَوَاتٍ خَمْسًا \" . قَالَ يَا رَسُولَ اللَّهِ هَلْ قَبْلَهُنَّ أَوْ بَعْدَهُنَّ شَيْئًا قَالَ \" افْتَرَضَ اللَّهُ عَلَى عِبَادِهِ صَلَوَاتٍ خَمْسًا \" . فَحَلَفَ الرَّجُلُ لاَ يَزِيدُ عَلَيْهِ شَيْئًا وَلاَ يَنْقُصُ مِنْهُ شَيْئًا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنْ صَدَقَ لَيَدْخُلَنَّ الْجَنَّةَ \" .",
+      "text_en": "\"A man asked the Messenger of Allah (ﷺ): 'O Messenger of Allah, how many prayers has Allah enjoined upon His slaves?' He said: 'Allah has enjoined upon His slaves (five) prayers.' He said: 'O Messenger of Allah, is there anything before them or after them?' He said: 'Allah has enjoined upon His salves (five) prayers.' The man swore that he would not do anything more or less than that. The Messenger of Allah (ﷺ) said: 'If he is speaking the truth he will most certainly enter Paradise.'\"",
+      "narrator": "It was narrated that Anas said:",
+      "reference": "Hadith 461"
+    },
+    {
+      "id": 462,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا أَبُو مُسْهِرٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، عَنْ رَبِيعَةَ بْنِ يَزِيدَ، عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، عَنْ أَبِي مُسْلِمٍ الْخَوْلاَنِيِّ، قَالَ أَخْبَرَنَا الْحَبِيبُ الأَمِينُ، عَوْفُ بْنُ مَالِكٍ الأَشْجَعِيُّ قَالَ كُنَّا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ \" أَلاَ تُبَايِعُونَ رَسُولَ اللَّهِ صلى الله عليه وسلم \" . فَرَدَّدَهَا ثَلاَثَ مَرَّاتٍ فَقَدَّمْنَا أَيْدِيَنَا فَبَايَعْنَاهُ فَقُلْنَا يَا رَسُولَ اللَّهِ قَدْ بَايَعْنَاكَ فَعَلاَمَ قَالَ \" عَلَى أَنْ تَعْبُدُوا اللَّهَ وَلاَ تُشْرِكُوا بِهِ شَيْئًا وَالصَّلَوَاتِ الْخَمْسِ وَأَسَرَّ كَلِمَةً خَفِيَّةً أَنْ لاَ تَسْأَلُوا النَّاسَ شَيْئًا \" .",
+      "text_en": "\"We were with the Messenger of Allah (ﷺ) and he said: 'Will you not pledge to the Messenger of Allah (ﷺ)?' And he repeated it three times. So we stretched forth our hands to give our pledge. We said: 'O Messenger of Allah, we are willing to give you our pledge, but on what?' He said: 'That you will worship Allah and not associate anything with him, and (offer) the five daily prayers.' And he said, very quietly: 'And you will not ask the people for anything.'\"",
+      "narrator": "'Awf bin Malik Al-Ashja'i said:",
+      "reference": "Hadith 462"
+    },
+    {
+      "id": 463,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ ابْنِ مُحَيْرِيزٍ، أَنَّ رَجُلاً، مِنْ بَنِي كِنَانَةَ يُدْعَى الْمُخْدَجِيَّ سَمِعَ رَجُلاً، بِالشَّامِ يُكْنَى أَبَا مُحَمَّدٍ يَقُولُ الْوِتْرُ وَاجِبٌ . قَالَ الْمُخْدَجِيُّ فَرُحْتُ إِلَى عُبَادَةَ بْنِ الصَّامِتِ فَاعْتَرَضْتُ لَهُ وَهُوَ رَائِحٌ إِلَى الْمَسْجِدِ فَأَخْبَرْتُهُ بِالَّذِي قَالَ أَبُو مُحَمَّدٍ فَقَالَ عُبَادَةُ كَذَبَ أَبُو مُحَمَّدٍ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" خَمْسُ صَلَوَاتٍ كَتَبَهُنَّ اللَّهُ عَلَى الْعِبَادِ مَنْ جَاءَ بِهِنَّ لَمْ يُضَيِّعْ مِنْهُنَّ شَيْئًا اسْتِخْفَافًا بِحَقِّهِنَّ كَانَ لَهُ عِنْدَ اللَّهِ عَهْدٌ أَنْ يُدْخِلَهُ الْجَنَّةَ وَمَنْ لَمْ يَأْتِ بِهِنَّ فَلَيْسَ لَهُ عِنْدَ اللَّهِ عَهْدٌ إِنْ شَاءَ عَذَّبَهُ وَإِنْ شَاءَ أَدْخَلَهُ الْجَنَّةَ \" .",
+      "text_en": "\"In the morning I went to 'Ubadah bin As-Samit, and I met him while he was on his way to the Masjid. I told him what Abu Muhammad said, and 'Ubadah said: 'Abu Muhammad is wrong. I heard the Messenger of Allah (ﷺ) say: 'Five prayers are those that Allah has decreed for (His) slaves, whoever does them, and does not neglect any of them out of disregard toward them, will have a promise from Allah that He will admit him to Paradise. And whoever does not to them will have no such promise from Allah; if He wills he will punish him and if He wills He will admit him to Paradise.",
+      "narrator": "It was narrated from Ibn Muhairiz that a man from Banu Kinanah who was called Al-Mukhdaji heard a man in Ash-Sham, who was known as Abu Muhammad, saying that Witr was obligatory. Al-Mukhdaji said:",
+      "reference": "Hadith 463"
+    },
+    {
+      "id": 464,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" أَرَأَيْتُمْ لَوْ أَنَّ نَهَرًا بِبَابِ أَحَدِكُمْ يَغْتَسِلُ مِنْهُ كُلَّ يَوْمٍ خَمْسَ مَرَّاتٍ هَلْ يَبْقَى مِنْ دَرَنِهِ شَىْءٌ.\" قَالُوا لَا يَبْقَى مِنْ دَرَنِهِ شَيْءٌ قَالَ فَكَذَلِكَ مَثَلُ الصَّلَوَاتِ الْخَمْسِ يَمْحُو اللَّهُ بِهِنَّ الْخَطَايَا.",
+      "text_en": "\"Do you think that is there was a river by the door of any one of you, and he bathed in it five times each day, would there be any trace of dirt left on him?\" They said: \"No trace of dirt would be left on him.\" He said: \"That is the likeness of the five daily prayers. By means of them Allah erases sins.\"",
       "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
-      "reference": "Hadith 398"
+      "reference": "Hadith 464"
     },
     {
-      "id": 399,
-      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ صَالِحٍ الْبَغْدَادِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي ابْنُ عَجْلاَنَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ يُبَالَ فِي الْمَاءِ الدَّائِمِ ثُمَّ يُغْتَسَلَ فِيهِ مِنَ الْجَنَابَةِ .",
-      "text_en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) forbade urinating into standing water and then performing Ghusl from Janabah in it.",
-      "narrator": "",
-      "reference": "Hadith 399"
+      "id": 465,
+      "text_ar": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنَّ الْعَهْدَ الَّذِي بَيْنَنَا وَبَيْنَهُمُ الصَّلاَةُ فَمَنْ تَرَكَهَا فَقَدْ كَفَرَ \" .",
+      "text_en": "\"The Messenger of Allah (ﷺ) said: 'The covenant that stands between us and them is the Salah; whoever abandons it, he has committed disbelief.'\"",
+      "narrator": "It was narrated from 'Abdullah bin Buraidah that his father said:",
+      "reference": "Hadith 465"
     },
     {
-      "id": 400,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ سُفْيَانَ، عَنْ أَبِي الزِّنَادِ، عَنْ مُوسَى بْنِ أَبِي عُثْمَانَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى أَنْ يُبَالَ فِي الْمَاءِ الرَّاكِدِ ثُمَّ يُغْتَسَلَ مِنْهُ .",
-      "text_en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) forbade urinating into standing water then performing Ghusl with it.",
-      "narrator": "",
-      "reference": "Hadith 400"
-    },
-    {
-      "id": 401,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ لاَ يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ الَّذِي لاَ يَجْرِي ثُمَّ يَغْتَسِلُ مِنْهُ . قَالَ سُفْيَانُ قَالُوا لِهِشَامٍ - يَعْنِي ابْنَ حَسَّانَ - أَنَّ أَيُّوبَ إِنَّمَا يَنْتَهِي بِهَذَا الْحَدِيثِ إِلَى أَبِي هُرَيْرَةَ فَقَالَ إِنَّ أَيُّوبَ لَوِ اسْتَطَاعَ أَنْ لاَ يَرْفَعَ حَدِيثًا لَمْ يَرْفَعْهُ .",
-      "text_en": "\"None of you should urinate into standing water which does not flow and then perform Ghusl with it.\" (One of the narrators) Sufyan said: \"They said to Hisham - meaning Ibn Hassan - 'Ayyub only attributed this Hadith to Abu Hurairah?' So he said: 'If Ayyub is not able to raise up a narration then he does not raise it.'\" That is, he narrated it from Abu Hurairah, rather than from him from the Prophet (ﷺ) while others narrated it in Marfu' form or \"raised\" to the Prophet (ﷺ) And perhaps by: \"If he is able to not raise it\" he means: \"If he is not able to raise it.\" And Allah knows best.",
-      "narrator": "It was narrated that Abu Hurairah said:",
-      "reference": "Hadith 401"
-    },
-    {
-      "id": 402,
-      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَطَاءٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلاَ يَدْخُلِ الْحَمَّامَ إِلاَّ بِمِئْزَرٍ \" .",
-      "text_en": "\"Whoever believes in Allah and the Last Day, let him not enter a bath house except wearing an Izar (waist wrap).\"",
-      "narrator": "It was narrated from Jabir that the Prophet (ﷺ) said:",
-      "reference": "Hadith 402"
-    },
-    {
-      "id": 403,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مَجْزَأَةَ بْنِ زَاهِرٍ، أَنَّهُ سَمِعَ عَبْدَ اللَّهِ بْنَ أَبِي أَوْفَى، يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَدْعُو \" اللَّهُمَّ طَهِّرْنِي مِنَ الذُّنُوبِ وَالْخَطَايَا اللَّهُمَّ نَقِّنِي مِنْهَا كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ الدَّنَسِ اللَّهُمَّ طَهِّرْنِي بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ \" .",
-      "text_en": "\"Allahumma tahhirni min adh-dhunub wal-khataya. Allahumma naqqini minha kama yunaqqa ath-thawb al-abyad min ad-danas, Allahumma tahhirni bith-thalji wal-barad wal-ma' al-barid (O Allah, purify me of sin and error, O Allah cleanse me of it as a white garment is cleansed of dirt, O Allah purify me with snow and hail and cold water).\"",
-      "narrator": "'Abdullah bin Abi Awfa narrated that the Prophet (ﷺ) would supplicate:",
-      "reference": "Hadith 403"
-    },
-    {
-      "id": 404,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ مُحَمَّدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ يَزِيدَ، عَنْ رُقْبَةَ، عَنْ مَجْزَأَةَ الأَسْلَمِيِّ، عَنِ ابْنِ أَبِي أَوْفَى، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقُولُ \" اللَّهُمَّ طَهِّرْنِي بِالثَّلْجِ وَالْبَرَدِ وَالْمَاءِ الْبَارِدِ اللَّهُمَّ طَهِّرْنِي مِنَ الذُّنُوبِ كَمَا يُطَهَّرُ الثَّوْبُ الأَبْيَضُ مِنَ الدَّنَسِ \" .",
-      "text_en": "\"The Prophet (ﷺ) used to say: 'Allahumma tahhirni bith-thalji wal-barad wal-ma' al-barid, Allahumma tahhirni min adh-dhunub kama yutahhar ath-thawb al-abyad min ad-danas (O Allah, purify me with snow and hail and cold water, O Allah, purify me of sin as a white garment is cleansed of dirt).\"",
-      "narrator": "It was narrated that Ibn Abi Awfa said:",
-      "reference": "Hadith 404"
-    },
-    {
-      "id": 405,
-      "text_ar": "أَخْبَرَنَا شُعَيْبُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَيْسٍ، قَالَ سَأَلْتُ عَائِشَةَ كَيْفَ كَانَ نَوْمُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْجَنَابَةِ أَيَغْتَسِلُ قَبْلَ أَنْ يَنَامَ أَوْ يَنَامُ قَبْلَ أَنْ يَغْتَسِلَ قَالَتْ كُلُّ ذَلِكَ قَدْ كَانَ يَفْعَلُ رُبَّمَا اغْتَسَلَ فَنَامَ وَرُبَّمَا تَوَضَّأَ فَنَامَ .",
-      "text_en": "\"I asked 'Aishah: 'How did the Messenger of Allah (ﷺ) sleep while he was Junub? Did he perform Ghusl before sleeping or sleep before performing Ghusl?' She said: 'He did both. Sometimes he would perform Ghusl then sleep, and sometimes he would perform Wudu' then sleep.'\"",
-      "narrator": "It was narrated that 'Abdullah bin Abi Qais said:",
-      "reference": "Hadith 405"
-    },
-    {
-      "id": 406,
-      "text_ar": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ بُرْدٍ، عَنْ عُبَادَةَ بْنِ نُسَىٍّ، عَنْ غُضَيْفِ بْنِ الْحَارِثِ، قَالَ دَخَلْتُ عَلَى عَائِشَةَ فَسَأَلْتُهَا فَقُلْتُ أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَغْتَسِلُ مِنْ أَوَّلِ اللَّيْلِ أَوْ مِنْ آخِرِهِ قَالَتْ كُلُّ ذَلِكَ كَانَ رُبَّمَا اغْتَسَلَ مِنْ أَوَّلِهِ وَرُبَّمَا اغْتَسَلَ مِنْ آخِرِهِ . قُلْتُ الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ فِي الأَمْرِ سَعَةً .",
-      "text_en": "\"I entered upon 'Aishah and asked her: 'Did the Messenger of Allah (ﷺ) perform Ghusl at the beginning of the night or at the end?' She said: 'Both. Sometimes he performed Ghusl at the beginning and sometimes at the end.' I said: 'Praise be to Allah who has made the matter flexible.'\"",
-      "narrator": "It was narrated that Ghudaif bin Al-Harith said:",
-      "reference": "Hadith 406"
-    },
-    {
-      "id": 407,
-      "text_ar": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا النُّفَيْلِيُّ، قَالَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا عَبْدُ الْمَلِكِ، عَنْ عَطَاءٍ، عَنْ يَعْلَى، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً يَغْتَسِلُ بِالْبَرَازِ فَصَعِدَ الْمِنْبَرَ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَقَالَ \" إِنَّ اللَّهَ عَزَّ وَجَلَّ حَلِيمٌ حَيِيٌّ سِتِّيرٌ يُحِبُّ الْحَيَاءَ وَالسَّتْرَ فَإِذَا اغْتَسَلَ أَحَدُكُمْ فَلْيَسْتَتِرْ \" .",
-      "text_en": "'Allah, the Mighty and Sublime, is forbearing, modest and concealing, and He loves modesty and concealment. When any one of you performs Ghusl, let him conceal himself.'\"",
-      "narrator": "It was narrated from Ya'la that the Messenger of Allah (ﷺ) saw a man performing Ghusl in an open place, so he ascended the Minbar and praised and glorified Allah, then he said:",
-      "reference": "Hadith 407"
-    },
-    {
-      "id": 408,
-      "text_ar": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا الأَسْوَدُ بْنُ عَامِرٍ، قَالَ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ، عَنْ عَطَاءٍ، عَنْ صَفْوَانَ بْنِ يَعْلَى، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنَّ اللَّهَ عَزَّ وَجَلَّ سِتِّيرٌ فَإِذَا أَرَادَ أَحَدُكُمْ أَنْ يَغْتَسِلَ فَلْيَتَوَارَ بِشَىْءٍ \" .",
-      "text_en": "\"The Messenger of Allah (ﷺ) said: 'Allah loves concealment, so when any one of you performs Ghusl let him conceal himself with something.'\"",
-      "narrator": "It was narrated from Safwan bin Ya'la that his father said:",
-      "reference": "Hadith 408"
-    },
-    {
-      "id": 409,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبِيدَةُ، عَنِ الأَعْمَشِ، عَنْ سَالِمٍ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، قَالَتْ وَضَعْتُ لِرَسُولِ اللَّهِ صلى الله عليه وسلم مَاءً - قَالَتْ - فَسَتَرْتُهُ فَذَكَرَتِ الْغُسْلَ قَالَتْ ثُمَّ أَتَيْتُهُ بِخِرْقَةٍ فَلَمْ يُرِدْهَا .",
-      "text_en": "\"I put some water out for the Messenger of Allah (ﷺ), then I concealed him\" - and she mentioned how he performed Ghusl, then she said: \"Then I brought him a cloth (a towel) but he did not want it.\"",
-      "narrator": "It was narrated that Maimunah said:",
-      "reference": "Hadith 409"
-    },
-    {
-      "id": 410,
-      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي إِبْرَاهِيمُ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" بَيْنَمَا أَيُّوبُ عَلَيْهِ الصَّلاَةُ وَالسَّلاَمُ يَغْتَسِلُ عُرْيَانًا خَرَّ عَلَيْهِ جَرَادٌ مِنْ ذَهَبٍ فَجَعَلَ يَحْثِي فِي ثَوْبِهِ قَالَ فَنَادَاهُ رَبُّهُ عَزَّ وَجَلَّ يَا أَيُّوبُ أَلَمْ أَكُنْ أَغْنَيْتُكَ قَالَ بَلَى يَا رَبِّ وَلَكِنْ لاَ غِنَى بِي عَنْ بَرَكَاتِكَ \" .",
-      "text_en": "\"The Messenger of Allah (ﷺ) said: 'While Ayyub, peace be upon him, was bathing naked, locusts of gold landed on him and he started to collect them in his garment. Then his Lord called him (saying): \"O Ayyub, did I not make you rich?\" he said: \"Yes, O Lord, but I cannot do without Your blessing.\"",
-      "narrator": "It was narrated that Abu Hurairah said:",
-      "reference": "Hadith 410"
-    },
-    {
-      "id": 411,
-      "text_ar": "أَخْبَرَنَا الْقَاسِمُ بْنُ زَكَرِيَّا بْنِ دِينَارٍ، قَالَ حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ بْنِ سَعْدٍ، عَنِ الزُّهْرِيِّ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَغْتَسِلُ فِي الإِنَاءِ وَهُوَ الْفَرَقُ وَكُنْتُ أَغْتَسِلُ أَنَا وَهُوَ مِنْ إِنَاءٍ وَاحِدٍ .",
-      "text_en": "\"The Messenger of Allah (ﷺ) used to perform Ghusl from a vessel which was the size of a Faraq and he and I used to perform Ghusl from a single vessel.\" See No. 230",
-      "narrator": "It was narrated that 'Aishah said:",
-      "reference": "Hadith 411"
-    },
-    {
-      "id": 412,
-      "text_ar": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ هِشَامٍ، ح وَأَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَغْتَسِلُ وَأَنَا مِنْ إِنَاءٍ وَاحِدٍ نَغْتَرِفُ مِنْهُ جَمِيعًا . وَقَالَ سُوَيْدٌ قَالَتْ كُنْتُ أَنَا .",
-      "text_en": "It was narrated from 'Aishah that the Messenger of Allah (ﷺ) used to perform Ghusl, he and I from a single vessel, both of us scooping water from it.",
-      "narrator": "",
-      "reference": "Hadith 412"
-    },
-    {
-      "id": 413,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ، قَالَ سَمِعْتُ الْقَاسِمَ، يُحَدِّثُ عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ، صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ مِنَ الْجَنَابَةِ .",
-      "text_en": "\"I heard Al-Qasim narrating that 'Aishah said: 'I used to perform Ghusl - the Messenger of Allah (ﷺ) and I - from a single vessel for Janabah.'\"",
-      "narrator": "'Abdur-Rahman bin Al-Qasim said:",
-      "reference": "Hadith 413"
-    },
-    {
-      "id": 414,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ لَقَدْ رَأَيْتُنِي أُنَازِعُ رَسُولَ اللَّهِ صلى الله عليه وسلم الإِنَاءَ أَغْتَسِلُ أَنَا وَهُوَ مِنْهُ .",
-      "text_en": "\"I remember competing over the vessel with the Messenger of Allah (ﷺ), when he and I were performing Ghusl from it.\" See the following narration and no. 240.",
-      "narrator": "It was narrated that 'Aishah said:",
-      "reference": "Hadith 414"
-    },
-    {
-      "id": 415,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، عَنْ مُحَمَّدٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَاصِمٍ، ح وَأَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ عَاصِمٍ، عَنْ مُعَاذَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ، صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ أُبَادِرُهُ وَيُبَادِرُنِي حَتَّى يَقُولَ \" دَعِي لِي \" . وَأَقُولَ أَنَا دَعْ لِي . قَالَ سُوَيْدٌ يُبَادِرُنِي وَأُبَادِرُهُ فَأَقُولُ دَعْ لِي دَعْ لِي .",
-      "text_en": "\"I used to perform Ghusl - the Messenger of Allah (ﷺ) and I - from one vessel. He would compete with me and I would with him (to take the water) until he would say: 'Leave me some,' and I would say, 'Leave me some.'\"",
-      "narrator": "It was narrated that 'Aishah said:",
-      "reference": "Hadith 415"
-    },
-    {
-      "id": 416,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ مُحَمَّدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى بْنِ أَعْيَنَ، قَالَ حَدَّثَنَا أَبِي، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ، عَنْ عَطَاءٍ، قَالَ حَدَّثَتْنِي أُمُّ هَانِئٍ، أَنَّهَا دَخَلَتْ عَلَى النَّبِيِّ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ وَهُوَ يَغْتَسِلُ قَدْ سَتَرَتْهُ بِثَوْبٍ دُونَهُ فِي قَصْعَةٍ فِيهَا أَثَرُ الْعَجِينِ . قَالَتْ فَصَلَّى الضُّحَى فَمَا أَدْرِي كَمْ صَلَّى حِينَ قَضَى غُسْلَهُ .",
-      "text_en": "He prayed Ad-Duha - but I do not know how many Rak'ahs he prayed - after he finished Ghusl.'\"",
-      "narrator": "Umm Hani' narrated that she entered upon the Prophet (ﷺ) on the day of the Conquest of Makkah, when he was performing Ghusl - while a garment was screening him - from a vessel in which were traces of dough. She said:",
-      "reference": "Hadith 416"
-    },
-    {
-      "id": 417,
-      "text_ar": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ إِبْرَاهِيمَ بْنِ طَهْمَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ عُبَيْدِ بْنِ عُمَيْرٍ، أَنَّ عَائِشَةَ، قَالَتْ لَقَدْ رَأَيْتُنِي أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ هَذَا فَإِذَا تَوْرٌ مَوْضُوعٌ مِثْلُ الصَّاعِ أَوْ دُونَهُ فَنَشْرَعُ فِيهِ جَمِيعًا فَأُفِيضُ عَلَى رَأْسِي بِيَدَىَّ ثَلاَثَ مَرَّاتٍ وَمَا أَنْقُضُ لِي شَعْرًا .",
-      "text_en": "\"I remember performing Ghusl - myself and the Messenger of Allah (ﷺ), from this\" - a vessel like a Sa' or smaller. \"We both started taking water from it and I poured water over my head with my hand, three times, without undoing any of my hair.\"",
-      "narrator": "'Aishah said:",
-      "reference": "Hadith 417"
-    },
-    {
-      "id": 418,
-      "text_ar": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ وَكِيعٍ، عَنْ مِسْعَرٍ، وَسُفْيَانَ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ لأَنْ أُصْبِحَ مُطَّلِيًا بِقَطِرَانٍ أَحَبُّ إِلَىَّ مِنْ أَنْ أُصْبِحَ مُحْرِمًا أَنْضَخُ طِيبًا . فَدَخَلْتُ عَلَى عَائِشَةَ فَأَخْبَرْتُهَا بِقَوْلِهِ فَقَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَطَافَ عَلَى نِسَائِهِ ثُمَّ أَصْبَحَ مُحْرِمًا .",
-      "text_en": "\"I heard Ibn 'Umar say: 'I would rather wake up in the morning covered in tar than wake up and enter Ihram with the smell of perfume coming from me.' I entered upon 'Aishah and told her what he had said, and she said: 'I put perfume on the Messenger of Allah (ﷺ) and he went round to all his wives, then in the morning he entered Ihram.'\"",
-      "narrator": "It was narrated from Ibrahim bin Muhammad bin Al-Muntashir that his father said:",
-      "reference": "Hadith 418"
-    },
-    {
-      "id": 419,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ سَالِمٍ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، قَالَتْ تَوَضَّأَ رَسُولُ اللَّهِ صلى الله عليه وسلم وُضُوءَهُ لِلصَّلاَةِ غَيْرَ رِجْلَيْهِ وَغَسَلَ فَرْجَهُ وَمَا أَصَابَهُ ثُمَّ أَفَاضَ عَلَيْهِ الْمَاءَ ثُمَّ نَحَّى رِجْلَيْهِ فَغَسَلَهُمَا . قَالَتْ هَذِهِ غِسْلَةٌ لِلْجَنَابَةِ .",
-      "text_en": "\"The Messenger of Allah (ﷺ) performed Wudu' as for prayer, but did not wash his feet, and he washed his private part and whatever had got onto it, then he poured water over himself, then he moved his feet and washed them.\" She said: \"This is Ghusl from Janabah.\"",
-      "narrator": "It was narrated that Maimunah said:",
-      "reference": "Hadith 419"
-    },
-    {
-      "id": 420,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ بِنْتِ الْحَارِثِ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ يَبْدَأُ فَيَغْسِلُ يَدَيْهِ ثُمَّ يُفْرِغُ بِيَمِينِهِ عَلَى شِمَالِهِ فَيَغْسِلُ فَرْجَهُ ثُمَّ يَضْرِبُ بِيَدِهِ عَلَى الأَرْضِ ثُمَّ يَمْسَحُهَا ثُمَّ يَغْسِلُهَا ثُمَّ يَتَوَضَّأُ وُضُوءَهُ لِلصَّلاَةِ ثُمَّ يُفْرِغُ عَلَى رَأْسِهِ وَعَلَى سَائِرِ جَسَدِهِ ثُمَّ يَتَنَحَّى فَيَغْسِلُ رِجْلَيْهِ .",
-      "text_en": "\"When the Messenger of Allah (ﷺ) performed Ghusl from Janabah, he would start by washing his hands, then he would pour water with his right hand onto his left and wash his private part, then he would strike his hand on the ground then wipe it then wash it. Then he would perform Wudu' as for prayer, then he would pour water on his head and all of his body. Then he would move and wash his feet.\"",
-      "narrator": "It was narrated that Maimunah bint Al-Harith, the wife of the Prophet (ﷺ), said:",
-      "reference": "Hadith 420"
-    },
-    {
-      "id": 421,
-      "text_ar": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ غَسَلَ يَدَيْهِ ثُمَّ تَوَضَّأَ وُضُوءَهُ لِلصَّلاَةِ ثُمَّ اغْتَسَلَ ثُمَّ يُخَلِّلُ بِيَدِهِ شَعْرَهُ حَتَّى إِذَا ظَنَّ أَنَّهُ قَدْ أَرْوَى بَشَرَتَهُ أَفَاضَ عَلَيْهِ الْمَاءَ ثَلاَثَ مَرَّاتٍ ثُمَّ غَسَلَ سَائِرَ جَسَدِهِ .",
-      "text_en": "\"When the Messenger of Allah (ﷺ) performed Ghusl from Janabah, he would wash his hands, then perform Wudu' as for prayer, then he would perform Ghusl, then run his fingers through his hair to be sure that the water pour water over his head three times, then wash the rest of his body.\"",
-      "narrator": "It was narrated that 'Aishah said:",
-      "reference": "Hadith 421"
-    },
-    {
-      "id": 422,
-      "text_ar": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنِ الأَشْعَثِ بْنِ أَبِي الشَّعْثَاءِ، عَنْ أَبِيهِ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُحِبُّ التَّيَمُّنَ مَا اسْتَطَاعَ فِي طُهُورِهِ وَتَنَعُّلِهِ وَتَرَجُّلِهِ وَقَالَ بِوَاسِطٍ فِي شَأْنِهِ كُلِّهِ .",
-      "text_en": "\"The Prophet (ﷺ) used to like to start with the right as much as he could when purifying himself, putting on sandals and combing his hair\" - and he (the narrator) said in Wasit (a place in Iraq): \"And in all his affairs.\"",
-      "narrator": "It was narrated that 'Aishah said:",
-      "reference": "Hadith 422"
-    },
-    {
-      "id": 423,
-      "text_ar": "أَخْبَرَنَا عِمْرَانُ بْنُ يَزِيدَ بْنِ خَالِدٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، - هُوَ ابْنُ سَمَاعَةَ - قَالَ أَنْبَأَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، وَعَنْ عَمْرِو بْنِ سَعْدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْغُسْلِ مِنَ الْجَنَابَةِ وَاتَّسَقَتِ الأَحَادِيثُ عَلَى هَذَا يَبْدَأُ فَيُفْرِغُ عَلَى يَدِهِ الْيُمْنَى مَرَّتَيْنِ أَوْ ثَلاَثًا ثُمَّ يُدْخِلُ يَدَهُ الْيُمْنَى فِي الإِنَاءِ فَيَصُبُّ بِهَا عَلَى فَرْجِهِ وَيَدُهُ الْيُسْرَى عَلَى فَرْجِهِ فَيَغْسِلُ مَا هُنَالِكَ حَتَّى يُنْقِيَهُ ثُمَّ يَضَعُ يَدَهُ الْيُسْرَى عَلَى التُّرَابِ إِنْ شَاءَ ثُمَّ يَصُبُّ عَلَى يَدِهِ الْيُسْرَى حَتَّى يُنْقِيَهَا ثُمَّ يَغْسِلُ يَدَيْهِ ثَلاَثًا وَيَسْتَنْشِقُ وَيُمَضْمِضُ وَيَغْسِلُ وَجْهَهُ وَذِرَاعَيْهِ ثَلاَثًا ثَلاَثًا حَتَّى إِذَا بَلَغَ رَأْسَهُ لَمْ يَمْسَحْ وَأَفْرَغَ عَلَيْهِ الْمَاءَ فَهَكَذَا كَانَ غُسْلُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِيمَا ذُكِرَ .",
-      "text_en": "That 'Umar asked the Messenger of Allah (ﷺ) about Ghusl from Janabah - and the narrations agree on this - that one should start by pouring water on the right hand two or three times, then put the right hand into the vessel and pour water with it onto the private parts, with the left hand on the private parts to wash off whatever is there, until it is clean; then put the left hand on the dust if one wants to, then pour water over the left hand until it is clean; then wash the hands three times, (sniff water into the nose) and rinse the mouth, and wash the face and forearms, three times each until when reaching the head, he does not wipe the head, rather he pours water over it. This is how the Messenger of Allah (ﷺ) performed Ghusl according to what was mentioned.",
-      "narrator": "It was narrated from Abu Salamah from 'Aishah, and, from 'Amr bin Sa'd, from Nafi', from Ibn 'Umar:",
-      "reference": "Hadith 423"
-    },
-    {
-      "id": 424,
-      "text_ar": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ غَسَلَ يَدَيْهِ ثُمَّ تَوَضَّأَ وُضُوءَهُ لِلصَّلاَةِ ثُمَّ يُخَلِّلُ رَأْسَهُ بِأَصَابِعِهِ حَتَّى إِذَا خُيِّلَ إِلَيْهِ أَنَّهُ قَدِ اسْتَبْرَأَ الْبَشَرَةَ غَرَفَ عَلَى رَأْسِهِ ثَلاَثًا ثُمَّ غَسَلَ سَائِرَ جَسَدِهِ .",
-      "text_en": "\"When the Messenger of Allah (ﷺ0 performed Ghusl from Janabah, he would wash his hands, then perform Wudu' as for prayer, then run his fingers through his hair until he was sure the water had reached the scalp, then he would pour water over his head three times, then wash the rest of his body.\"",
-      "narrator": "It was narrated that 'Aishah said:",
-      "reference": "Hadith 424"
-    },
-    {
-      "id": 425,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، عَنْ حَنْظَلَةَ بْنِ أَبِي سُفْيَانَ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ دَعَا بِشَىْءٍ نَحْوِ الْحِلاَبِ فَأَخَذَ بِكَفِّهِ بَدَأَ بِشِقِّ رَأْسِهِ الأَيْمَنِ ثُمَّ الأَيْسَرِ ثُمَّ أَخَذَ بِكَفَّيْهِ فَقَالَ بِهِمَا عَلَى رَأْسِهِ .",
-      "text_en": "\"When the Messenger of Allah (ﷺ) performed Ghusl from Janabah, he would call for something like a vessel used for milking a she-camel, then he would take (some water) in his hand and start with the right side of his head, then the left, then take (some water) in his hands and start pouring it on his head.\"",
-      "narrator": "It was narrated that 'Aishah said:",
-      "reference": "Hadith 425"
-    },
-    {
-      "id": 426,
-      "text_ar": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، عَنْ يَحْيَى، عَنْ شُعْبَةَ، قَالَ حَدَّثَنَا أَبُو إِسْحَاقَ، ح وَأَنْبَأَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ صُرَدٍ، يُحَدِّثُ عَنْ جُبَيْرِ بْنِ مُطْعِمٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم ذُكِرَ عِنْدَهُ الْغُسْلُ فَقَالَ \" أَمَّا أَنَا فَأُفْرِغُ عَلَى رَأْسِي ثَلاَثًا \" . لَفْظُ سُوَيْدٍ .",
-      "text_en": "\"As for me, I pour water on my head three times.\"",
-      "narrator": "It was narrated from Jubair bin Mut'im that mention of Ghusl was made in the presence of the Prophet (ﷺ) and he said:",
-      "reference": "Hadith 426"
-    },
-    {
-      "id": 427,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، عَنْ مُخَوَّلٍ، عَنْ أَبِي جَعْفَرٍ، عَنْ جَابِرٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اغْتَسَلَ أَفْرَغَ عَلَى رَأْسِهِ ثَلاَثًا .",
-      "text_en": "\"When the Messenger of Allah (ﷺ) performed Ghusl, he would pour water on his head three times.\"",
+      "id": 466,
+      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ، حَدَّثَنَا مُحَمَّدُ بْنُ رَبِيعَةَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" لَيْسَ بَيْنَ الْعَبْدِ وَبَيْنَ الْكُفْرِ إِلاَّ تَرْكُ الصَّلاَةِ \" .",
+      "text_en": "\"The Messenger of Allah (ﷺ) said: 'There is nothing between a person and disbelief except abandoning Salah.'\"",
       "narrator": "It was narrated that Jabir said:",
-      "reference": "Hadith 427"
+      "reference": "Hadith 466"
     },
     {
-      "id": 428,
-      "text_ar": "أَخْبَرَنَا الْحَسَنُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا عَفَّانُ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا مَنْصُورُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أُمِّهِ، صَفِيَّةَ بِنْتِ شَيْبَةَ عَنْ عَائِشَةَ، أَنَّ امْرَأَةً، سَأَلَتِ النَّبِيَّ صلى الله عليه وسلم قَالَتْ يَا رَسُولَ اللَّهِ كَيْفَ أَغْتَسِلُ عِنْدَ الطُّهُورِ قَالَ \" خُذِي فِرْصَةً مُمَسَّكَةً فَتَوَضَّئِي بِهَا \" . قَالَتْ كَيْفَ أَتَوَضَّأُ بِهَا قَالَ \" تَوَضَّئِي بِهَا \" . قَالَتْ كَيْفَ أَتَوَضَّأُ بِهَا قَالَتْ ثُمَّ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَبَّحَ وَأَعْرَضَ عَنْهَا فَفَطِنَتْ عَائِشَةُ لِمَا يُرِيدُ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَتْ فَأَخَذْتُهَا وَجَبَذْتُهَا إِلَىَّ فَأَخْبَرْتُهَا بِمَا يُرِيدُ رَسُولُ اللَّهِ صلى الله عليه وسلم .",
-      "text_en": "\"A woman asked the Prophet (ﷺ): 'O Messenger of Allah, how should I perform Ghusl when I become pure?' He said: 'Take a piece of cotton wool scented with musk and clean yourself with it.' She said: 'How should I clean myself with it?' He said: 'Clean yourself with it.' She said: \"How should I clean myself with it?' The Messenger of Allah (ﷺ) said: 'Subhan Allah!' and turned away from her.\" 'Aishah understood what the Messenger of Allah (ﷺ) meant, and said: \"So I pulled her toward me and told her what the Messenger of Allah (ﷺ) meant.\"",
-      "narrator": "It was narrated from 'Aishah:",
-      "reference": "Hadith 428"
+      "id": 467,
+      "text_ar": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا هَارُونُ، - هُوَ ابْنُ إِسْمَاعِيلَ الْخَزَّازُ - قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ حُرَيْثِ بْنِ قَبِيصَةَ، قَالَ قَدِمْتُ الْمَدِينَةَ قَالَ قُلْتُ اللَّهُمَّ يَسِّرْ لِي جَلِيسًا صَالِحًا فَجَلَسْتُ إِلَى أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ فَقُلْتُ إِنِّي دَعَوْتُ اللَّهَ عَزَّ وَجَلَّ أَنْ يُيَسِّرَ لِي جَلِيسًا صَالِحًا فَحَدِّثْنِي بِحَدِيثٍ سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم لَعَلَّ اللَّهَ أَنْ يَنْفَعَنِي بِهِ . قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" إِنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ الْعَبْدُ بِصَلاَتِهِ فَإِنْ صَلَحَتْ فَقَدْ أَفْلَحَ وَأَنْجَحَ وَإِنْ فَسَدَتْ فَقَدْ خَابَ وَخَسِرَ \" . قَالَ هَمَّامٌ لاَ أَدْرِي هَذَا مِنْ كَلاَمِ قَتَادَةَ أَوْ مِنَ الرِّوَايَةِ \" فَإِنِ انْتَقَصَ مِنْ فَرِيضَتِهِ شَىْءٌ قَالَ انْظُرُوا هَلْ لِعَبْدِي مِنْ تَطَوُّعٍ فَيُكَمَّلُ بِهِ مَا نَقَصَ مِنَ الْفَرِيضَةِ ثُمَّ يَكُونُ سَائِرُ عَمَلِهِ عَلَى نَحْوِ ذَلِكَ \" . خَالَفَهُ أَبُو الْعَوَّامِ .",
+      "text_en": "\"I arrived in Al-Madinah and said: 'O Allah, make it easy for me to find a righteous companion.' Then I sat with Abu Hurairah, may Allah be pleased with him, and said: 'I prayed to Allah to help me find a righteous companion.' So tell me a Hadith that you heard from the Messenger of Allah (ﷺ), so that Allah might benefit me from it. He said: 'I heard the Messenger of Allah (ﷺ) say: \"The first thing for which a person will be brought to account will be his Salah. If it is sound then he will have succeeded, be salvaged, but if it is not then he will have lost and be doomed.\" - (One of the narrators) Hammam said: \"I do not know whether this was the words of Qatadah or part of the report.\" - \"If anything is lacking from his obligatory prayers, He will say: 'Look and see whether My slave has any voluntary prayers to make up for what is deficient from his obligatory prayers.' Then all of his deeds will be dealt with in like manner.\"",
+      "narrator": "It was narrated that Huraith bin Qabisah said:",
+      "reference": "Hadith 467"
     },
     {
-      "id": 429,
-      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتِ اغْتَسَلَ النَّبِيُّ صلى الله عليه وسلم مِنَ الْجَنَابَةِ فَغَسَلَ فَرْجَهُ وَدَلَكَ يَدَهُ بِالأَرْضِ أَوِ الْحَائِطِ ثُمَّ تَوَضَّأَ وُضُوءَهُ لِلصَّلاَةِ ثُمَّ أَفَاضَ عَلَى رَأْسِهِ وَسَائِرِ جَسَدِهِ .",
-      "text_en": "\"The Prophet (ﷺ) performed Ghusl from Janabah; he washed his private part then rubbed his hand on the ground or the wall, then he performed Wudu' as for prayer, then he poured water over his head and the rest of his body.\"",
-      "narrator": "It was narrated that Maimunah, the wife of the Prophet (ﷺ), said:",
-      "reference": "Hadith 429"
+      "id": 468,
+      "text_ar": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعَيْبٌ، - يَعْنِي ابْنَ زِيَادِ بْنِ مَيْمُونٍ - قَالَ كَتَبَ عَلِيُّ بْنُ الْمَدِينِيِّ عَنْهُ - أَخْبَرَنَا أَبُو الْعَوَّامِ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ \" إِنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ صَلاَتُهُ فَإِنْ وُجِدَتْ تَامَّةً كُتِبَتْ تَامَّةً وَإِنْ كَانَ انْتَقَصَ مِنْهَا شَىْءٌ قَالَ انْظُرُوا هَلْ تَجِدُونَ لَهُ مِنْ تَطَوُّعٍ يُكَمِّلُ لَهُ مَا ضَيَّعَ مِنْ فَرِيضَةٍ مِنْ تَطَوُّعِهِ ثُمَّ سَائِرُ الأَعْمَالِ تَجْرِي عَلَى حَسَبِ ذَلِكَ \" .",
+      "text_en": "\"The first thing for which a person will be brought to account on the Day of Resurrection will be his Salah. If it is found to be complete then it will be recorded as complete, and if anything is lacking He will say: 'Look and see if you can find any voluntary prayers with which to complete what he neglected of his obligatory prayers.' Then the rest of his deeds will be reckoned in like manner.\"",
+      "narrator": "It was narrated from Abu Hurairah that the Prophet (ﷺ) said:",
+      "reference": "Hadith 468"
     },
     {
-      "id": 430,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ، - وَاللَّفْظُ لَهُ - قَالُوا حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا جَعْفَرُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي أَبِي قَالَ، أَتَيْنَا جَابِرَ بْنَ عَبْدِ اللَّهِ فَسَأَلْنَاهُ عَنْ حَجَّةِ الْوَدَاعِ، فَحَدَّثَنَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ لِخَمْسٍ بَقِينَ مِنْ ذِي الْقَعْدَةِ . وَخَرَجْنَا مَعَهُ حَتَّى إِذَا أَتَى ذَا الْحُلَيْفَةِ وَلَدَتْ أَسْمَاءُ بِنْتُ عُمَيْسٍ مُحَمَّدَ بْنَ أَبِي بَكْرٍ فَأَرْسَلَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم كَيْفَ أَصْنَعُ فَقَالَ \" اغْتَسِلِي ثُمَّ اسْتَثْفِرِي ثُمَّ أَهِلِّي \" .",
-      "text_en": "\"My father told me: 'We came to Jabir bin 'Abdullah and asked him about the Hajj of the Prophet (ﷺ). He narrated; \"The Messenger of Allah (ﷺ) set out when there were five (days) remaining in Dhul-Qa'dah, and we set out with him. When he came to Dhul-Hulaifah, Asma' bint 'Umais gave birth to Muhammad bin Abi Bakr. She sent word to the Messenger of Allah (ﷺ) asking what he should do. He said: 'Perform Ghusl, bind yourself with a cloth then begin (the Talbiyah for Ihram).'\"",
-      "narrator": "Ja'far bin Muhammad said:",
-      "reference": "Hadith 430"
+      "id": 469,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ أَنْبَأَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنِ الأَزْرَقِ بْنِ قَيْسٍ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ \" أَوَّلُ مَا يُحَاسَبُ بِهِ الْعَبْدُ صَلاَتُهُ فَإِنْ كَانَ أَكْمَلَهَا وَإِلاَّ قَالَ اللَّهُ عَزَّ وَجَلَّ انْظُرُوا لِعَبْدِي مِنْ تَطَوُّعٍ فَإِنْ وُجِدَ لَهُ تَطَوُّعٌ قَالَ أَكْمِلُوا بِهِ الْفَرِيضَةَ \" .",
+      "text_en": "\"The first thing for which a person will be brought to account will be his Salah. If it is complete (all well and good), otherwise Allah will say: 'Look and see if My slave did any voluntary prayer.' If he is found to have done voluntary prayers, his obligatory prayers will be completed therewith.\"",
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "reference": "Hadith 469"
     },
     {
-      "id": 431,
-      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ، قَالَ حَدَّثَنَا أَبِي، حَدَّثَنَا حَسَنٌ، عَنْ أَبِي إِسْحَاقَ، ح وَأَنْبَأَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لاَ يَتَوَضَّأُ بَعْدَ الْغُسْلِ .",
-      "text_en": "\"The Messenger of Allah (ﷺ) would not perform Wudu' after Ghusl.\"",
-      "narrator": "It was narrated that 'Aishah said:",
-      "reference": "Hadith 431"
+      "id": 470,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُثْمَانَ بْنِ أَبِي صَفْوَانَ الثَّقَفِيُّ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ بْنِ عَبْدِ اللَّهِ، وَأَبُوهُ، عُثْمَانُ بْنُ عَبْدِ اللَّهِ أَنَّهُمَا سَمِعَا مُوسَى بْنَ طَلْحَةَ، يُحَدِّثُ عَنْ أَبِي أَيُّوبَ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ أَخْبِرْنِي بِعَمَلٍ يُدْخِلُنِي الْجَنَّةَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" تَعْبُدُ اللَّهَ وَلاَ تُشْرِكُ بِهِ شَيْئًا وَتُقِيمُ الصَّلاَةَ وَتُؤْتِي الزَّكَاةَ وَتَصِلُ الرَّحِمَ ذَرْهَا \" كَأَنَّهُ كَانَ عَلَى رَاحِلَتِهِ .",
+      "text_en": "\"O Messenger of Allah, tell me of a deed that will gain me admittance to Paradise.\" The Messenger of Allah (ﷺ) said: \"Worship Allah and do not associate anything with Him, establish the Salah, pay the Zakah and uphold the ties of kinship. Let go!\" - as if he was riding his camel. As if he was riding his camel and the man had grabbed hold of its reins to ask this question.",
+      "narrator": "It was narrated from Abu Ayyub that a man said:",
+      "reference": "Hadith 470"
     },
     {
-      "id": 432,
-      "text_ar": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ بِشْرٍ، - وَهُوَ ابْنُ الْمُفَضَّلِ - قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، قَالَ قَالَتْ عَائِشَةُ كُنْتُ أُطَيِّبُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَيَطُوفُ عَلَى نِسَائِهِ ثُمَّ يُصْبِحُ مُحْرِمًا يَنْضَخُ طِيبًا .",
-      "text_en": "\"I used to put perfume on the Messenger of Allah (ﷺ) and he would go around to all his wives, then enter Ihram in the morning with the smell of perfume coming from him.\"",
-      "narrator": "'Aishah said:",
-      "reference": "Hadith 432"
+      "id": 471,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ الْمُنْكَدِرِ، وَإِبْرَاهِيمَ بْنِ مَيْسَرَةَ، سَمِعَا أَنَسًا، قَالَ صَلَّيْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم الظُّهْرَ بِالْمَدِينَةِ أَرْبَعًا وَبِذِي الْحُلَيْفَةِ الْعَصْرَ رَكْعَتَيْنِ .",
+      "text_en": "\"I prayed Zuhr with the Prophet (ﷺ) in Al-Madinah, four Rak'ahs and 'Asr in Dhul-Hulaifah, two Rak'ahs.\"",
+      "narrator": "It was narrated from Ibn Al-Munkadir and Ibrahim bin Maisarah, that they heard Anas say:",
+      "reference": "Hadith 471"
     },
     {
-      "id": 433,
-      "text_ar": "أَخْبَرَنَا الْحَسَنُ بْنُ إِسْمَاعِيلَ بْنِ سُلَيْمَانَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا سَيَّارٌ، عَنْ يَزِيدَ الْفَقِيرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ قَبْلِي نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ وَجُعِلَتْ لِيَ الأَرْضُ مَسْجِدًا وَطَهُورًا فَأَيْنَمَا أَدْرَكَ الرَّجُلَ مِنْ أُمَّتِي الصَّلاَةُ يُصَلِّي وَأُعْطِيتُ الشَّفَاعَةَ وَلَمْ يُعْطَ نَبِيٌّ قَبْلِي وَبُعِثْتُ إِلَى النَّاسِ كَافَّةً وَكَانَ النَّبِيُّ يُبْعَثُ إِلَى قَوْمِهِ خَاصَّةً \" .",
-      "text_en": "\"The Messenger of Allah (ﷺ) said: 'I have been given five things that were not given to anyone before me: I have been supported with fear being struck into the hearts of my enemy for a distance of one month's travel; the earth has been made a place of prostration and a means of purification for me, so wherever a man of my Ummah is when the time for prayer comes, let him pray; I have been given the intercession which was not given to any Prophet before me; and I have been sent to all of mankind whereas the Prophets before me were sent to their own people.\"",
-      "narrator": "It was narrated that Jabir bin 'Abdullah said:",
-      "reference": "Hadith 433"
+      "id": 472,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ بْنِ عُتَيْبَةَ، قَالَ سَمِعْتُ أَبَا جُحَيْفَةَ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْهَاجِرَةِ - قَالَ ابْنُ الْمُثَنَّى إِلَى الْبَطْحَاءِ - فَتَوَضَّأَ وَصَلَّى الظُّهْرَ رَكْعَتَيْنِ وَالْعَصْرَ رَكْعَتَيْنِ وَبَيْنَ يَدَيْهِ عَنَزَةٌ .",
+      "text_en": "\"I heard Abu Juhaifah say: 'The Messenger of Allah (ﷺ) set off at midday, during the time of intense heat' - (One of the narrators) Ibn Al-Muthanna said, to Al-Batha' - and he performed Wudu', and prayed Zuhr, two Rak'ahs, and 'Asr, two Rak'ahs, with a short spear ('Anzah) in front of him.",
+      "narrator": "It was narrated that Al-Hakam bin 'Utaibah said:",
+      "reference": "Hadith 472"
     },
     {
-      "id": 434,
-      "text_ar": "أَخْبَرَنَا مُسْلِمُ بْنُ عَمْرِو بْنِ مُسْلِمٍ، قَالَ حَدَّثَنِي ابْنُ نَافِعٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، عَنْ بَكْرِ بْنِ سَوَادَةَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ، أَنَّ رَجُلَيْنِ، تَيَمَّمَا وَصَلَّيَا ثُمَّ وَجَدَا مَاءً فِي الْوَقْتِ فَتَوَضَّأَ أَحَدُهُمَا وَعَادَ لِصَلاَتِهِ مَا كَانَ فِي الْوَقْتِ وَلَمْ يُعِدِ الآخَرُ فَسَأَلاَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ لِلَّذِي لَمْ يُعِدْ \" أَصَبْتَ السُّنَّةَ وَأَجْزَأَتْكَ صَلاَتُكَ \" . وَقَالَ لِلآخَرِ \" أَمَّا أَنْتَ فَلَكَ مِثْلُ سَهْمِ جَمْعٍ \" .",
-      "text_en": "\"You followed the Sunnah and your prayer is acceptable.\" And he said to the other: \"And you will have something like the reward of two prayers.\"",
-      "narrator": "It was narrated from Abu Sa'eed that two men performed Tayammum and prayed, then they found water when there was still time left for prayer. One of them performed Wudu' and repeated the prayer, and the other did not. They asked the Prophet (ﷺ) about that and he said to the one who did not repeat the prayer:",
-      "reference": "Hadith 434"
+      "id": 473,
+      "text_ar": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا مِسْعَرٌ، وَابْنُ أَبِي خَالِدٍ، وَالْبَخْتَرِيُّ بْنُ أَبِي الْبَخْتَرِيُّ، كُلُّهُمْ سَمِعُوهُ مِنْ أَبِي بَكْرِ بْنِ عُمَارَةَ بْنِ، رُوَيْبَةَ الثَّقَفِيِّ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" لَنْ يَلِجَ النَّارَ مَنْ صَلَّى قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا \" .",
+      "text_en": "\"I heard the Messenger of Allah (ﷺ) say: 'He will never enter the Fire, the one who prays before the sun rises and before it sets.'\"",
+      "narrator": "It was narrated from Abu Bakr bin 'Umarah bin Ruwaibah Ath-Thaqafi that his father said:",
+      "reference": "Hadith 473"
     },
     {
-      "id": 435,
-      "text_ar": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ لَيْثِ بْنِ سَعْدٍ، قَالَ حَدَّثَنِي عَمِيرَةُ، وَغَيْرُهُ، عَنْ بَكْرِ بْنِ سَوَادَةَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، أَنَّ رَجُلَيْنِ، وَسَاقَ الْحَدِيثَ، .",
-      "text_en": "It was narrated from 'Ata' bin Yasar that two men - and he quoted the Hadith.",
+      "id": 474,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ، عَنْ أَبِي يُونُسَ، مَوْلَى عَائِشَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَ أَمَرَتْنِي عَائِشَةُ أَنْ أَكْتُبَ لَهَا مُصْحَفًا فَقَالَتْ إِذَا بَلَغْتَ هَذِهِ الآيَةَ فَآذِنِّي { حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاَةِ الْوُسْطَى } فَلَمَّا بَلَغْتُهَا آذَنْتُهَا فَأَمْلَتْ عَلَىَّ حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاَةِ الْوُسْطَى وَصَلاَةِ الْعَصْرِ وَقُومُوا لِلَّهِ قَانِتِينَ . ثُمَّ قَالَتْ سَمِعْتُهَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم .",
+      "text_en": "\"Aishah told me to copy a Mushaf for her, and she said: 'When you reach this verse, call my attention: Guard strictly the Salawat especially the middle (Al-Wusta) Salah. When I reached it, I called her attention and she dictated to me: 'Guard strictly the Salawat expecially the middle (Al-Wusta) Salah and the 'Asr prayer, and stand before Allah with obedience.' Then she said: 'I heard it from the Messenger of Allah (ﷺ).'\" Al-Baqarah 2:238.",
+      "narrator": "It was narrated that Abu Yunus, the freed slave of 'Aishah the wife of the Prophet (ﷺ), said:",
+      "reference": "Hadith 474"
+    },
+    {
+      "id": 475,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي قَتَادَةُ، عَنْ أَبِي حَسَّانَ، عَنْ عَبِيدَةَ، عَنْ عَلِيٍّ، - رضى الله عنه - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" شَغَلُونَا عَنِ الصَّلاَةِ الْوُسْطَى حَتَّى غَرَبَتِ الشَّمْسُ \" .",
+      "text_en": "\"They distracted us from Salatul-Wusta (the middle prayer) until the sun went down.\"",
+      "narrator": "It was narrated from 'Ali (ﷺ) that the Prophet (ﷺ) said:",
+      "reference": "Hadith 475"
+    },
+    {
+      "id": 476,
+      "text_ar": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنِي يَحْيَى، عَنْ هِشَامٍ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي قِلاَبَةَ، قَالَ حَدَّثَنِي أَبُو الْمَلِيحِ، قَالَ كُنَّا مَعَ بُرَيْدَةَ فِي يَوْمٍ ذِي غَيْمٍ فَقَالَ بَكِّرُوا بِالصَّلاَةِ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" مَنْ تَرَكَ صَلاَةَ الْعَصْرِ فَقَدْ حَبِطَ عَمَلُهُ \" .",
+      "text_en": "\"Abu Al-Malih narrated to me: 'We were with Buraidah on a cloudy day and he said: \"Pray early, for the Messenger of Allah (ﷺ) said: 'Whoever abandons Salat Al-'Asr, his good deeds will perish.'\"",
+      "narrator": "It was narrated that Abu Qilabah said:",
+      "reference": "Hadith 476"
+    },
+    {
+      "id": 477,
+      "text_ar": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا مَنْصُورُ بْنُ زَاذَانَ، عَنِ الْوَلِيدِ بْنِ مُسْلِمٍ، عَنْ أَبِي الصِّدِّيقِ النَّاجِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ كُنَّا نَحْزُرُ قِيَامَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الظُّهْرِ وَالْعَصْرِ فَحَزَرْنَا قِيَامَهُ فِي الظُّهْرِ قَدْرَ ثَلاَثِينَ آيَةً قَدْرَ سُورَةِ السَّجْدَةِ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ وَفِي الأُخْرَيَيْنِ عَلَى النِّصْفِ مِنْ ذَلِكَ وَحَزَرْنَا قِيَامَهُ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ مِنَ الْعَصْرِ عَلَى قَدْرِ الأُخْرَيَيْنِ مِنَ الظُّهْرِ وَحَزَرْنَا قِيَامَهُ فِي الرَّكْعَتَيْنِ الأُخْرَيَيْنِ مِنَ الْعَصْرِ عَلَى النِّصْفِ مِنْ ذَلِكَ .",
+      "text_en": "\"We used to estimate how long the Messenger of Allah (ﷺ) stood when praying in Zuhr and 'Asr. We estimated that he stood in Zuhr for as long as it take to recite thirty verses, as long as Surat As-Sajadah in the fits two Rak'ahs, and half that in the last two. And we estimated that he stood for as long in the fits two Rak'ahs, and half that in the last two. And we estimated that he stood for as long in the first two Rak'ahs of 'Asr as he stood in the last two Rak'ahs of Zuhr, and we estimated that he stood half as long as that in the last two Rak'ahs of 'Asr.\"",
+      "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+      "reference": "Hadith 477"
+    },
+    {
+      "id": 478,
+      "text_ar": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ أَبِي عَوَانَةَ، عَنْ مَنْصُورِ بْنِ زَاذَانَ، عَنِ الْوَلِيدِ أَبِي بِشْرٍ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُومُ فِي الظُّهْرِ فَيَقْرَأُ قَدْرَ ثَلاَثِينَ آيَةً فِي كُلِّ رَكْعَةٍ ثُمَّ يَقُومُ فِي الْعَصْرِ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ قَدْرَ خَمْسَ عَشْرَةَ آيَةً .",
+      "text_en": "\"The Messenger of Allah (ﷺ) used to stand in Zuhr and recite the equivalent of thirty verses in each Rak'ah, then in the first two Rak'ahs of 'Asr he would stand for the equivalent of fifteen verses.\"",
+      "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+      "reference": "Hadith 478"
+    },
+    {
+      "id": 479,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى الظُّهْرَ بِالْمَدِينَةِ أَرْبَعًا وَصَلَّى الْعَصْرَ بِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ .",
+      "text_en": "It was narrated from Anas bin Malik that the Prophet (ﷺ) prayed Zuhr in Al-Madinah, four Rak'ahs, and he prayed 'Asr in Dhul-Hulaifah, two Rak'ahs.",
       "narrator": "",
-      "reference": "Hadith 435"
+      "reference": "Hadith 479"
     },
     {
-      "id": 436,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، أَنْبَأَنَا أُمَيَّةُ بْنُ خَالِدٍ، حَدَّثَنَا شُعْبَةُ، أَنَّ مُخَارِقًا، أَخْبَرَهُمْ عَنْ طَارِقِ بْنِ شِهَابٍ، أَنَّ رَجُلاً، أَجْنَبَ فَلَمْ يُصَلِّ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ فَقَالَ \" أَصَبْتَ \" . فَأَجْنَبَ رَجُلٌ آخَرُ فَتَيَمَّمَ وَصَلَّى فَأَتَاهُ فَقَالَ نَحْوًا مِمَّا قَالَ لِلآخَرِ يَعْنِي \" أَصَبْتَ \" .",
-      "text_en": "\"You did the right thing.\" Then another man became Junub so he performed Tayammum and prayed. He came (to the Prophet (ﷺ)) who said to him what he had said to the other man- meaning, \"You did the right thing.\"",
-      "narrator": "It was narrated from Tariq bin Shaihab that a man became Junub and did not pray. He came to the Prophet (ﷺ) and told him about that, and he said:",
-      "reference": "Hadith 436"
+      "id": 480,
+      "text_ar": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، قَالَ أَنْبَأَنَا جَعْفَرُ بْنُ رَبِيعَةَ، أَنَّ عِرَاكَ بْنَ مَالِكٍ، حَدَّثَهُ أَنَّ نَوْفَلَ بْنَ مُعَاوِيَةَ حَدَّثَهُ أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" مَنْ فَاتَتْهُ صَلاَةُ الْعَصْرِ فَكَأَنَّمَا وُتِرَ أَهْلَهُ وَمَالَهُ \" . قَالَ عِرَاكٌ وَأَخْبَرَنِي عَبْدُ اللَّهِ بْنُ عُمَرَ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" مَنْ فَاتَتْهُ صَلاَةُ الْعَصْرِ فَكَأَنَّمَا وُتِرَ أَهْلَهُ وَمَالَهُ \" . خَالَفَهُ يَزِيدُ بْنُ أَبِي حَبِيبٍ .",
+      "text_en": "\"Whoever misses 'Asr prayer, it is as if he has been robbed of his family and wealth.\" 'Irak said: 'And 'Abdullah bin 'Umar informed me that he heard the Messenger of Allah (ﷺ) saying: 'Whosoever misses 'Asr prayer, it is as if he has been robbed of his family and wealth.'\" Yazid bin Abi Habib contradicted him. That is, contradicted Ja'far bin Rabi'ah who narrated it from 'Irik here - and Yazid's narration is next.",
+      "narrator": "'Irak bin Malik narrated that Nawfal bin Mu'awiyah told him that he heard the Messenger of Allah (ﷺ) say:",
+      "reference": "Hadith 480"
     },
     {
-      "id": 437,
-      "text_ar": "أَخْبَرَنَا عَلِيُّ بْنُ مَيْمُونٍ، قَالَ حَدَّثَنَا مَخْلَدُ بْنُ يَزِيدَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ تَذَاكَرَ عَلِيٌّ وَالْمِقْدَادُ وَعَمَّارٌ فَقَالَ عَلِيٌّ إِنِّي امْرَؤٌ مَذَّاءٌ وَإِنِّي أَسْتَحِي أَنْ أَسْأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم لِمَكَانِ ابْنَتِهِ مِنِّي فَيَسْأَلُهُ أَحَدُكُمَا فَذَكَرَ لِي أَنَّ أَحَدَهُمَا وَنَسِيتُهُ سَأَلَهُ فَقَالَ النَّبِيُّ صلى الله عليه وسلم \" ذَاكَ الْمَذْىُ إِذَا وَجَدَهُ أَحَدُكُمْ فَلْيَغْسِلْ ذَلِكَ مِنْهُ وَلْيَتَوَضَّأْ وُضُوءَهُ لِلصَّلاَةِ أَوْ كَوُضُوءِ الصَّلاَةِ \" .",
-      "text_en": "\"Ali, Al-Miqdad and 'Ammar were talking. 'Ali said: 'I am a man who emits a lot of Madhi but I am too shy to ask the Messenger of Allah (ﷺ) about that because of his daughter's position with me, so let one of you ask him.' He told me that one of them - but I forgot who - asked him, and the Prophet (ﷺ) said: 'That is Madhi. If any one of you notices that, let him wash it off himself and perform Wudu' as for prayer or similar to the Wudu' of prayer.'\"",
-      "narrator": "It was narrated that Ibn 'Abbas said:",
-      "reference": "Hadith 437"
+      "id": 481,
+      "text_ar": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، زُغْبَةُ قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ نَوْفَلَ بْنَ مُعَاوِيَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" مِنَ الصَّلاَةِ صَلاَةٌ مَنْ فَاتَتْهُ فَكَأَنَّمَا وُتِرَ أَهْلَهُ وَمَالَهُ \" . قَالَ ابْنُ عُمَرَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" هِيَ صَلاَةُ الْعَصْرِ \" . خَالَفَهُ مُحَمَّدُ بْنُ إِسْحَاقَ .",
+      "text_en": "\"I heard the Messenger of Allah (ﷺ) say: 'Among the prayers is a prayer which, if a person misses it, it is as if he has robbed of his family and his wealth.\" Ibn 'Umar said: \"I heard the Messenger of Allah (ﷺ) say: 'It is 'Asr prayer.'\" Muhammad bin Ishaq contradicted him. That is, Muhammad bin Ishaq narrated it from Yazid bin Abi Habib with the following chain and wording, which differs with this narration, reported by Al-Laith from Yazid.",
+      "narrator": "It was narrated from 'Irak bin Malik that he heard that Nawfal bin Mu'awiyah said:",
+      "reference": "Hadith 481"
     },
     {
-      "id": 438,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ قَالَ: حَدَّثَنَا عَبِيدَةُ قَالَ: حَدَّثَنَا سُلَيْمَانُ الأَعْمَشُ عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ: كُنْتُ رَجُلاً مَذَّاءً فَأَمَرْتُ رَجُلاً فَسَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «فِيهِ الْوُضُوءُ».",
-      "text_en": "\"I was a man who emotted a great deal of Madhi. I told a man to ask the Prophet (ﷺ) (about that) and he said: 'Wudu' (is required) for that.\"",
-      "narrator": "It was narrated that 'Ali, may Allah be please with him, said:",
-      "reference": "Hadith 438"
+      "id": 482,
+      "text_ar": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ بْنِ سَعْدٍ، قَالَ حَدَّثَنِي عَمِّي، قَالَ حَدَّثَنَا أَبِي، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، قَالَ سَمِعْتُ نَوْفَلَ بْنَ مُعَاوِيَةَ، يَقُولُ صَلاَةٌ مَنْ فَاتَتْهُ فَكَأَنَّمَا وُتِرَ أَهْلَهُ وَمَالَهُ . قَالَ ابْنُ عُمَرَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" هِيَ صَلاَةُ الْعَصْرِ \" .",
+      "text_en": "\"I heard Nawfal bin Mu'awiyah say: 'There is a prayer which if a person misses it, it is as of he has been robbed of his family and his wealth.'\" Ibn 'Umar said: \"The Messenger of Allah (ﷺ) said: 'It is 'Asr prayer.'\"",
+      "narrator": "It was narrated that 'Irak bin Malik said:",
+      "reference": "Hadith 482"
     },
     {
-      "id": 439,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي سُلَيْمَانُ الأَعْمَشُ، قَالَ سَمِعْتُ مُنْذِرًا، عَنْ مُحَمَّدِ بْنِ عَلِيٍّ، عَنْ عَلِيٍّ، - رضى الله عنه - قَالَ اسْتَحْيَيْتُ أَنْ أَسْأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْمَذْىِ مِنْ أَجْلِ فَاطِمَةَ فَأَمَرْتُ الْمِقْدَادَ فَسَأَلَهُ فَقَالَ \" فِيهِ الْوُضُوءُ \" .",
-      "text_en": "\"I felt too shy to ask the Messenger of Allah (ﷺ) about Madhi because of Fatimah, so I told Al-Miqdad to ask him, and he said: 'Wudu' (is required) for that.'\"",
-      "narrator": "It was narrated that 'Ali said:",
-      "reference": "Hadith 439"
+      "id": 483,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، قَالَ رَأَيْتُ سَعِيدَ بْنَ جُبَيْرٍ بِجَمْعٍ أَقَامَ فَصَلَّى الْمَغْرِبَ ثَلاَثَ رَكَعَاتٍ ثُمَّ أَقَامَ فَصَلَّى - يَعْنِي - الْعِشَاءَ رَكْعَتَيْنِ ثُمَّ ذَكَرَ أَنَّ ابْنَ عُمَرَ صَنَعَ بِهِمْ مِثْلَ ذَلِكَ فِي ذَلِكَ الْمَكَانِ وَذَكَرَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَنَعَ مِثْلَ ذَلِكَ فِي ذَلِكَ الْمَكَانِ .",
+      "text_en": "\"I saw Sa'eed bin Jubari in Jam'. He stood and prayed Maghrib, three Rak'ahs, then he stood and prayed 'Isha', two Rak'ahs. Then he mentioned that Ibn 'Umar had done the same thing in that place, and he mentioned that the Messenger of Allah (ﷺ) has done the same thing in that place. Meaning Al-Muzdalifah.",
+      "narrator": "It was narrated that Salamah bin Kuhail said:",
+      "reference": "Hadith 483"
     },
     {
-      "id": 440,
-      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ عِيسَى عَنِ ابْنِ وَهْبٍ وَذَكَرَ كَلِمَةً مَعْنَاهَا أَخْبَرَنِي مَخْرَمَةُ بْنُ بُكَيْرٍ عَنْ أَبِيهِ عَنْ سُلَيْمَانَ بْنِ يَسَارٍ عَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ أَرْسَلْتُ الْمِقْدَادَ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْأَلُهُ عَنِ الْمَذْيِ فَقَالَ: «تَوَضَّأْ وَانْضَحْ فَرْجَكَ». قَالَ أَبُو عَبْدِ الرَّحْمَنِ: مَخْرَمَةُ لَمْ يَسْمَعْ مِنْ أَبِيهِ شَيْئًا.",
-      "text_en": "\"I sent Al-Miqdad to the Messenger of Allah (ﷺ) to ask him about Madhi, and he said: 'Perform Wudu' and sprinkle water over your private part.'\" Abu 'Abdur-Rahman said: Makhramah (one of the narrators) did not hear anything from his father.",
-      "narrator": "'Ali said:",
-      "reference": "Hadith 440"
+      "id": 484,
+      "text_ar": "أَخْبَرَنَا نَصْرُ بْنُ عَلِيِّ بْنِ نَصْرٍ، عَنْ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ أَعْتَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْعِشَاءِ حَتَّى نَادَاهُ عُمَرُ رضى الله عنه نَامَ النِّسَاءُ وَالصِّبْيَانُ . فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ \" إِنَّهُ لَيْسَ أَحَدٌ يُصَلِّي هَذِهِ الصَّلاَةَ غَيْرُكُمْ \" . وَلَمْ يَكُنْ يَوْمَئِذٍ أَحَدٌ يُصَلِّي غَيْرَ أَهْلِ الْمَدِينَةِ .",
+      "text_en": "\"The Messenger of Allah (ﷺ) delayed 'Isha' until 'Umar called him and said: 'The women and children have gone to sleep.' Then the Messenger of Allah (ﷺ) came out and said: 'There is no one who is offering this prayer but you.' And at that time no one used to pray except the people of Al-Madinah.\"",
+      "narrator": "It was narrated that 'Aishah said:",
+      "reference": "Hadith 484"
     },
     {
-      "id": 441,
-      "text_ar": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ لَيْثِ بْنِ سَعْدٍ، عَنْ بُكَيْرِ بْنِ الأَشَجِّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، قَالَ أَرْسَلَ عَلِيُّ بْنُ أَبِي طَالِبٍ - رضى الله عنه - الْمِقْدَادَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم يَسْأَلُهُ عَنِ الرَّجُلِ يَجِدُ الْمَذْىَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" يَغْسِلُ ذَكَرَهُ ثُمَّ لْيَتَوَضَّأْ \" .",
-      "text_en": "\"Ali bin Abi Talib sent Al-Miqdad to the Messenger of Allah (ﷺ) to ask him about a man who notices Madhi. The Messenger of Allah (ﷺ) said: 'Let him wash his penis then perform Wudu'.'\"",
-      "narrator": "It was narrated that Sulaiman bin Yasar said:",
-      "reference": "Hadith 441"
+      "id": 485,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي الْحَكَمُ، قَالَ صَلَّى بِنَا سَعِيدُ بْنُ جُبَيْرٍ بِجَمْعٍ الْمَغْرِبَ ثَلاَثًا بِإِقَامَةٍ ثُمَّ سَلَّمَ ثُمَّ صَلَّى الْعِشَاءَ رَكْعَتَيْنِ ثُمَّ ذَكَرَ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ فَعَلَ ذَلِكَ وَذَكَرَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم فَعَلَ ذَلِكَ .",
+      "text_en": "\"Sa'eed bin Jubair led us in prayer in Jam'. (He prayed) Maghrib, three Rak'ahs with an Iqamah, then he prayed 'Isha', two Rak'ahs. Then he mentioned that 'Abdullah bin 'Umar had done that, and he mentioned that the Messenger of Allah (ﷺ) had done that.\"",
+      "narrator": "Al-Hakam said:",
+      "reference": "Hadith 485"
     },
     {
-      "id": 442,
-      "text_ar": "أَخْبَرَنَا عُتْبَةُ بْنُ عَبْدِ اللَّهِ، قَالَ قُرِئَ عَلَى مَالِكٍ وَأَنَا أَسْمَعُ، عَنْ أَبِي النَّضْرِ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنِ الْمِقْدَادِ بْنِ الأَسْوَدِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رضى الله عنه أَمَرَهُ أَنْ يَسْأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الرَّجُلِ إِذَا دَنَا مِنَ الْمَرْأَةِ فَخَرَجَ مِنْهُ الْمَذْىُ فَإِنَّ عِنْدِي ابْنَتَهُ وَأَنَا أَسْتَحْيِي أَنْ أَسْأَلَهُ . فَسَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ ذَلِكَ فَقَالَ \" إِذَا وَجَدَ أَحَدُكُمْ ذَلِكَ فَلْيَنْضَحْ فَرْجَهُ وَلْيَتَوَضَّأْ وُضُوءَهُ لِلصَّلاَةِ \" .",
-      "text_en": ") \"For his daughter is (married) to me and I feel too shy to ask him.\" So he asked the Messenger of Allah (ﷺ) about that and he said: \"If any one of you notices that let him sprinkle water on his private parts and perform Wudu' as for prayer.\"",
-      "narrator": "It was narrated from Al-Miqdad bin Al-Aswad thatt 'Ali bin Abi Talib, peace be upon him, told him to ask the Messenger of Allah (ﷺ) about a man who gets close to a woman and Madhi comes out of him. (He said:",
-      "reference": "Hadith 442"
+      "id": 486,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا سَلَمَةُ بْنُ كُهَيْلٍ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، قَالَ رَأَيْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ صَلَّى بِجَمْعٍ فَأَقَامَ فَصَلَّى الْمَغْرِبَ ثَلاَثًا ثُمَّ صَلَّى الْعِشَاءَ رَكْعَتَيْنِ ثُمَّ قَالَ هَكَذَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَصْنَعُ فِي هَذَا الْمَكَانِ .",
+      "text_en": "\"I heard Sa'eed bin Jubair say: 'I saw 'Abdullah bin 'Umar pray in Jam'; he made the Iqamah and prayed Maghrib, three Rak'ahs, then he prayed 'Isha', two Rak'ahs, then he said: 'This is what I saw the Messenger of Allah (ﷺ) do in this place.'\"",
+      "narrator": "Salamah bin Kuhail narrated:",
+      "reference": "Hadith 486"
     },
     {
-      "id": 443,
-      "text_ar": "أَخْبَرَنَا عِمْرَانُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مُسْلِمٍ الزُّهْرِيُّ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، قَالَ حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِذَا قَامَ أَحَدُكُمْ مِنَ اللَّيْلِ فَلاَ يُدْخِلْ يَدَهُ فِي الإِنَاءِ حَتَّى يُفْرِغَ عَلَيْهَا مَرَّتَيْنِ أَوْ ثَلاَثًا فَإِنَّ أَحَدَكُمْ لاَ يَدْرِي أَيْنَ بَاتَتْ يَدُهُ \" .",
-      "text_en": "\"The Messenger of Allah (ﷺ) said: 'When any one of you gets up after (sleeping) at night, let him not put his hand into the vessel until he has poured water on it two or three times, for none of you knows where his hand spent the night.'\"",
-      "narrator": "Abu Hurairah said:",
-      "reference": "Hadith 443"
+      "id": 487,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" يَتَعَاقَبُونَ فِيكُمْ مَلاَئِكَةٌ بِاللَّيْلِ وَمَلاَئِكَةٌ بِالنَّهَارِ وَيَجْتَمِعُونَ فِي صَلاَةِ الْفَجْرِ وَصَلاَةِ الْعَصْرِ ثُمَّ يَعْرُجُ الَّذِينَ بَاتُوا فِيكُمْ فَيَسْأَلُهُمْ وَهُوَ أَعْلَمُ بِهِمْ كَيْفَ تَرَكْتُمْ عِبَادِي فَيَقُولُونَ تَرَكْنَاهُمْ وَهُمْ يُصَلُّونَ وَأَتَيْنَاهُمْ وَهُمْ يُصَلُّونَ \" .",
+      "text_en": "\"Angels come to you in succession by night and day, and they meet at Fajr prayer and 'Asr prayer. Then those who spent the night among you ascend, and He (Allah) will ask them, although He knows best: 'In what condition did you leave My slaves.' They will say: 'We left them when they were praying and we came to them when they were praying.'\"",
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "reference": "Hadith 487"
     },
     {
-      "id": 444,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا دَاوُدُ، عَنْ عَمْرٍو، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ صَلَّيْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَقُمْتُ عَنْ يَسَارِهِ فَجَعَلَنِي عَنْ يَمِينِهِ فَصَلَّى ثُمَّ اضْطَجَعَ وَرَقَدَ فَجَاءَهُ الْمُؤَذِّنُ فَصَلَّى وَلَمْ يَتَوَضَّأْ مُخْتَصَرٌ .",
-      "text_en": "\"I prayed with the Prophet (ﷺ) one night, and I stood on his left, but he made me stand on his right, and he prayed. Then he reclined on his side and took a nap, then the Mu'adhdhin came to him and he prayed, and did not perform Wudu'.\"",
-      "narrator": "It was narrated that Ibn 'Abbas said:",
-      "reference": "Hadith 444"
+      "id": 488,
+      "text_ar": "أَخْبَرَنَا كَثِيرُ بْنُ عُبَيْدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" تَفْضُلُ صَلاَةُ الْجَمْعِ عَلَى صَلاَةِ أَحَدِكُمْ وَحْدَهُ بِخَمْسَةٍ وَعِشْرِينَ جُزْءًا وَيَجْتَمِعُ مَلاَئِكَةُ اللَّيْلِ وَالنَّهَارِ فِي صَلاَةِ الْفَجْرِ وَاقْرَءُوا إِنْ شِئْتُمْ { وَقُرْآنَ الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا } \" .",
+      "text_en": "\"Prayer in congregation is twenty-five times more virtuous than the prayer of any one of you offered on his own. The angels of the night and the day meet at Fajr prayer. Recite if you wish: Verily, the recitation of the Qur'an in the early dawn is ever witnessed.\" Al-Isra' 17:78.",
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "reference": "Hadith 488"
     },
     {
-      "id": 445,
-      "text_ar": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ الطُّفَاوِيُّ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" إِذَا نَعَسَ أَحَدُكُمْ فِي صَلاَتِهِ فَلْيَنْصَرِفْ وَلْيَرْقُدْ \" .",
-      "text_en": "\"If anyone of you feels drowsy during his Salah, let him go and take a nap.\"",
-      "narrator": "It was narrated from Anas that the Messenger of Allah (ﷺ) said:",
-      "reference": "Hadith 445"
+      "id": 489,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالاَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي أَبُو بَكْرِ بْنُ عُمَارَةَ بْنِ، رُوَيْبَةَ عَنْ أَبِيهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" لاَ يَلِجُ النَّارَ أَحَدٌ صَلَّى قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ أَنْ تَغْرُبَ \" .",
+      "text_en": "\"I heard the Messenger of Allah (ﷺ) say: 'No one will enter the Fire who prays before the sun rises and before it sets.'\"",
+      "narrator": "Abu Bakr bin 'Umarah bin Ruwaibah narrated that his father said:",
+      "reference": "Hadith 489"
     },
     {
-      "id": 446,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ، - يَعْنِي ابْنَ أَبِي بَكْرٍ - قَالَ عَلَى أَثَرِهِ قَالَ أَبُو عَبْدِ الرَّحْمَنِ وَلَمْ أُتْقِنْهُ عَنْ عُرْوَةَ، عَنْ بُسْرَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" مَنْ مَسَّ فَرْجَهُ فَلْيَتَوَضَّأْ \" .",
-      "text_en": "\"The Messenger of Allah (ﷺ) said: 'Whoever touches his private part, let him perform Wudu'.'\"",
-      "narrator": "It was narrated that Busrah said:",
-      "reference": "Hadith 446"
+      "id": 490,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا أَبُو إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ صَلَّيْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم نَحْوَ بَيْتِ الْمَقْدِسِ سِتَّةَ عَشَرَ شَهْرًا أَوْ سَبْعَةَ عَشَرَ شَهْرًا - شَكَّ سُفْيَانُ - وَصُرِفَ إِلَى الْقِبْلَةِ .",
+      "text_en": "\"We prayed toward Bait Al-Maqdis (Jerusalem) with the Messenger of Allah (ﷺ) for sixteen or seventeen months - Safwan was not sure - then it was changed to the Qiblah.\"",
+      "narrator": "It was narrated that Al-Bara' said:",
+      "reference": "Hadith 490"
     },
     {
-      "id": 447,
-      "text_ar": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَوَاءٍ، عَنْ شُعْبَةَ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ بُسْرَةَ بِنْتِ صَفْوَانَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ \" إِذَا أَفْضَى أَحَدُكُمْ بِيَدِهِ إِلَى فَرْجِهِ فَلْيَتَوَضَّأْ \" .",
-      "text_en": "\"If any one of you touches his private part with his hand, let him perform Wudu'.\"",
-      "narrator": "It was narrated from Busrah bint Safwan that the Prophet (ﷺ) said:",
-      "reference": "Hadith 447"
+      "id": 491,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ الأَزْرَقُ، عَنْ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ فَصَلَّى نَحْوَ بَيْتِ الْمَقْدِسِ سِتَّةَ عَشَرَ شَهْرًا ثُمَّ إِنَّهُ وُجِّهَ إِلَى الْكَعْبَةِ فَمَرَّ رَجُلٌ قَدْ كَانَ صَلَّى مَعَ النَّبِيِّ صلى الله عليه وسلم عَلَى قَوْمٍ مِنَ الأَنْصَارِ فَقَالَ أَشْهَدُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ وُجِّهَ إِلَى الْكَعْبَةِ . فَانْحَرَفُوا إِلَى الْكَعْبَةِ .",
+      "text_en": "\"The Messenger of Allah (ﷺ) came to Al-Madinah and prayed toward Bait Al-Maqdis for sixteen months, then he was commanded to face towards the Ka'bah. A man who had prayed with the Prophet (ﷺ) passed by some of the Ansar and said: 'I bear witness that the Messenger of Allah (ﷺ) has been commanded to face towards the Ka'bah' so they turned to face the Ka'bah.\"",
+      "narrator": "It was narrated that Al-Bara bin 'Azib said:",
+      "reference": "Hadith 491"
     },
     {
-      "id": 448,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ مَرْوَانَ بْنِ الْحَكَمِ، أَنَّهُ قَالَ الْوُضُوءُ مِنْ مَسِّ الذَّكَرِ فَقَالَ مَرْوَانُ أَخْبَرَتْنِيهِ بُسْرَةُ بِنْتُ صَفْوَانَ . فَأَرْسَلَ عُرْوَةُ قَالَتْ ذَكَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَا يُتَوَضَّأُ مِنْهُ فَقَالَ \" مِنْ مَسِّ الذَّكَرِ \" .",
-      "text_en": "\"Busrah bint Safwan told me that.\" 'Urwah sent someone to check that, and she said: \"The Messenger of Allah (ﷺ) mentioned what Wudu' is done for, and said: 'Touching the penis.'\"",
-      "narrator": "It was narrated that Marwan bin Al-Hakam said that one should perform Wudu' after touching one's penis. Marwan said:",
-      "reference": "Hadith 448"
+      "id": 492,
+      "text_ar": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، زُغْبَةُ وَأَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ وَالْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُسَبِّحُ عَلَى الرَّاحِلَةِ قِبَلَ أَىِّ وَجْهٍ تَتَوَجَّهُ وَيُوتِرُ عَلَيْهَا غَيْرَ أَنَّهُ لاَ يُصَلِّي عَلَيْهَا الْمَكْتُوبَةَ .",
+      "text_en": "\"The Messenger of Allah (ﷺ) used to pray voluntary prayers (Usabbih) while riding his mount, facing whatever direction it was facing, and he would pray Witr likewise, but he would not offer the prescribed prayers on it.\"",
+      "narrator": "It was narrated from Salim that his father said:",
+      "reference": "Hadith 492"
     },
     {
-      "id": 449,
-      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، قَالَ أَخْبَرَنِي أَبِي، عَنْ بُسْرَةَ بِنْتِ صَفْوَانَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ \" مَنْ مَسَّ ذَكَرَهُ فَلاَ يُصَلِّي حَتَّى يَتَوَضَّأَ \" . قَالَ أَبُو عَبْدِ الرَّحْمَنِ هِشَامُ بْنُ عُرْوَةَ لَمْ يَسْمَعْ مِنْ أَبِيهِ هَذَا الْحَدِيثَ وَاللَّهُ سُبْحَانَهُ وَتَعَالَى أَعْلَمُ .",
-      "text_en": "\"Whoever touches his penis, he should not perform Salah until he performs Wudu'.\" Abu 'Abdur-Rahman (An-Nasa'i) said: Hisham bin 'Urwah did not hear this Hadith from his father.",
-      "narrator": "It was narrated from Busrah bin Safwan that the Prophet (ﷺ) said:",
-      "reference": "Hadith 449"
+      "id": 493,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ يَحْيَى، عَنْ عَبْدِ الْمَلِكِ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي عَلَى دَابَّتِهِ وَهُوَ مُقْبِلٌ مِنْ مَكَّةَ إِلَى الْمَدِينَةِ وَفِيهِ أُنْزِلَتْ { فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ } .",
+      "text_en": "\"The Messenger of Allah (ﷺ) used to pray while on his animal when he was coming back from Makkah to Madinah. Concerning this, the verse was revealed: So wherever you turn (yourselves or your faces) there is the Face of Allah.'\" Al-Baqarah 2:115.",
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "reference": "Hadith 493"
+    },
+    {
+      "id": 494,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي عَلَى رَاحِلَتِهِ فِي السَّفَرِ حَيْثُمَا تَوَجَّهَتْ بِهِ . قَالَ مَالِكٌ قَالَ عَبْدُ اللَّهِ بْنُ دِينَارٍ وَكَانَ ابْنُ عُمَرَ يَفْعَلُ ذَلِكَ .",
+      "text_en": "\"The Messenger of Allah (ﷺ) used to pray on his mount while on a journey, no matter what direction it was facing.\" Malik said: \"Abdullah bin Dinar said: 'And Ibn 'Umar used to do likewise.'\"",
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "reference": "Hadith 494"
+    },
+    {
+      "id": 495,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ بَيْنَمَا النَّاسُ بِقُبَاءٍ فِي صَلاَةِ الصُّبْحِ جَاءَهُمْ آتٍ فَقَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ أُنْزِلَ عَلَيْهِ اللَّيْلَةَ وَقَدْ أُمِرَ أَنْ يَسْتَقْبِلَ الْكَعْبَةَ فَاسْتَقْبِلُوهَا . وَكَانَتْ وُجُوهُهُمْ إِلَى الشَّامِ فَاسْتَدَارُوا إِلَى الْكَعْبَةِ .",
+      "text_en": "\"While the people were in Quba', praying the Subh prayer, someone came to them and said that revelation had come to the Messenger of Allah (ﷺ) the night before, and he has been commanded to face the Ka'bah. So they turned around, and they has been facing toward Ash-Sham, but now they turned to face toward the Ka'bah.\"",
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "reference": "Hadith 495"
     }
   ]
 }

@@ -1,107 +1,65 @@
 {
   "book_id": "shamail_muhammadiyah",
   "chapter_id": 2,
-  "original_chapter_id": 1,
-  "title_ar": "باب ما جاء في خلق رسول الله صلى الله عليه وسلم",
-  "title_en": "The Noble Features Of Rasoolullah",
+  "original_chapter_id": 2,
+  "title_ar": "باب ما جاء في خاتم النبوة",
+  "title_en": "Seal Of Nubuwwah (Prophethood) Of Rasoolullah",
   "entries": [
     {
-      "id": 1,
-      "text_ar": "حَدَّثَنَا أَبُو رَجَاءٍ قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ سَمِعَهُ، يَقُولُ: كَانَ رَسُولُ اللهِ صلى الله عليه وسلم، لَيْسَ بِالطَّوِيلِ الْبَائِنِ، وَلاَ بِالْقَصِيرِ، وَلاَ بِالأَبْيَضِ الأَمْهَقِ، وَلاَ بِالآدَمِ، وَلاَ بِالْجَعْدِ الْقَطَطِ، وَلاَ بِالسَّبْطِ، بَعَثَهُ اللَّهُ تَعَالَى عَلَى رَأْسِ أَرْبَعِينَ سَنَةً، فَأَقَامَ بِمَكَّةَ عَشْرَ سِنِينَ، وَبِالْمَدِينَةِ عَشْرَ سِنِينَ، وَتَوَفَّاهُ اللَّهُ تَعَالَى عَلَى رَأْسِ سِتِّينَ سَنَةً، وَلَيْسَ فِي رَأْسِهِ وَلِحْيَتِهِ عِشْرُونَ شَعَرَةً بَيْضَاءَ.",
-      "text_en": "“Allah’s Messenger (Allah bless him and give him peace) was neither very tall of stature, nor short. His skin was neither pale white, nor tawny, and his hair was neither crisply curled, nor lank. Allah (Exalted is He) sent him at the end of forty years of life, so he stayed in Mecca for ten years and in Medina for ten years, and Allah took him unto Himself at the end of sixty years, with fewer than twenty white hairs on his head and his beard.”",
-      "narrator": "Anas ibn Malik (ra) reports:",
-      "reference": "Hadith 1"
+      "id": 15,
+      "text_ar": "حَدَّثَنَا أَبُو رَجَاءٍ قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ: حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنِ الْجَعْدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ: سَمِعْتُ السَّائِبَ بْنَ يَزِيدَ، يَقُولُ: ذَهَبَتْ بِي خَالَتِي إِلَى النَّبِيِّ صلى الله عليه وسلم، فَقَالَتْ: يَا رَسُولَ اللهِ، إِنَّ ابْنَ أُخْتِي وَجِعٌ فَمَسَحَ رَأْسِي وَدَعَا لِي بِالْبَرَكَةِ، وَتَوَضَّأَ، فَشَرِبْتُ مِنْ وَضُوئِهِ، وَقُمْتُ خَلْفَ ظَهْرِهِ، فَنَظَرْتُ إِلَى الْخَاتَمِ بَيْنَ كَتِفَيْهِ، فَإِذَا هُوَ مِثْلُ زِرِّ الْحَجَلَةِ.",
+      "text_en": "‘My maternal aunt took me to the Prophet (Allah bless him and give him peace), and she said; “O Messenger of Allah, my sister's son is in pain!” He therefore stroked my head (Allah bless him and give him peace) and supplicated blessing for my sake. He performed the minor ritual ablution. I drank from his ablution water and stood behind his back, whereupon I observed the Seal between his shoulders, and lo and behold, it was like the button of the bridal canopy!”’",
+      "narrator": "As-Sa’ib ibn Yazid said:",
+      "reference": "Hadith 15"
     },
     {
-      "id": 2,
-      "text_ar": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ الْبَصْرِيُّ، قَالَ: حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، عَنْ حُمَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: كَانَ رَسُولُ اللهِ صلى الله عليه وسلم رَبْعَةً، لَيْسَ بِالطَّوِيلِ وَلا بِالْقَصِيرِ، حَسَنَ الْجِسْمِ، وَكَانَ شَعَرُهُ لَيْسَ بِجَعْدٍ، وَلا سَبْطٍ أَسْمَرَ اللَّوْنِ، إِذَا مَشَى يَتَكَفَّأُ.",
-      "text_en": "‘Allah’s Messenger (Allah bless him and give him peace) was of medium height, neither tall nor short. He was of handsome physique, and his hair was neither crisply curled nor smooth, brown of color. When he walked, he used to stride confidently ”",
-      "narrator": "Anas ibn Malik said:",
-      "reference": "Hadith 2"
-    },
-    {
-      "id": 3,
-      "text_ar": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ: حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ: سَمِعْتُ الْبَرَاءَ بْنَ عَازِبٍ، يَقُولُ: كَانَ رَسُولُ اللهِ صلى الله عليه وسلم، رَجُلا مَرْبُوعًا، بَعِيدَ مَا بَيْنَ الْمَنْكِبَيْنِ، عَظِيمَ الْجُمَّةِ إِلَى شَحْمَةِ أُذُنَيْهِ الْيُسْرَى، عَلَيْهِ حُلَّةٌ حَمْرَاءُ، مَا رَأَيْتُ شَيْئًا قَطُّ أَحْسَنَ مِنْهُ.",
-      "text_en": "“I heard al-Bara’ ibn 'Azib say: \"Allah’s Messenger(Allah bless him and give him peace)was neither curly nor lank-haired, of medium height, broad-shouldered, with luxuriant hair reaching the lobes of his ears, wearing a red suit of clothes. I have never seen anything more beautiful than him!”",
-      "narrator": "Ibn Ishaq said:",
-      "reference": "Hadith 3"
-    },
-    {
-      "id": 4,
-      "text_ar": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ: حَدَّثَنَا وَكِيعٌ، قَالَ: حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ: مَا رَأَيْتُ مِنْ ذِي لِمَّةٍ فِي حُلَّةٍ حَمْرَاءَ أَحْسَنَ مِنْ رَسُولِ اللهِ صلى الله عليه وسلم، لَهُ شَعَرٌ يَضْرِبُ مَنْكِبَيْهِ، بَعِيدُ مَا بَيْنَ الْمَنْكِبَيْنِ، لَمْ يَكُنْ بِالْقَصِيرِ، وَلا بِالطَّوِيلِ.",
-      "text_en": "\"I have never seen anyone endowed with a lock of hair flowing below the ears, wearing a red suit of clothes, more handsome than Allah’s Messenger (Allah bless him and give him peace). He had some hair touching his shoulders. Broad-shouldered, he was neither short nor tall.”",
-      "narrator": "Al-Bara’ ibn 'Azib said:",
-      "reference": "Hadith 4"
-    },
-    {
-      "id": 5,
-      "text_ar": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالَ: حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ: حَدَّثَنَا الْمَسْعُودِيُّ، عَنْ عُثْمَانَ بْنِ مُسْلِمِ بْنِ هُرْمُزَ، عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ: لَمْ يَكُنِ النَّبِيُّ صلى الله عليه وسلم بِالطَّوِيلِ، وَلا بِالْقَصِيرِ، شَثْنُ الْكَفَّيْنِ وَالْقَدَمَيْنِ، ضَخْمُ الرَّأْسِ، ضَخْمُ الْكَرَادِيسِ، طَوِيلُ الْمَسْرُبَةِ، إِذَا مَشَى تَكَفَّأَ تَكَفُّؤًا، كَأَنَّمَا يَنْحَطُّ مِنْ صَبَبٍ، لَمْ أَرَ قَبْلَهُ، وَلا بَعْدَهُ مِثْلَهُ، صلى الله عليه وسلم. حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، قَالَ: حَدَّثَنَا أَبِي، عَنِ الْمَسْعُودِيِّ، بِهَذَا الإِسْنَادِ، نَحْوَهُ، بِمَعْنَاهُ.",
-      "text_en": "“The Prophet (Allah bless him and give him peace) was neither tall nor short, endowed with sturdy hands and feet, stout head and limbs, and lengthy hair on the chest. When he walked, he inclined forward, as if he were descending a downward slope. I have never seen the like of him, neither before him nor after him.”",
-      "narrator": "Ali ibn Abi Talib said:",
-      "reference": "Hadith 5"
-    },
-    {
-      "id": 6,
-      "text_ar": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ الْبَصْرِيُّ، وَعَلِيُّ بْنُ حُجْرٍ، وَأَبُو جَعْفَرٍ مُحَمَّدُ بْنُ الْحُسَيْنِ وَهُوَ ابْنُ أَبِي حَلِيمَةَ، وَالْمَعْنَى وَاحِدٌ، قَالُوا: حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ عُمَرَ بْنِ عَبْدِ اللهِ مَوْلَى غُفْرَةَ، قَالَ: حَدَّثَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدٍ مِنْ وَلَدِ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ: كَانَ عَلِيٌّ إِذَا وَصَفَ رَسُولَ اللهِ صلى الله عليه وسلم، قَالَ: لَمْ يَكُنْ رَسُولُ اللهِ صلى الله عليه وسلم بِالطَّوِيلِ الْمُمَّغِطِ، وَلا بِالْقَصِيرِ الْمُتَرَدِّدِ، وَكَانَ رَبْعَةً مِنَ الْقَوْمِ، لَمْ يَكُنْ بِالْجَعْدِ الْقَطَطِ، وَلا بِالسَّبْطِ، كَانَ جَعْدًا رَجِلا، وَلَمْ يَكُنْ بِالْمُطَهَّمِ، وَلا بِالْمُكَلْثَمِ، وَكَانَ فِي وَجْهِهِ تَدْوِيرٌ، أَبْيَضُ مُشَرَبٌ، أَدْعَجُ الْعَيْنَيْنِ، أَهْدَبُ الأَشْفَارِ، جَلِيلُ الْمُشَاشِ وَالْكَتَدِ، أَجْرَدُ، ذُو مَسْرُبَةٍ، شَثْنُ الْكَفَّيْنِ وَالْقَدَمَيْنِ، إِذَا مَشَى كَأَنَّمَا يَنْحَطُّ فِي صَبَبٍ، وَإِذَا الْتَفَتَ الْتَفَتَ مَعًا، بَيْنَ كَتِفَيْهِ خَاتَمُ النُّبُوَّةِ، وَهُوَ خَاتَمُ النَّبِيِّينَ، أَجْوَدُ النَّاسِ صَدْرًا، وَأَصْدَقُ النَّاسِ لَهْجَةً، وَأَلْيَنُهُمْ عَرِيكَةً، وَأَكْرَمُهُمْ عِشْرَةً، مَنْ رَآهُ بَدِيهَةً هَابَهُ، وَمَنْ خَالَطَهُ مَعْرِفَةً أَحَبَّهُ، يَقُولُ نَاعِتُهُ: لَمْ أَرَ قَبْلَهُ، وَلا بَعْدَهُ مِثْلَهُ صلى الله عليه وسلم.",
-      "text_en": "1 have been told by Ibrahim ibn Muhammad, one of the offspring of 'Ali ibn Abi Talib (may Allah be well pleased with him): “When 'Ali described Allah’s Messenger (Allah bless him and give him peace),he said: \"Allah’s Messenger (Allah bless him and give him peace) was neither assertively tall, nor reticently short, and he was an average-sized member of the population. His hair was neither crisply curled nor lank; it was loosely curled. He was neither plump nor chubby-cheeked, and in his face there was a rounded quality. He was white with a reddish tinge, dark black-eyed, with long eyelashes. He had splendid kneecaps, elbow joints and shoulder blades, free from hair. He had a strip of hair from the top of the chest to the navel. The palms of his hands and the soles of his feet were thickset. When he walked, he moved as if he were descending a declivity, and when he looked around, he looked around altogether. Between his shoulders was the Seal of Prophethood, for he is the Seal of the Prophets. He was the best of the people in generosity, the most truthful of the people in speech, the gentlest of them in temperament, and the noblest of them in social intercourse. If someone saw him unexpectedly, he was awestruck by him, and if someone came to know him, he loved him. His describer says: “I have never seen the like of him (Allah bless him and give him peace), neither before him nor after him.”",
-      "narrator": "On the authority of 'Umar ibn 'Abdi’llah, the Mawla of Ghufra:",
-      "reference": "Hadith 6"
-    },
-    {
-      "id": 7,
-      "text_ar": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، قَالَ: حَدَّثَنَا جُمَيْعُ بْنُ عُمَرَ بْنِ عَبْدِ الرَّحْمَنِ الْعِجْلِيُّ، إِمْلاءً عَلَيْنَا مِنْ كِتَابِهِ، قَالَ: أَخْبَرَنِي رَجُلٌ مِنْ بَنِي تَمِيمٍ، مِنْ وَلَدِ أَبِي هَالَةَ زَوْجِ خَدِيجَةَ، يُكَنَى أَبَا عَبْدِ اللهِ، عَنِ ابْنٍ لأَبِي هَالَةَ، عَنِ الْحَسَنِ بْنِ عَلِيٍّ، قَالَ: سَأَلْتُ خَالِي هِنْدَ بْنَ أَبِي هَالَةَ، وَكَانَ وَصَّافًا، عَنْ حِلْيَةِ رَسُولِ اللهِ صلى الله عليه وسلم، وَأَنَا أَشْتَهِي أَنْ يَصِفَ لِي مِنْهَا شَيْئًا أَتَعَلَّقُ بِهِ، فَقَالَ: كَانَ رَسُولُ اللهِ صلى الله عليه وسلم فَخْمًا مُفَخَّمًا، يَتَلأْلأُ وَجْهُهُ، تَلأْلُؤَ الْقَمَرِ لَيْلَةَ الْبَدْرِ، أَطْوَلُ مِنَ الْمَرْبُوعِ، وَأَقْصَرُ مِنَ الْمُشَذَّبِ، عَظِيمُ الْهَامَةِ، رَجِلُ الشَّعْرِ، إِنِ انْفَرَقَتْ عَقِيقَتُهُ فَرَّقَهَا، وَإِلا فَلا يُجَاوِزُ شَعَرُهُ شَحْمَةَ أُذُنَيْهِ، إِذَا هُوَ وَفَّرَهُ، أَزْهَرُ اللَّوْنِ، وَاسِعُ الْجَبِينِ، أَزَجُّ الْحَوَاجِبِ، سَوَابِغَ فِي غَيْرِ قَرَنٍ، بَيْنَهُمَا عِرْقٌ، يُدِرُّهُ الْغَضَبُ، أَقْنَى الْعِرْنَيْنِ، لَهُ نُورٌ يَعْلُوهُ، يَحْسَبُهُ مَنْ لَمْ يَتَأَمَّلْهُ أَشَمَّ، كَثُّ اللِّحْيَةِ، سَهْلُ الْخدَّيْنِ، ضَلِيعُ الْفَمِ، مُفْلَجُ الأَسْنَانِ، دَقِيقُ الْمَسْرُبَةِ، كَأَنَّ عُنُقَهُ جِيدُ دُمْيَةٍ، فِي صَفَاءِ الْفِضَّةِ، مُعْتَدِلُ الْخَلْقِ، بَادِنٌ مُتَمَاسِكٌ، سَوَاءُ الْبَطْنِ وَالصَّدْرِ، عَرِيضُ الصَّدْرِ، بَعِيدُ مَا بَيْنَ الْمَنْكِبَيْنِ، ضَخْمُ الْكَرَادِيسِ، أَنْوَرُ الْمُتَجَرَّدِ، مَوْصُولُ مَا بَيْنَ اللَّبَّةِ وَالسُّرَّةِ بِشَعَرٍ يَجْرِي كَالْخَطِّ، عَارِي الثَّدْيَيْنِ وَالْبَطْنِ مِمَّا سِوَى ذَلِكَ، أَشْعَرُ الذِّرَاعَيْنِ، وَالْمَنْكِبَيْنِ، وَأَعَالِي الصَّدْرِ، طَوِيلُ الزَّنْدَيْنِ، رَحْبُ الرَّاحَةِ، شَثْنُ الْكَفَّيْنِ وَالْقَدَمَيْنِ، سَائِلُ الأَطْرَافِ أَوْ قَالَ: شَائِلُ الأَطْرَافِ خَمْصَانُ الأَخْمَصَيْنِ، مَسِيحُ الْقَدَمَيْنِ، يَنْبُو عَنْهُمَا الْمَاءُ، إِذَا زَالَ، زَالَ قَلِعًا، يَخْطُو تَكَفِّيًا، وَيَمْشِي هَوْنًا، ذَرِيعُ الْمِشْيَةِ، إِذَا مَشَى كَأَنَّمَا يَنْحَطُّ مِنْ صَبَبٍ، وَإِذَا الْتَفَتَ الْتَفَتَ جَمِيعًا، خَافِضُ الطَّرْفِ، نَظَرُهُ إِلَى الأَرْضِ، أَطْوَلُ مِنْ نَظَرِهِ إِلَى السَّمَاءِ، جُلُّ نَظَرِهِ الْمُلاحَظَةُ، يَسُوقُ أَصْحَابَهُ، وَيَبْدَأُ مَنْ لَقِيَ بِالسَّلامِ.",
-      "text_en": "“My maternal aunt Hind asked the son of Abu Hala, who was a describer of the finery of Allah’s Messenger (Allah bless him and give him peace), to describe something of it that would be of interest to me, so he said: Allah’s Messenger (Allah bless him and give him peace) was an honored dignitary, whose face shone with the radiance of the moon on the night of the full moon. He was taller than medium-sized, and shorter than the slender giant. His head was grand and impressive, with loosely curled hair. If his forelock became divided, he would part it. Otherwise his hair would not cross over his earlobes, and he would let it grow plentiful and long. He was bright of color, broad of forehead, endowed with arched eyebrows, perfect without being conjoined, with a vein between them that anger would cause to pulsate. The bridge of his nose was curved. He had a light that would rise over him, and someone who did not reflect on him would consider him haughty. He was thickly bearded, endowed with smooth cheeks, a wide mouth, cleft teeth, and a delicate strip of hair from the top of the chest to the navel. It was as if his neck were the neck of a statue shaped in pure silver. He was well proportioned in physique, firmly cohesive, with the stomach and the breast in even balance. He was wide-chested, broad-shouldered, endowed with stout limbs and very shiny bare skin. Between the top of the chest and the navel by a strip of hair like a line of writing, while his breasts and stomach were bare apart from that. He had hair on his arms and shoulders and the upper parts of his chest. His forearms were long. He had a sensitive touch of the hand. The palms of his hands and the soles of his feet were thickset. His extremities were well formed . The hollows of his soles were very deep-set. His feet were so smooth that water bounced off them. When he left a place, he would go away striding decisively. He would tread inclining forward and walk comfortably. His gait was brisk. When he walked, it was as if he were descending a declivity, and when he looked around, he looked around altogether. He lowered his eyesight, and he spent more time looking at the ground than he did looking at the sky. The majority of his looking was observation. He would urge his Companions to proceed ahead of him, and he would be the first to greet anyone he encountered with the salutation of peace.”",
-      "narrator": "Al-Hasan ibn 'Ali (may Allah be well pleased with him and his father) said:",
-      "reference": "Hadith 7"
-    },
-    {
-      "id": 8,
-      "text_ar": "حَدَّثَنَا أَبُو مُوسَى مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، قَالَ: سَمِعْتُ جَابِرَ بْنَ سَمُرَةَ، يَقُولُ: كَانَ رَسُولُ اللهِ صلى الله عليه وسلم ضَلِيعَ الْفَمِ، أَشْكَلَ الْعَيْنِ، مَنْهُوسَ الْعَقِبِ.",
-      "text_en": "“I heard Jabir ibn Samura say: \"Allah’s Messenger (Allah bless him and give him peace) was dali al-fam, ashkal al-'ain, manhus al-'aqib.” Shu'ba said: “I asked Simak: ‘What is dali al-fam?\" He replied:\" endowed with a lean heel.”",
-      "narrator": "Simak ibn Harb said:",
-      "reference": "Hadith 8"
-    },
-    {
-      "id": 9,
-      "text_ar": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، قَالَ: حَدَّثَنَا عَبْثَرُ بْنُ الْقَاسِمِ، عَنْ أَشْعَثَ يَعْنِي ابْنَ سَوَّارٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ: رَأَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم، فِي لَيْلَةٍ إِضْحِيَانٍ، وَعَلَيْهِ حُلَّةٌ حَمْرَاءُ، فَجَعَلْتُ أَنْظُرُ إِلَيْهِ وَإِلَى الْقَمَرِ، فَلَهُوَ عِنْدِي أَحْسَنُ مِنَ الْقَمَرِ.",
-      "text_en": "\"I saw Allah’s Messenger (Allah bless him and give him peace) on a cloudless night, and he was wearing a red suit of clothes, so I started looking at him as well as at the moon, for he is indeed more beautiful, in my opinion, than the moon!”",
+      "id": 16,
+      "text_ar": "حَدَّثَنَا سَعِيدُ بْنُ يَعْقُوبَ الطَّالْقَانِيُّ، قَالَ: حدَّثَنَا أَيُّوبُ بْنُ جَابِرٍ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ: رَأَيْتُ الْخَاتَمَ بَيْنَ كَتِفَيْ رَسُولِ اللهِ صلى الله عليه وسلم، غُدَّةً حَمْرَاءَ، مِثْلَ بَيْضَةِ الْحَمَامَةِ.",
+      "text_en": "\"I saw the Seal between the shoulders of Allah’s Messenger (Allah bless him and give him peace) as a red swelling like the egg of the dove.”",
       "narrator": "Jabir ibn Samura said:",
-      "reference": "Hadith 9"
+      "reference": "Hadith 16"
     },
     {
-      "id": 10,
-      "text_ar": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ الرُّؤَاسِيُّ، عَنْ زُهَيْرٍ، عَنْ أَبِي إِسْحَاقَ، قَالَ: سَأَلَ رَجُلٌ الْبَرَاءَ بْنَ عَازِبٍ: أَكَانَ وَجْهُ رَسُولِ اللهِ صلى الله عليه وسلم مِثْلَ السَّيْفِ؟ قَالَ: لا، بَلْ مِثْلَ الْقَمَرِ.",
-      "text_en": "A man asked al-Bara’ ibn 'Azib: “Was the face of Allah’s Messenger (Allah bless him and give him peace) like the sword?” He said: “No, it was rather like the moon!”",
-      "narrator": "Abu Ishaq said:",
-      "reference": "Hadith 10"
+      "id": 17,
+      "text_ar": "حَدَّثَنَا أَبُو مُصْعَبٍ الْمَديَنِيُّ، قَالَ: حَدَّثَنَا يُوسُفُ بْنُ الْمَاجِشُونِ، عَنْ أَبِيهِ، عَنْ عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ، عَنْ جَدَّتِهِ رُمَيْثَةَ، قَالَتْ: سَمِعْتُ رَسُولَ اللهِ صلى الله عليه وسلم، وَلَوْ أَشَاءُ أَنْ أُقَبِّلَ الْخَاتَمَ الَّذِي بَيْنَ كَتِفَيْهِ مِنْ قُرْبِهِ لَفَعَلْتُ، يَقُولُ لِسَعْدِ بْنِ مُعَاذٍ يَوْمَ مَاتَ: اهْتَزَّ لَهُ عَرْشُ الرَّحْمَنِ.",
+      "text_en": "\"I heard Allah’s Messenger (Allah bless him and give him peace)- and if I wished to kiss the seal between his shoulders, I would do so because of his nearness— say to Sa'd ibn Mu'adh on the day he died: “The Throne of the All-Merciful was shaken on his account!”",
+      "narrator": "Rumaitha said:",
+      "reference": "Hadith 17"
     },
     {
-      "id": 11,
-      "text_ar": "حَدَّثَنَا أَبُو دَاوُدَ الْمَصَاحِفِيُّ سُلَيْمَانُ بْنُ سَلْمٍ، قَالَ: حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، عَنْ صَالِحِ بْنِ أَبِي الأَخْضَرِ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: كَانَ رَسُولُ اللهِ صلى الله عليه وسلم أَبْيَضَ كَأَنَّمَا صِيغَ مِنْ فِضَّةٍ، رَجِلَ الشَّعْرِ.",
-      "text_en": "\"Allah’s Messenger (Allah bless him and give him peace) was white, as if he were fashioned from silver, with loosely curled hair.\"",
-      "narrator": "Abu Huraira (may Allah be well pleased with him) said:",
-      "reference": "Hadith 11"
+      "id": 18,
+      "text_ar": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ، وَعَلِيُّ بْنُ حُجْرٍ، وَغَيْرُ وَاحِدٍ، قَالُوا: حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ عُمَرَ بْنِ عَبْدِ اللهِ مَوْلَى غُفْرَةَ، قَالَ: حَدَّثَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدٍ مِنْ وَلَدِ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ: كَانَ عَلِيٌّ، إِذَا وَصَفَ رَسُولَ اللهِ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ بِطُولِهِ، وَقَالَ: بَيْنَ كَتِفَيْهِ خَاتَمُ النُّبُوَّةِ، وَهُوَ خَاتَمُ النَّبِيِّينَ.",
+      "text_en": "“When 'Ali described Allah’s Messenger (Allah bless him and give him peace)— then he related the tradition in full—he said: 'Between his shoulders was the Seal of Prophethood, for he is the Seal of the Prophets'.\"",
+      "narrator": "Ibrahim ibn Muhammad, one of the offspring of 'Ali ibn Abi Talib, told me:",
+      "reference": "Hadith 18"
     },
     {
-      "id": 12,
-      "text_ar": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ: أَخْبَرَنِي اللَّيْثُ بْنُ سَعْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم، قَالَ: عُرِضَ عَلَيَّ الأَنْبِيَاءُ، فَإِذَا مُوسَى عَلَيْهِ السَّلامُ، ضَرْبٌ مِنَ الرِّجَالِ، كَأَنَّهُ مِنْ رِجَالِ شَنُوءَةَ، وَرَأَيْتُ عِيسَى بْنَ مَرْيَمَ عَلَيْهِ السَّلامُ، فَإِذَا أَقْرَبُ مَنْ رَأَيْتُ بِهِ شَبَهًا عُرْوَةُ بْنُ مَسْعُودٍ، وَرَأَيْتُ إِبْرَاهِيمَ عَلَيْهِ السَّلامُ، فَإِذَا أَقْرَبُ مَنْ رَأَيْتُ بِهِ شَبَهًا صَاحِبُكُمْ، يَعْنِي نَفْسَهُ، وَرَأَيْتُ جِبْرِيلَ عَلَيْهِ السَّلامُ، فَإِذَا أَقْرَبُ مَنْ رَأَيْتُ بِهِ شَبَهًا دِحْيَةُ.",
-      "text_en": "\"The Prophets were presented to me, and there was Moses (peace be upon him), a specimen of the men of distinction, as if he were among the men of pure lineage and manly virtue . I also saw Jesus the son of Mary (peace be upon him), and the nearest I have seen in resemblance to him is 'Urwa ibn Mas’ud. I also saw Abraham (peace be upon him), and the nearest I have seen in resemblance to him is your Companion (meaning himself). I also saw Gabriel (peace be upon him), and the nearest I have seen in resemblance to him is Dihya.”",
-      "narrator": "On the authority of Jabir ibn ‘Abdi’llah, that Allah’s Messenger said (Allah bless him and give him peace):",
-      "reference": "Hadith 12"
+      "id": 19,
+      "text_ar": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ: حَدَّثَنَا أَبُو عَاصِمٍ، قَالَ: حَدَّثَنَا عَزْرَةُ بْنُ ثَابِتٍ، قَالَ: حَدَّثَنِي عِلْبَاءُ بْنُ أَحْمَرَ الْيَشْكُرِيُّ، قَالَ: حَدَّثَنِي أَبُو زَيْدٍ عَمْرُو بْنُ أَخْطَبَ الأَنْصَارِيُّ، قَالَ: قَالَ لِي رَسُولُ اللهِ صلى الله عليه وسلم: يَا أَبَا زَيْدٍ، ادْنُ مِنِّي فَامْسَحْ ظَهْرِي، فَمَسَحْتُ ظَهْرَهُ، فَوَقَعَتْ أَصَابِعِي عَلَى الْخَاتَمِ قُلْتُ: وَمَا الْخَاتَمُ؟ قَالَ: شَعَرَاتٌ مُجْتَمِعَاتٌ.",
+      "text_en": "“Allah’s Messenger (Allah bless him and give him peace) said to me: ‘O Abu Zaid, come close to me and stroke my back!’ I duly stroked his back, whereupon my fingers touched the Seal. I said: ‘What is the Seal?’ He said; ‘Intertwined hairs.’”",
+      "narrator": "Abu Zaid 'Amr ibn Akhtab al-Ansari told me:",
+      "reference": "Hadith 19"
     },
     {
-      "id": 13,
-      "text_ar": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، وَمُحَمَّدُ بْنُ بَشَّارٍ، الْمَعْنَى وَاحِدٌ، قَالا: أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ سَعِيدٍ الْجُرَيْرِيِّ، قَالَ: سَمِعْتُ أَبَا الطُّفَيْلِ، يَقُولُ: رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم وَمَا بَقِيَ عَلَى وَجْهِ الأَرْضِ أَحَدٌ رَآهُ غَيْرِي، قُلْتُ: صِفْهُ لِي، قَالَ: كَانَ أَبْيَضَ، مَلِيحًا، مُقَصَّدًا.",
-      "text_en": "'I heard Abu Tufail say: “I saw the Prophet (Allah bless him and give him peace), and there is no one left on the face of the earth who has seen him, apart from me.” I said: “Describe him for me!” He said: “He was white, handsome, of medium size.”",
-      "narrator": "Sa'id al-Jariri said:",
-      "reference": "Hadith 13"
+      "id": 20,
+      "text_ar": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ الْخُزَاعِيُّ، قَالَ: حَدَّثَنَا عَلِيُّ بْنُ حُسَيْنِ بْنِ وَاقِدٍ، حَدَّثَنِي أَبِي، قَالَ: حَدَّثَنِي عَبْدُ اللهِ بْنُ بُرَيْدَةَ، قَالَ: سَمِعْتُ أَبِي بُرَيْدَةَ، يَقُولُ: جَاءَ سَلْمَانُ الْفَارِسِيُّ إِلَى رَسُولِ اللهِ صلى الله عليه وسلم، حِينَ قَدِمَ الْمَدِينَةَ بِمَائِدَةٍ عَلَيْهَا رُطَبٌ، فَوَضَعَهَا بَيْنَ يَدَيْ رَسُولِ اللهِ صلى الله عليه وسلم، فَقَالَ: يَا سَلْمَانُ مَا هَذَا؟ فَقَالَ: صَدَقَةٌ عَلَيْكَ، وَعَلَى أَصْحَابِكَ، فَقَالَ: ارْفَعْهَا، فَإِنَّا لا نَأْكُلُ الصَّدَقَةَ، قَالَ: فَرَفَعَهَا، فَجَاءَ الْغَدَ بِمِثْلِهِ، فَوَضَعَهُ بَيْنَ يَدَيْ رَسُولِ اللهِ صلى الله عليه وسلم، فَقَالَ: مَا هَذَا يَا سَلْمَانُ؟ فَقَالَ: هَدِيَّةٌ لَكَ، فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم لأَصْحَابِهِ: ابْسُطُوا ثُمَّ نَظَرَ إِلَى الْخَاتَمِ عَلَى ظَهْرِ رَسُولِ اللهِ صلى الله عليه وسلم، فَآمَنَ بِهِ، وَكَانَ لِلْيَهُودِ فَاشْتَرَاهُ رَسُولُ اللهِ صلى الله عليه وسلم، بِكَذَا وَكَذَا دِرْهَمًا عَلَى أَنْ يَغْرِسَ لَهُمْ نَخْلا، فَيَعْمَلَ سَلْمَانُ فِيهِ، حَتَّى تُطْعِمَ، فَغَرَسَ رَسُولُ اللهِ صلى الله عليه وسلم، النَّخلَ إِلا نَخْلَةً وَاحِدَةً، غَرَسَهَا عُمَرُ فَحَمَلَتِ النَّخْلُ مِنْ عَامِهَا، وَلَمْ تَحْمِلْ نَخْلَةٌ، فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم: مَا شَأْنُ هَذِهِ النَّخْلَةِ؟ فَقَالَ عُمَرُ: يَا رَسُولَ اللهِ، أَنَا غَرَسْتُهَا، فَنَزَعَهَا رَسُولُ اللهِ صلى الله عليه وسلم، فَغَرَسَهَا فَحَمَلَتْ مِنْ عَامِهَا.",
+      "text_en": "“Salman al-Farisi brought Allah’s Messenger (Allah bless him and give him peace), when he reached Medina, a table with ripe dates upon it, and he placed it in front of Allah’s Messenger (Allah bless him and give him peace), so he said: ‘O Salman, what is this?’ He replied: A charitable gift for you and for your Companions’ ‘Take it away,’ said the Prophet, ‘for we will not eat a charitable gift.’ He therefore took it away. Then he came the next day with the like of it, and placed it in front of Allah’s Messenger (Allah bless him and give him peace), who said: ‘What is this, O Salman?’ He replied: ‘A present for you,’ so Allah’s Messenger (Allah bless him and give him peace) said to his Companions: ‘Spread out!’ Then Salman looked at the Seal on the back of Allah’s Messenger (Allah bless him and give him peace), so he believed in him. He was a slave of the Jews, however, so Allah’s Messenger (Allah bless him and give him peace) purchased his freedom at such-and-such a price of silver coin, on condition that he would plant date palms for them, and Salman would work on them until they bore edible fruit. Allah’s Messenger (Allah bless him and give him peace) then planted the date palms, apart from one date palm that 'Umar planted. The date palms then bore their annual crop, but one date palm did not bear fruit, so Allah’s Messenger said (Allah bless him and give him peace): ‘What is the matter with this date palm?’ 'Umar said: ‘O Messenger of Allah, I planted it!’ Allah’s Messenger (Allah bless him and give him peace) therefore uprooted it and replanted it, so it bore its annual crop.\"",
+      "narrator": "Abu Buraida said:",
+      "reference": "Hadith 20"
     },
     {
-      "id": 14,
-      "text_ar": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ: حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، قَالَ: حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي ثَابِتٍ الزُّهْرِيُّ، قَالَ: حَدَّثَنِي إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ ابْنُ أَخِي مُوسَى بْنِ عُقْبَةَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ: كَانَ رَسُولُ اللهِ صلى الله عليه وسلم أَفْلَجَ الثَّنِيَّتَيْنِ، إِذَا تَكَلَّمَ رُئِيَ كَالنُّورِ يَخْرُجُ مِنْ بَيْنِ ثَنَايَاهُ.",
-      "text_en": "Allah’s Messenger (Allah bless him and give him peace) had a gap between the medial pair of teeth. When he spoke, it seemed as if light were emerging from between his middle teeth.\"",
-      "narrator": "Ibn 'Abbas said:",
-      "reference": "Hadith 14"
+      "id": 21,
+      "text_ar": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ: حَدَّثَنَا بِشْرُ بْنُ الْوَضَّاحِ، قَالَ: حَدَّثَنَا أَبُو عَقِيلٍ الدَّوْرَقِيُّ، عَنْ أَبِي نَضْرَةَ الْعَوَقِيِّ، قَالَ: سَأَلْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ، عَنْ خَاتَمِ رَسُولِ اللهِ صلى الله عليه وسلم يَعْنِي خَاتَمَ النُّبُوَّةِ، فَقَالَ: كَانَ فِي ظَهْرِهِ بَضْعَةٌ نَاشِزَةٌ.",
+      "text_en": "“I asked Sa'id al-Khudri about the Seal of Allah's Messenger (Allah bless him and give him peace), meaning the Seal of Prophethood, so he said: ‘It was a protrusion of skin on his back.”",
+      "narrator": "Abu Nadra al-'Awaqi said:",
+      "reference": "Hadith 21"
+    },
+    {
+      "id": 22,
+      "text_ar": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ أَبُو الأَشْعَثِ الْعِجْلِيُّ الْبَصْرِيُّ، قَالَ: أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ عَبْدِ اللهِ بْنِ سَرْجِسَ، قَالَ: أَتَيْتُ رَسُولَ اللهِ صلى الله عليه وسلم وَهُوَ فِي نَاسٍ مِنْ أَصْحَابِهِ، فَدُرْتُ هَكَذَا مِنْ خَلْفِهِ، فَعَرَفَ الَّذِي أُرِيدُ، فَأَلْقَى الرِّدَاءَ عَنْ ظَهْرِهِ، فَرَأَيْتُ مَوْضِعَ الْخَاتَمِ عَلَى كَتِفَيْهِ، مِثْلَ الْجُمْعِ حَوْلَهَا خِيلانٌ، كَأَنَّهَا ثَآلِيلُ، فَرَجَعْتُ حَتَّى اسْتَقْبَلْتُهُ، فَقُلْتُ: غَفَرَ اللَّهُ لَكَ يَا رَسُولَ اللهِ، فَقَالَ: وَلَكَ فَقَالَ الْقَوْمُ: أَسْتَغْفَرَ لَكَ رَسُولُ اللهِ صلى الله عليه وسلم؟ فَقَالَ: نَعَمْ، وَلَكُمْ، ثُمَّ تَلا هَذِهِ الآيَةَ ﴿وَاسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ﴾",
+      "text_en": "\"I came to Allah’s Messenger (Allah bless him and give him peace), while he was among a group of his Companions, so I circled like this behind him. He understood what I wanted, so he threw the cloak off his back. I thus saw the place of the Seal on his shoulders, like a clenched fist surrounded by moles, as if they were warts. I came around to face him, and I said: 'May Allah forgive you, O Messenger of Allah!' He said: ‘And you,' so the people exclaimed: 'Allah’s Messenger (Allah bless him and give him peace) has asked forgiveness for you!' He said: 'Yes, and also for you!' Then he recited this Quranic verse: 'And ask forgiveness for your sin, and for the believing men and the believing women .”(Q.47:19).”’",
+      "narrator": "'Abdullah ibn Sarjis said:",
+      "reference": "Hadith 22"
     }
   ]
 }

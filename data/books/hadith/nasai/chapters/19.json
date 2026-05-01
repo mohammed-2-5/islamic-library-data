@@ -1,198 +1,303 @@
 {
   "book_id": "nasai",
   "chapter_id": 19,
-  "original_chapter_id": 18,
-  "title_ar": "كتاب صلاة الخوف",
-  "title_en": "The Book of the Fear Prayer",
+  "original_chapter_id": 19,
+  "title_ar": "كتاب صلاة العيدين",
+  "title_en": "The Book of the Prayer for the Two 'Eids",
   "entries": [
     {
-      "id": 1534,
-      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَشْعَثِ بْنِ أَبِي الشَّعْثَاءِ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ، عَنْ ثَعْلَبَةَ بْنِ زَهْدَمٍ، قَالَ كُنَّا مَعَ سَعِيدِ بْنِ الْعَاصِي بِطَبَرِسْتَانَ وَمَعَنَا حُذَيْفَةُ بْنُ الْيَمَانِ فَقَالَ أَيُّكُمْ صَلَّى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْخَوْفِ فَقَالَ حُذَيْفَةُ أَنَا فَوَصَفَ فَقَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْخَوْفِ بِطَائِفَةٍ رَكْعَةً صَفٍّ خَلْفَهُ وَطَائِفَةٍ أُخْرَى بَيْنَهُ وَبَيْنَ الْعَدُوِّ فَصَلَّى بِالطَّائِفَةِ الَّتِي تَلِيهِ رَكْعَةً ثُمَّ نَكَصَ هَؤُلاَءِ إِلَى مَصَافِّ أُولَئِكَ وَجَاءَ أُولَئِكَ فَصَلَّى بِهِمْ رَكْعَةً .",
-      "text_en": "\"We were with Sa'eed bin Al-'Asi in Tabaristan, and Hudhaifah bin Al-Yaman was with us. He said: 'Which of you offered the fear prayer with the Messenger of Allah (ﷺ)?' Hudhaifah said: 'I did', and he described it. He said: 'The Messenger of Allah (ﷺ) offered the fear prayer, leading one group who had formed rows behind him in praying one rak'ah, while the other group was between him and the enemy. So he led the group that was near him in praying one rak'ah, then they left and took the place of others, and the others came and he led them in praying one rak'ah.'\"",
-      "narrator": "It was narrated that Tha'labah bin Zahdam said:",
-      "reference": "Hadith 1534"
+      "id": 1561,
+      "text_ar": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ لأَهْلِ الْجَاهِلِيَّةِ يَوْمَانِ فِي كُلِّ سَنَةٍ يَلْعَبُونَ فِيهِمَا فَلَمَّا قَدِمَ النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ قَالَ \" كَانَ لَكُمْ يَوْمَانِ تَلْعَبُونَ فِيهِمَا وَقَدْ أَبْدَلَكُمُ اللَّهُ بِهِمَا خَيْرًا مِنْهُمَا يَوْمَ الْفِطْرِ وَيَوْمَ الأَضْحَى \" .",
+      "text_en": "\"The people of the Jahiliyyah had two days each year when they would play. When the Messenger of Allah (ﷺ) came to Al-Madinah he said: 'You had two days when you would play, but Allah (SWT) has given Muslims something instead that is better than them: the day of Al-Fitr and the day of Al-Adha.'\"",
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "reference": "Hadith 1561"
     },
     {
-      "id": 1535,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي أَشْعَثُ بْنُ سُلَيْمٍ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ، عَنْ ثَعْلَبَةَ بْنِ زَهْدَمٍ، قَالَ كُنَّا مَعَ سَعِيدِ بْنِ الْعَاصِي بِطَبَرِسْتَانَ فَقَالَ أَيُّكُمْ صَلَّى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْخَوْفِ فَقَالَ حُذَيْفَةُ أَنَا . فَقَامَ حُذَيْفَةُ فَصَفَّ النَّاسُ خَلْفَهُ صَفَّيْنِ صَفًّا خَلْفَهُ وَصَفًّا مُوَازِيَ الْعَدُوِّ فَصَلَّى بِالَّذِي خَلْفَهُ رَكْعَةً ثُمَّ انْصَرَفَ هَؤُلاَءِ إِلَى مَكَانِ هَؤُلاَءِ وَجَاءَ أُولَئِكَ فَصَلَّى بِهِمْ رَكْعَةً وَلَمْ يَقْضُوا .",
-      "text_en": "\"We were with Sa'eed bin Al-'Asi in Tabaristan, and Hudhaifah bin Al-Yaman was with us. He said: 'Which of you offered the fear prayer with the Messenger of Allah (ﷺ)?' Hudhaifah said: 'I did.' So Hudhaifah stood and the people formed two rows behind him, one row behind him and one row facing the enemy. He led those who were behind him in praying one rak'ah, then they went and took the place of the others, and the others came and he led them in praying one rak'ah, and they did not make it up.\"",
-      "narrator": "It was narrated that Tha'labah bin Zahdam said:",
-      "reference": "Hadith 1535"
+      "id": 1562,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا أَبُو بِشْرٍ، عَنْ أَبِي عُمَيْرِ بْنِ أَنَسٍ، عَنْ عُمُومَةٍ، لَهُ أَنَّ قَوْمًا، رَأَوُا الْهِلاَلَ فَأَتَوُا النَّبِيَّ صلى الله عليه وسلم فَأَمَرَهُمْ أَنْ يُفْطِرُوا بَعْدَ مَا ارْتَفَعَ النَّهَارُ وَأَنْ يَخْرُجُوا إِلَى الْعِيدِ مِنَ الْغَدِ .",
+      "text_en": "Some people saw the crescent moon and came to the Prophet (ﷺ), and he told them to break their fast after the sun has risen and to go out for 'Eid the (morning of the) following day.",
+      "narrator": "It was narrated from 'Umair bin Anas from his paternal uncles, that :",
+      "reference": "Hadith 1562"
     },
     {
-      "id": 1536,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي الرُّكَيْنُ بْنُ الرَّبِيعِ، عَنِ الْقَاسِمِ بْنِ حَسَّانٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَ صَلاَةِ حُذَيْفَةَ .",
-      "text_en": "A prayer like that of Hudhaifah was narrated from Zaid bin Thabit from the Prophet (ﷺ).",
-      "narrator": "Narrated from Zaid bin Thabit:",
-      "reference": "Hadith 1536"
+      "id": 1563,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ حَفْصَةَ، قَالَتْ كَانَتْ أُمُّ عَطِيَّةَ لاَ تَذْكُرُ رَسُولَ اللَّهِ صلى الله عليه وسلم إِلاَّ قَالَتْ بِأَبَا . فَقُلْتُ أَسَمِعْتِ رَسُولَ اللَّهِ صلى الله عليه وسلم يَذْكُرُ كَذَا وَكَذَا فَقَالَتْ نَعَمْ بِأَبَا قَالَ \" لِيَخْرُجِ الْعَوَاتِقُ وَذَوَاتُ الْخُدُورِ وَالْحُيَّضُ وَيَشْهَدْنَ الْعِيدَ وَدَعْوَةَ الْمُسْلِمِينَ وَلْيَعْتَزِلِ الْحُيَّضُ الْمُصَلَّى \" .",
+      "text_en": "\"Umm 'Atiyyah would never mention the Messenger of Allah (ﷺ) without saying: 'May my father be ransomed for him.' I said: 'Did you hear the Messenger of Allah (ﷺ) say such-and-such?' And she said: 'Yes, may my father be ransomed for him.' He said: Let the adolescent girls, women in seclusion and menstruating women come out and attend the 'Eid and supplications of the Muslims, but let the menstruating women keep away from the prayer place.\"",
+      "narrator": "It was narrated that Hafsah said:",
+      "reference": "Hadith 1563"
     },
     {
-      "id": 1537,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ بُكَيْرِ بْنِ الأَخْنَسِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ فَرَضَ اللَّهُ الصَّلاَةَ عَلَى لِسَانِ نَبِيِّكُمْ صلى الله عليه وسلم فِي الْحَضَرِ أَرْبَعًا وَفِي السَّفَرِ رَكْعَتَيْنِ وَفِي الْخَوْفِ رَكْعَةً .",
-      "text_en": "\"Allah (SWT) enjoined the prayer on the tongue of your Prophet (ﷺ): four (rak'ahs) while a resident, two rak'ahs while traveling, and one rak'ah during times of fear.\"",
-      "narrator": "It was narrated that Ibn Abbas said:",
-      "reference": "Hadith 1537"
+      "id": 1564,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، قَالَ لَقِيتُ أُمَّ عَطِيَّةَ فَقُلْتُ لَهَا هَلْ سَمِعْتِ مِنَ النَّبِيِّ صلى الله عليه وسلم وَكَانَتْ إِذَا ذَكَرَتْهُ قَالَتْ بِأَبَا قَالَ \" أَخْرِجُوا الْعَوَاتِقَ وَذَوَاتِ الْخُدُورِ فَيَشْهَدْنَ الْعِيدَ وَدَعْوَةَ الْمُسْلِمِينَ وَلْيَعْتَزِلِ الْحُيَّضُ مُصَلَّى النَّاسِ \" .",
+      "text_en": "\"I met Umm 'Atiyyah and said to her: 'Did you hear the Messenger of Allah (ﷺ) say (anything)?' When she mentioned him, she would say: 'May my father be ransomed for him.' (He said) 'Bring out the adolescent girls and the women in seclusion and let them witness goodness and the supplication of the Muslims, but let the menstruating women keep away from the place where the people pray.'\"",
+      "narrator": "It was narrated that Muhammad said:",
+      "reference": "Hadith 1564"
     },
     {
-      "id": 1538,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي أَبُو بَكْرِ بْنُ أَبِي الْجَهْمِ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى بِذِي قَرَدٍ وَصَفَّ النَّاسُ خَلْفَهُ صَفَّيْنِ صَفًّا خَلْفَهُ وَصَفًّا مُوَازِيَ الْعَدُوِّ فَصَلَّى بِالَّذِينَ خَلْفَهُ رَكْعَةً ثُمَّ انْصَرَفَ هَؤُلاَءِ إِلَى مَكَانِ هَؤُلاَءِ وَجَاءَ أُولَئِكَ فَصَلَّى بِهِمْ رَكْعَةً وَلَمْ يَقْضُوا .",
-      "text_en": "The Messenger of Allah (ﷺ) prayed at Dhi Qarad and the people formed two rows behind him, one row behind him and one row facing the enemy. He led those who were behind him in praying one rak'ah, then they went and took the place of the others, and the others came and he led them in praying one rak'ah, and they did not make it up.",
+      "id": 1565,
+      "text_ar": "أَخْبَرَنَا سُلَيْمَانُ بْنُ دَاوُدَ، عَنِ ابْنِ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ بْنُ يَزِيدَ، وَعَمْرُو بْنُ الْحَارِثِ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ وَجَدَ عُمَرُ بْنُ الْخَطَّابِ - رضى الله تعالى عنه - حُلَّةً مِنْ إِسْتَبْرَقٍ بِالسُّوقِ فَأَخَذَهَا فَأَتَى بِهَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ ابْتَعْ هَذِهِ فَتَجَمَّلْ بِهَا لِلْعِيدِ وَالْوَفْدِ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنَّمَا هَذِهِ لِبَاسُ مَنْ لاَ خَلاَقَ لَهُ أَوْ إِنَّمَا يَلْبَسُ هَذِهِ مَنْ لاَ خَلاَقَ لَهُ \" . فَلَبِثَ عُمَرُ مَا شَاءَ اللَّهُ ثُمَّ أَرْسَلَ إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم بِجُبَّةِ دِيبَاجٍ فَأَقْبَلَ بِهَا حَتَّى جَاءَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ قُلْتَ \" إِنَّمَا هَذِهِ لِبَاسُ مَنْ لاَ خَلاَقَ لَهُ \" . ثُمَّ أَرْسَلْتَ إِلَىَّ بِهَذِهِ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" بِعْهَا وَتُصِبْ بِهَا حَاجَتَكَ \" .",
+      "text_en": "His father said: \"Umar bin A-Khattab, may Allah be pleased with him, found a Hullah of Istibraq in the market. He took it and brought it to the Messenger of Allah (ﷺ) and said: 'O Messenger of Allah (ﷺ), why don't you buy this and adorn yourself with it for the two 'Eids and when (meeting) the delegations?' The Messenger of Allah (ﷺ) said: 'This is the clothing of one who has no share in the Hereafter,' or: 'This is worn by one who has no share in the Hereafter.' Then as much time passed as Allah (SWT) willed, then the Messenger of Allah (ﷺ) sent to Umar a garment made of Dibaj. He brought it to the Messenger of Allah (ﷺ) and said: 'O Messenger of Allah, you said that this is the clothing of one who has no share in the Hereafter, then you sent this to me?' The Messenger of Allah (ﷺ) said: 'Sell it and use the money for whatever you need.'\"",
+      "narrator": "It was narrated from Salim that:",
+      "reference": "Hadith 1565"
+    },
+    {
+      "id": 1566,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ أَنْبَأَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنِ الأَشْعَثِ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ، عَنْ ثَعْلَبَةَ بْنِ زَهْدَمٍ، أَنَّ عَلِيًّا، اسْتَخْلَفَ أَبَا مَسْعُودٍ عَلَى النَّاسِ فَخَرَجَ يَوْمَ عِيدٍ فَقَالَ يَا أَيُّهَا النَّاسُ إِنَّهُ لَيْسَ مِنَ السُّنَّةِ أَنْ يُصَلَّى قَبْلَ الإِمَامِ .",
+      "text_en": "'Ali appointed Abu Mas'ud over the people, then went out on the day of 'Eid and said: 'O people, it is not part of the sunnah to pray before the imam.'\"",
+      "narrator": "It was narrated from Tha'labah bin Zahdam that:",
+      "reference": "Hadith 1566"
+    },
+    {
+      "id": 1567,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ صَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي عِيدٍ قَبْلَ الْخُطْبَةِ بِغَيْرِ أَذَانٍ وَلاَ إِقَامَةٍ .",
+      "text_en": "\"The Messenger of Allah (ﷺ) led us in praying on 'Eid before the Khutbah, with no Adhan and no Iqamah.\"",
+      "narrator": "It was narrated that Jabir said:",
+      "reference": "Hadith 1567"
+    },
+    {
+      "id": 1568,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا بَهْزٌ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي زُبَيْدٌ، قَالَ سَمِعْتُ الشَّعْبِيَّ، يَقُولُ حَدَّثَنَا الْبَرَاءُ بْنُ عَازِبٍ، عِنْدَ سَارِيَةٍ مِنْ سَوَارِي الْمَسْجِدِ قَالَ خَطَبَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ النَّحْرِ فَقَالَ \" إِنَّ أَوَّلَ مَا نَبْدَأُ بِهِ فِي يَوْمِنَا هَذَا أَنْ نُصَلِّيَ ثُمَّ نَذْبَحَ فَمَنْ فَعَلَ ذَلِكَ فَقَدْ أَصَابَ سُنَّتَنَا وَمَنْ ذَبَحَ قَبْلَ ذَلِكَ فَإِنَّمَا هُوَ لَحْمٌ يُقَدِّمُهُ لأَهْلِهِ \" . فَذَبَحَ أَبُو بُرْدَةَ بْنُ نِيَارٍ فَقَالَ يَا رَسُولَ اللَّهِ عِنْدِي جَذَعَةٌ خَيْرٌ مِنْ مُسِنَّةٍ . قَالَ \" اذْبَحْهَا وَلَنْ تُوفِيَ عَنْ أَحَدٍ بَعْدَكَ \" .",
+      "text_en": "\"The Prophet (ﷺ) delivered a Khutbah on the day of An-Nahr and said: 'The first thing we start with on this day of ours is the prayer, then we offer sacrifice. Whoever does that, he has followed our sunnah, but whoever slaughtered (his sacrifice) before the (prayer), that is just meat that he gave to his family. Abu Burdah bin Niyar had slaughtered his sacrifice and he said: 'O Messenger of Allah (ﷺ), I have a Jadha'ah that is better than a Musinnah.' He said: 'Slaughter it (as a sacrifice), but that will not be sufficient for anyone else (as a sacrifice) after you.'\"",
+      "narrator": "Al-Bara' bin 'Azib narrated to us by one of the pillars of the masjid:",
+      "reference": "Hadith 1568"
+    },
+    {
+      "id": 1569,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَأَبَا بَكْرٍ وَعُمَرَ - رضى الله عنهما - كَانُوا يُصَلُّونَ الْعِيدَيْنِ قَبْلَ الْخُطْبَةِ .",
+      "text_en": "The Messenger of Allah (ﷺ), Abu Bakr, 'Umar, may Allah (SWT) be pleased with them, used to offer the 'Eid prayer before the Khutbah.",
+      "narrator": "It was narrated from Ibn 'Umar that:",
+      "reference": "Hadith 1569"
+    },
+    {
+      "id": 1570,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُخْرِجُ الْعَنَزَةَ يَوْمَ الْفِطْرِ وَيَوْمَ الأَضْحَى يُرْكِزُهَا فَيُصَلِّي إِلَيْهَا .",
+      "text_en": "The Messenger of Allah (ﷺ) used to take out an 'Anazah (a short spear) on the day of Al-Fitr and the day of Al-Adha, plant it in the ground, and pray facing toward it.",
+      "narrator": "It was narrated from Ibn 'Umar that:",
+      "reference": "Hadith 1570"
+    },
+    {
+      "id": 1571,
+      "text_ar": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا سُفْيَانُ بْنُ سَعِيدٍ، عَنْ زُبَيْدٍ الأَيَامِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، ذَكَرَهُ عَنْ عُمَرَ بْنِ الْخَطَّابِ، - رضى الله عنه - قَالَ صَلاَةُ الأَضْحَى رَكْعَتَانِ وَصَلاَةُ الْفِطْرِ رَكْعَتَانِ وَصَلاَةُ الْمُسَافِرِ رَكْعَتَانِ وَصَلاَةُ الْجُمُعَةِ رَكْعَتَانِ تَمَامٌ لَيْسَ بِقَصْرٍ عَلَى لِسَانِ النَّبِيِّ صلى الله عليه وسلم .",
+      "text_en": "\"The prayer of Al-Adha is two rak'ahs, the prayer of Al-Fitr is two rak'ahs, the prayer of the traveler is two rak'ahs and the jumu'ah prayer is two rak'ahs, complete and not shortened, upon the tongue of the Prophet (ﷺ).",
+      "narrator": "It was narrated that 'Umar bin Al-Khattab said:",
+      "reference": "Hadith 1571"
+    },
+    {
+      "id": 1572,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ أَنْبَأَنَا سُفْيَانُ، قَالَ حَدَّثَنِي ضَمْرَةُ بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، قَالَ خَرَجَ عُمَرُ - رضى الله عنه - يَوْمَ عِيدٍ فَسَأَلَ أَبَا وَاقِدٍ اللَّيْثِيَّ بِأَىِّ شَىْءٍ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ فِي هَذَا الْيَوْمِ فَقَالَ بِـ { ق } وَ{ اقْتَرَبَتْ } .",
+      "text_en": "\"Umar, may Allah (SWT) be pleased with him, went out on the day of 'Eid and asked Abu Waqid Al-Laithi: 'What did the Prophet (ﷺ) recite on this day?' He said: 'Qaf' and '(The Hour) has drawn near.'\"",
+      "narrator": "It was narrated that 'Ubaidullah bin 'Abdullah said:",
+      "reference": "Hadith 1572"
+    },
+    {
+      "id": 1573,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، عَنْ أَبِيهِ، عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقْرَأُ فِي الْعِيدَيْنِ وَيَوْمِ الْجُمُعَةِ بِـ { سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى } وَ{ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ } وَرُبَّمَا اجْتَمَعَا فِي يَوْمٍ وَاحِدٍ فَيَقْرَأُ بِهِمَا .",
+      "text_en": "The Messenger of Allah (ﷺ) used to recite on the two 'Eids and on Friday: \"GLorify the Name of Your Lord, the Most High\" and \"Has there come to you the narration of The Overwhelming?\" Sometimes the two ('Eid and Jumu'ah) occurred on the same day, and he would recite them (these two Surahs).",
+      "narrator": "It was narrated from An-Nu'man bin Bashir that:",
+      "reference": "Hadith 1573"
+    },
+    {
+      "id": 1574,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ أَيُّوبَ، يُخْبِرُ عَنْ عَطَاءٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ أَشْهَدُ أَنِّي شَهِدْتُ الْعِيدَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَبَدَأَ بِالصَّلاَةِ قَبْلَ الْخُطْبَةِ ثُمَّ خَطَبَ .",
+      "text_en": "\"I heard Ibn 'Abbas say: 'I bear witness that I attended 'Eid with the Messenger of Allah (ﷺ); he started with the prayer before the Khutbah, then he delivered the Khutbah.'\"",
+      "narrator": "It was narrated that 'Ata said:",
+      "reference": "Hadith 1574"
+    },
+    {
+      "id": 1575,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ مَنْصُورٍ، عَنِ الشَّعْبِيِّ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ النَّحْرِ بَعْدَ الصَّلاَةِ .",
+      "text_en": "\"The Messenger of Allah (ﷺ) addressed us on the day of An-Nahr after the prayer.\" (Sahih",
+      "narrator": "It was narrated that Al-Bara' bin 'Azib said:",
+      "reference": "Hadith 1575"
+    },
+    {
+      "id": 1576,
+      "text_ar": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ أَيُّوبَ، قَالَ حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى الْعِيدَ قَالَ \" مَنْ أَحَبَّ أَنْ يَنْصَرِفَ فَلْيَنْصَرِفْ وَمَنْ أَحَبَّ أَنْ يُقِيمَ لِلْخُطْبَةِ فَلْيُقِمْ \" .",
+      "text_en": "The Prophet (ﷺ) offered the 'Eid prayer and said: 'Whoever would like to leave, let him leave, and whoever would like to stay for the Khutbah, let him stay.\"",
+      "narrator": "It was narrated from 'Abdullah bin As-SA'ib that:",
+      "reference": "Hadith 1576"
+    },
+    {
+      "id": 1577,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ إِيَادٍ، عَنْ أَبِيهِ، عَنْ أَبِي رِمْثَةَ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ وَعَلَيْهِ بُرْدَانِ أَخْضَرَانِ .",
+      "text_en": "\"I saw the Prophet (ﷺ) delivering the Khutbah, wearing two green Burds.\"",
+      "narrator": "It was narrated that Abu Rimthah said:",
+      "reference": "Hadith 1577"
+    },
+    {
+      "id": 1578,
+      "text_ar": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، قَالَ أَخْبَرَنِي إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، عَنْ أَخِيهِ، عَنْ أَبِي كَاهِلٍ الأَحْمَسِيِّ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ عَلَى نَاقَةٍ وَحَبَشِيٌّ آخِذٌ بِخِطَامِ النَّاقَةِ .",
+      "text_en": "\"I saw the Prophet (ﷺ) delivering the Khutbah atop a she-camel and an Ethiopian was holding on to the camel's reins.\"",
+      "narrator": "It was narrated that Abu Khalil Al-Ahmasi said:",
+      "reference": "Hadith 1578"
+    },
+    {
+      "id": 1579,
+      "text_ar": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكٍ، قَالَ سَأَلْتُ جَابِرًا أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ قَائِمًا قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ قَائِمًا ثُمَّ يَقْعُدُ قَعْدَةً ثُمَّ يَقُومُ .",
+      "text_en": "\"I asked Jabir: 'Did the Messenger of Allah (ﷺ) deliver the Khutbah standing?' He said: 'The Messenger of Allah (ﷺ) used to deliver the Khutbah standing, then he would sit for a while, then stand up again.'\"",
+      "narrator": "It was narrated that Simak said:",
+      "reference": "Hadith 1579"
+    },
+    {
+      "id": 1580,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ أَبِي سُلَيْمَانَ، قَالَ حَدَّثَنَا عَطَاءٌ، عَنْ جَابِرٍ، قَالَ شَهِدْتُ الصَّلاَةَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي يَوْمِ عِيدٍ فَبَدَأَ بِالصَّلاَةِ قَبْلَ الْخُطْبَةِ بِغَيْرِ أَذَانٍ وَلاَ إِقَامَةٍ فَلَمَّا قَضَى الصَّلاَةَ قَامَ مُتَوَكِّئًا عَلَى بِلاَلٍ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَوَعَظَ النَّاسَ وَذَكَّرَهُمْ وَحَثَّهُمْ عَلَى طَاعَتِهِ ثُمَّ مَالَ وَمَضَى إِلَى النِّسَاءِ وَمَعَهُ بِلاَلٌ فَأَمَرَهُنَّ بِتَقْوَى اللَّهِ وَوَعَظَهُنَّ وَذَكَّرَهُنَّ وَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ حَثَّهُنَّ عَلَى طَاعَتِهِ ثُمَّ قَالَ \" تَصَدَّقْنَ فَإِنَّ أَكْثَرَكُنَّ حَطَبُ جَهَنَّمَ \" . فَقَالَتِ امْرَأَةٌ مِنْ سَفِلَةِ النِّسَاءِ سَفْعَاءُ الْخَدَّيْنِ بِمَ يَا رَسُولَ اللَّهِ قَالَ \" تُكْثِرْنَ الشَّكَاةَ وَتَكْفُرْنَ الْعَشِيرَ \" . فَجَعَلْنَ يَنْزِعْنَ قَلاَئِدَهُنَّ وَأَقْرُطَهُنَّ وَخَوَاتِيمَهُنَّ يَقْذِفْنَهُ فِي ثَوْبِ بِلاَلٍ يَتَصَدَّقْنَ بِهِ .",
+      "text_en": "\"I attended the prayer with the Messenger of Allah (ﷺ) on the day of 'Eid. He started with the prayer before the Khutbah, with no Adhan and no Iqamah. When he finished the prayer, he stood leaning on Bilal, and he praised and glorified Allah (SWT) and exhorted the people, reminding them and urging them to obey Allah (SWT). Then he moved away and went to the women, and Bilal was with him. He commanded them to fear Allah (SWT) and exhorted them and reminded them. He praised and glorified Allah, then he urged them to obey Allah, then he said: 'Give charity, for most of you are the fuel of Hell.' A lowly woman with dark cheeks said: 'Why, O Messenger of Allah?' He said: 'You complain a great deal and are ungrateful to your husbands.' They started taking off their necklaces, earrings and rings, throwing them into Bilal's garment, giving them in charity.\"",
+      "narrator": "It was narrated that Jabir said:",
+      "reference": "Hadith 1580"
+    },
+    {
+      "id": 1581,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ دَاوُدَ، عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَخْرُجُ يَوْمَ الْفِطْرِ وَيَوْمَ الأَضْحَى إِلَى الْمُصَلَّى فَيُصَلِّي بِالنَّاسِ فَإِذَا جَلَسَ فِي الثَّانِيَةِ وَسَلَّمَ قَامَ فَاسْتَقْبَلَ النَّاسَ بِوَجْهِهِ وَالنَّاسُ جُلُوسٌ فَإِنْ كَانَتْ لَهُ حَاجَةٌ يُرِيدُ أَنْ يَبْعَثَ بَعْثًا ذَكَرَهُ لِلنَّاسِ وَإِلاَّ أَمَرَ النَّاسَ بِالصَّدَقَةِ قَالَ \" تَصَدَّقُوا \" . ثَلاَثَ مَرَّاتٍ فَكَانَ مِنْ أَكْثَرِ مَنْ يَتَصَدَّقُ النِّسَاءُ .",
+      "text_en": "The Messenger of Allah (ﷺ) used to go out to the prayer place on the day of Al-Fitr and the day of Al-Adha and lead the people in prayer. When he sat during the second rak'ah and said the taslim, he stood up and turned to face the people while the people were sitting. If he needed to mention something concerning the dispatch of an army he would tell the people, otherwise he would enjoin the people to give charity. He said: \"Give charity\" three times, and among those who gave the most charity were the women.",
+      "narrator": "It was narrated from Abu Sa'eed Al-Khudri that:",
+      "reference": "Hadith 1581"
+    },
+    {
+      "id": 1582,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" إِذَا قُلْتَ لِصَاحِبِكَ أَنْصِتْ وَالإِمَامُ يَخْطُبُ فَقَدْ لَغَوْتَ \" .",
+      "text_en": "The Messenger of Allah (ﷺ) said: \"If you say to your companion: 'Be quiet and listen' when the imam is delivering the Khutbah, you have engaged in idle speech.\"",
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "reference": "Hadith 1582"
+    },
+    {
+      "id": 1583,
+      "text_ar": "أَخْبَرَنَا عُتْبَةُ بْنُ عَبْدِ اللَّهِ، قَالَ أَنْبَأَنَا ابْنُ الْمُبَارَكِ، عَنْ سُفْيَانَ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي خُطْبَتِهِ يَحْمَدُ اللَّهَ وَيُثْنِي عَلَيْهِ بِمَا هُوَ أَهْلُهُ ثُمَّ يَقُولُ \" مَنْ يَهْدِهِ اللَّهُ فَلاَ مُضِلَّ لَهُ وَمَنْ يُضْلِلْهُ فَلاَ هَادِيَ لَهُ إِنَّ أَصْدَقَ الْحَدِيثِ كِتَابُ اللَّهِ وَأَحْسَنَ الْهَدْىِ هَدْىُ مُحَمَّدٍ وَشَرَّ الأُمُورِ مُحْدَثَاتُهَا وَكُلَّ مُحْدَثَةٍ بِدْعَةٌ وَكُلَّ بِدْعَةٍ ضَلاَلَةٌ وَكُلَّ ضَلاَلَةٍ فِي النَّارِ \" . ثُمَّ يَقُولُ \" بُعِثْتُ أَنَا وَالسَّاعَةُ كَهَاتَيْنِ \" . وَكَانَ إِذَا ذَكَرَ السَّاعَةَ احْمَرَّتْ وَجْنَتَاهُ وَعَلاَ صَوْتُهُ وَاشْتَدَّ غَضَبُهُ كَأَنَّهُ نَذِيرُ جَيْشٍ يَقُولُ \" صَبَّحَكُمْ مَسَّاكُمْ \" . ثُمَّ قَالَ \" مَنْ تَرَكَ مَالاً فَلأَهْلِهِ وَمَنْ تَرَكَ دَيْنًا أَوْ ضِيَاعًا فَإِلَىَّ أَوْ عَلَىَّ وَأَنَا أَوْلَى بِالْمُؤْمِنِينَ \" .",
+      "text_en": "\"In his Khutbah the Messenger of Allah (ﷺ) used to praise Allah as He deserves to be praised, then he would say: 'Whomsoever Allah (SWT) guides, none can lead him astray, and whomsoever Allah sends astray, none can guide. The truest of word is the Book of Allah and best of guidance is the guidance of Muhammad. The worst of things are those that are newly invented; every newly-invented thing is an innovation and every innovation is going astray, and every going astray is in the Fire.' Then he said: 'The Hour and I have been sent like these two.' Whenever he mentioned the Hour, his cheeks would turn red, and he would raise his voice and become angry, as if he were warning of an approaching army and saying: 'An army is coming to attack you in the morning, or in the evening!' (Then he said): 'Whoever leaves behind wealth, it is for his family, and whoever leaves behind a debt or dependents, then these are my responsibility, and I am the most entitled to take care of the believers.'\"",
+      "narrator": "It was narrated that Jabir bin 'Abdullah said:",
+      "reference": "Hadith 1583"
+    },
+    {
+      "id": 1584,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ، قَالَ حَدَّثَنِي عِيَاضٌ، عَنْ أَبِي سَعِيدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَخْرُجُ يَوْمَ الْعِيدِ فَيُصَلِّي رَكْعَتَيْنِ ثُمَّ يَخْطُبُ فَيَأْمُرُ بِالصَّدَقَةِ فَيَكُونُ أَكْثَرَ مَنْ يَتَصَدَّقُ النِّسَاءُ فَإِنْ كَانَتْ لَهُ حَاجَةٌ أَوْ أَرَادَ أَنْ يَبْعَثَ بَعْثًا تَكَلَّمَ وَإِلاَّ رَجَعَ .",
+      "text_en": "The Messenger of Allah (ﷺ) used to go out on the day of 'Eid and pray two rak'ahs, then he would deliver the Khutbah and enjoin giving charity, and the ones who gave most charity were the women. If he had any exigency or he needed to send an army he would speak of that, if not, he would go back.",
+      "narrator": "It was narrated from Abu Sa'eed that:",
+      "reference": "Hadith 1584"
+    },
+    {
+      "id": 1585,
+      "text_ar": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ هَارُونَ - قَالَ أَنْبَأَنَا حُمَيْدٌ، عَنِ الْحَسَنِ، أَنَّ ابْنَ عَبَّاسٍ، خَطَبَ بِالْبَصْرَةِ فَقَالَ أَدُّوا زَكَاةَ صَوْمِكُمْ فَجَعَلَ النَّاسُ يَنْظُرُ بَعْضُهُمْ إِلَى بَعْضٍ فَقَالَ مَنْ هَا هُنَا مِنْ أَهْلِ الْمَدِينَةِ قُومُوا إِلَى إِخْوَانِكُمْ فَعَلِّمُوهُمْ فَإِنَّهُمْ لاَ يَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم فَرَضَ صَدَقَةَ الْفِطْرِ عَلَى الصَّغِيرِ وَالْكَبِيرِ وَالْحُرِّ وَالْعَبْدِ وَالذَّكَرِ وَالأُنْثَى نِصْفَ صَاعٍ مِنْ بُرٍّ أَوْ صَاعًا مِنْ تَمْرٍ أَوْ شَعِيرٍ .",
+      "text_en": "Ibn 'Abbas gave a Khutbah in Al-Basrah and said: \"Pay the zakah of your fasting.\" The people started looking at one another. He said: \"Whoever there is here from the people of Al-Madinah, get up and teach your brothers, for they do not know that the Messenger of Allah (ﷺ) enjoined sadaqat al-fitr on the young and the old, the free and the slave, the male and the female; half a sa' of wheat or a sa' of dried dates or barley.'\"",
+      "narrator": "It was narrated from Al-Hasan that :",
+      "reference": "Hadith 1585"
+    },
+    {
+      "id": 1586,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ مَنْصُورٍ، عَنِ الشَّعْبِيِّ، عَنِ الْبَرَاءِ، قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ النَّحْرِ بَعْدَ الصَّلاَةِ ثُمَّ قَالَ \" مَنْ صَلَّى صَلاَتَنَا وَنَسَكَ نُسُكَنَا فَقَدْ أَصَابَ النُّسُكَ وَمَنْ نَسَكَ قَبْلَ الصَّلاَةِ فَتِلْكَ شَاةُ لَحْمٍ \" . فَقَالَ أَبُو بُرْدَةَ بْنُ نِيَارٍ يَا رَسُولَ اللَّهِ وَاللَّهِ لَقَدْ نَسَكْتُ قَبْلَ أَنْ أَخْرُجَ إِلَى الصَّلاَةِ عَرَفْتُ أَنَّ الْيَوْمَ يَوْمُ أَكْلٍ وَشُرْبٍ فَتَعَجَّلْتُ فَأَكَلْتُ وَأَطْعَمْتُ أَهْلِي وَجِيرَانِي . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" تِلْكَ شَاةُ لَحْمٍ \" . قَالَ فَإِنَّ عِنْدِي جَذَعَةً خَيْرٌ مِنْ شَاتَىْ لَحْمٍ فَهَلْ تُجْزِي عَنِّي قَالَ \" نَعَمْ وَلَنْ تُجْزِيَ عَنْ أَحَدٍ بَعْدَكَ \" .",
+      "text_en": "\"The Messenger of Allah (ﷺ) addressed us on the day of An-Nahr after the prayer, then he said: 'Whoever prays and offers the sacrifice as we do, his ritual is complete, and whoever offers the sacrifice before the prayer, that is just ordinary meat.' Abu Burdah bin Niyar said: 'O Messenger of Allah (ﷺ), by Allah, we offered the sacrifice before I came out to the prayer, because I knew that today is the day of eating and drinking, so I hastened to do it and I ate of it and fed it to my family and neighbors.' The Messenger of Allah (ﷺ) said: 'That is just a sheep for meat.' He said: 'I have a jadha'ah that is better than two meaty sheep, will that be sufficient (as a sacrifice) for me?' He said: 'Yes, but it will not be sufficient for anyone after you.'\"",
+      "narrator": "It was narrated that Al-Bara' said:",
+      "reference": "Hadith 1586"
+    },
+    {
+      "id": 1587,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كُنْتُ أُصَلِّي مَعَ النَّبِيِّ صلى الله عليه وسلم فَكَانَتْ صَلاَتُهُ قَصْدًا وَخُطْبَتُهُ قَصْدًا .",
+      "text_en": "\"I used to pray with the Prophet (ﷺ) and his prayer was moderate in length and his Khutbah was moderate in length.\"",
+      "narrator": "It was narrated that Jabir bin Samurah said:",
+      "reference": "Hadith 1587"
+    },
+    {
+      "id": 1588,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَخْطُبُ قَائِمًا ثُمَّ يَقْعُدُ قَعْدَةً لاَ يَتَكَلَّمُ فِيهَا ثُمَّ قَامَ فَخَطَبَ خُطْبَةً أُخْرَى فَمَنْ خَبَّرَكَ أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ قَاعِدًا فَلاَ تُصَدِّقْهُ .",
+      "text_en": "\"I saw the Messenger of Allah (ﷺ) delivering the Khutbah standing up, then he sat down for a while and did not speak, then he stood up and delivered another Khutbah. Whoever tells you that the Prophet (ﷺ) delivered a Khutbah sitting do not believe him.\"",
+      "narrator": "It was narrated that Jabir bin Samurah said:",
+      "reference": "Hadith 1588"
+    },
+    {
+      "id": 1589,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَخْطُبُ قَائِمًا ثُمَّ يَجْلِسُ ثُمَّ يَقُومُ وَيَقْرَأُ آيَاتٍ وَيَذْكُرُ اللَّهَ وَكَانَتْ خُطْبَتُهُ قَصْدًا وَصَلاَتُهُ قَصْدًا .",
+      "text_en": "\"The Prophet (ﷺ) used to deliver the Khutbah standing, then he would sit down, then he would stand up and recite some verses and remember Allah (SWT). And his Khutbah was moderate in length, and his prayer was moderate in length.\"",
+      "narrator": "It was narrated that Jabir bin Samurah said:",
+      "reference": "Hadith 1589"
+    },
+    {
+      "id": 1590,
+      "text_ar": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبُو تُمَيْلَةَ، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ بَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى الْمِنْبَرِ يَخْطُبُ إِذْ أَقْبَلَ الْحَسَنُ وَالْحُسَيْنُ عَلَيْهِمَا السَّلاَمُ عَلَيْهِمَا قَمِيصَانِ أَحْمَرَانِ يَمْشِيَانِ وَيَعْثُرَانِ فَنَزَلَ وَحَمَلَهُمَا فَقَالَ \" صَدَقَ اللَّهُ { إِنَّمَا أَمْوَالُكُمْ وَأَوْلاَدُكُمْ فِتْنَةٌ } رَأَيْتُ هَذَيْنِ يَمْشِيَانِ وَيَعْثُرَانِ فِي قَمِيصَيْهِمَا فَلَمْ أَصْبِرْ حَتَّى نَزَلْتُ فَحَمَلْتُهُمَا \" .",
+      "text_en": "His father said: \"While the Messenger of Allah (ﷺ) was on the minbar, Al-Hasan and Al-Husain came,wearing red shirts, walking and stumbling. He came down and picked them up, then said: 'Allah has spoken the truth: Your wealth and your children are only a trial.' I saw these two walking and stumbling in their shirts, and I could not be patient until I went down and picked them up.'\"",
+      "narrator": "It was narrated from Ibn Buraidah that:",
+      "reference": "Hadith 1590"
+    },
+    {
+      "id": 1591,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَابِسٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، قَالَ لَهُ رَجُلٌ شَهِدْتَ الْخُرُوجَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ نَعَمْ وَلَوْلاَ مَكَانِي مِنْهُ مَا شَهِدْتُهُ يَعْنِي مِنْ صِغَرِهِ أَتَى الْعَلَمَ الَّذِي عِنْدَ دَارِ كَثِيرِ بْنِ الصَّلْتِ فَصَلَّى ثُمَّ خَطَبَ ثُمَّ أَتَى النِّسَاءَ فَوَعَظَهُنَّ وَذَكَّرَهُنَّ وَأَمَرَهُنَّ أَنْ يَتَصَدَّقْنَ فَجَعَلَتِ الْمَرْأَةُ تُهْوِي بِيَدِهَا إِلَى حَلَقِهَا تُلْقِي فِي ثَوْبِ بِلاَلٍ .",
+      "text_en": "\"I heard 'Abbas when a man said to him: 'Did you go out (to the Eid prayer) with the Messenger of Allah?' He said: 'Yes, and were it not for my kinship (position) with him I would not have done so'\"-meaning due to him being so young- \"He (the Prophet (ﷺ)) went to the mark near the house of Kathir bin As-Salt and prayed, then delivered a Khutbah. Then he went to the women. He exhorted them and reminded them and told them to give charity. So a woman would bring her hand near her neck and take off her necklace and put it in the garment of Bilal.\"",
+      "narrator": "Abdur-Rahman bin 'Abbas said:",
+      "reference": "Hadith 1591"
+    },
+    {
+      "id": 1592,
+      "text_ar": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ الأَشَجُّ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ عَدِيٍّ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَرَجَ يَوْمَ الْعِيدِ فَصَلَّى رَكْعَتَيْنِ لَمْ يُصَلِّ قَبْلَهَا وَلاَ بَعْدَهَا .",
+      "text_en": "The Prophet (ﷺ) went out on the day of 'Eid and prayed two rak'ahs, and he did not pray before or after them.",
       "narrator": "It was narrated from Ibn 'Abbas that:",
-      "reference": "Hadith 1538"
+      "reference": "Hadith 1592"
     },
     {
-      "id": 1539,
-      "text_ar": "أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرٍ، عَنْ مُحَمَّدٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، قَالَ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَامَ النَّاسُ مَعَهُ فَكَبَّرَ وَكَبَّرُوا ثُمَّ رَكَعَ وَرَكَعَ أُنَاسٌ مِنْهُمْ ثُمَّ سَجَدَ وَسَجَدُوا ثُمَّ قَامَ إِلَى الرَّكْعَةِ الثَّانِيَةِ فَتَأَخَّرَ الَّذِينَ سَجَدُوا مَعَهُ وَحَرَسُوا إِخْوَانَهُمْ وَأَتَتِ الطَّائِفَةُ الأُخْرَى فَرَكَعُوا مَعَ النَّبِيِّ صلى الله عليه وسلم وَسَجَدُوا وَالنَّاسُ كُلُّهُمْ فِي صَلاَةٍ يُكَبِّرُونَ وَلَكِنْ يَحْرُسُ بَعْضُهُمْ بَعْضًا .",
-      "text_en": "'Abdullah bin 'Abbas said: \"The Messenger of Allah (ﷺ) stood and the people stood with him, and he said the takbir and they said the takbir. Then he bowed, and some of them bowed, then he prostrated and they prostrated, then he stood for the second rak'ah and those who had prostrated with him moved back and guarded their brothers, and the other group came and bowed and prostrated with the Prophet (ﷺ). All the people were praying and saying the takbir, but they were guarding one another.\"",
-      "narrator": "It was narrated from 'Ubaidullah bin Abdullah bin Utbah that:",
-      "reference": "Hadith 1539"
+      "id": 1593,
+      "text_ar": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا حَاتِمُ بْنُ وَرْدَانَ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ أَضْحَى وَانْكَفَأَ إِلَى كَبْشَيْنِ أَمْلَحَيْنِ فَذَبَحَهُمَا .",
+      "text_en": "\"The Messenger of Allah (ﷺ) addressed us on the day of Al-Adha and went to two black and white rams and slaughtered them.\"",
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "reference": "Hadith 1593"
     },
     {
-      "id": 1540,
-      "text_ar": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَمِّي، قَالَ حَدَّثَنَا أَبِي، عَنِ ابْنِ إِسْحَاقَ، قَالَ حَدَّثَنِي دَاوُدُ بْنُ الْحُصَيْنِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ مَا كَانَتْ صَلاَةُ الْخَوْفِ إِلاَّ سَجْدَتَيْنِ كَصَلاَةِ أَحْرَاسِكُمْ هَؤُلاَءِ الْيَوْمَ خَلْفَ أَئِمَّتِكُمْ هَؤُلاَءِ إِلاَّ أَنَّهَا كَانَتْ عُقَبًا قَامَتْ طَائِفَةٌ مِنْهُمْ وَهُمْ جَمِيعًا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَسَجَدَتْ مَعَهُ طَائِفَةٌ مِنْهُمْ ثُمَّ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَامُوا مَعَهُ جَمِيعًا ثُمَّ رَكَعَ وَرَكَعُوا مَعَهُ جَمِيعًا ثُمَّ سَجَدَ فَسَجَدَ مَعَهُ الَّذِينَ كَانُوا قِيَامًا أَوَّلَ مَرَّةٍ فَلَمَّا جَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالَّذِينَ سَجَدُوا مَعَهُ فِي آخِرِ صَلاَتِهِمْ سَجَدَ الَّذِينَ كَانُوا قِيَامًا لأَنْفُسِهِمْ ثُمَّ جَلَسُوا فَجَمَعَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالتَّسْلِيمِ .",
-      "text_en": "\"The fear prayer was no more than two prostrations like the prayer of these guards of yours today behind the Imams of yours, except that it was one group after another. One group stood, although they were all behind the Messenger of Allah (ﷺ), and one group prostrated with him, then the Messenger of Allah (ﷺ) stood up and they all stood with him. Then he bowed and they all bowed with him, then he prostrated and those who had been standing the first time prostrated with him. When the Messenger of Allah (ﷺ) and those who had prostrated with him at the end of their prayer sat, those who had been standing prostrated by themselves, then they sat and the Messenger of Allah (ﷺ) said the taslim with all of them.",
-      "narrator": "It was narrated that Ibn 'Abbas said:",
-      "reference": "Hadith 1540"
+      "id": 1594,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، عَنْ شُعَيْبٍ، عَنِ اللَّيْثِ، عَنْ كَثِيرِ بْنِ فَرْقَدٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَذْبَحُ أَوْ يَنْحَرُ بِالْمُصَلَّى .",
+      "text_en": "Abdullah (bin Umar) told him that the Messenger of Allah (ﷺ) used to offer sacrifice in the prayer place.",
+      "narrator": "It was narrated from Nafi that:",
+      "reference": "Hadith 1594"
     },
     {
-      "id": 1541,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ صَالِحِ بْنِ خَوَّاتٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى بِهِمْ صَلاَةَ الْخَوْفِ فَصَفَّ صَفًّا خَلْفَهُ وَصَفًّا مُصَافُّو الْعَدُوِّ فَصَلَّى بِهِمْ رَكْعَةً ثُمَّ ذَهَبَ هَؤُلاَءِ وَجَاءَ أُولَئِكَ فَصَلَّى بِهِمْ رَكْعَةً ثُمَّ قَامُوا فَقَضَوْا رَكْعَةً رَكْعَةً .",
-      "text_en": "The Messenger of Allah (ﷺ) led them in offering the fear prayer. Some formed a row behind him and some formed a row facing the enemy. He led them in praying one rak'ah, then they moved away and the others came, and he led them in praying one rak'ah, then they got up and each (group) made up the other rak'ah.",
-      "narrator": "It was narrated from Salih bin Khawwat, from Sahl bin Abi Hathmah that:",
-      "reference": "Hadith 1541"
+      "id": 1595,
+      "text_ar": "أَخْبَرَنِي مُحَمَّدُ بْنُ قُدَامَةَ، عَنْ جَرِيرٍ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، قُلْتُ عَنْ أَبِيهِ، قَالَ نَعَمْ عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْرَأُ فِي الْجُمُعَةِ وَالْعِيدِ بِـ { سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى } وَ { هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ } وَإِذَا اجْتَمَعَ الْجُمُعَةُ وَالْعِيدُ فِي يَوْمٍ قَرَأَ بِهِمَا .",
+      "text_en": "\"The Messenger of Allah (ﷺ) used to recite: 'Glorify the Name of your Lord, the Most High' and \"Has there come to you the narration of The Overwhelming?', on Friday and on 'Eid, and when Friday and 'Eid converged, he would recite them both.\"",
+      "narrator": "It was narrated that An-Nu'man bin Bashir said:",
+      "reference": "Hadith 1595"
     },
     {
-      "id": 1542,
-      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ يَزِيدَ بْنِ رُومَانَ، عَنْ صَالِحِ بْنِ خَوَّاتٍ، عَمَّنْ صَلَّى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمَ ذَاتِ الرِّقَاعِ صَلاَةَ الْخَوْفِ أَنَّ طَائِفَةً صَفَّتْ مَعَهُ وَطَائِفَةٌ وُجَاهَ الْعَدُوِّ فَصَلَّى بِالَّذِينَ مَعَهُ رَكْعَةً ثُمَّ ثَبَتَ قَائِمًا وَأَتَمُّوا لأَنْفُسَهِمْ ثُمَّ انْصَرَفُوا فَصَفُّوا وُجَاهَ الْعَدُوِّ وَجَاءَتِ الطَّائِفَةُ الأُخْرَى فَصَلَّى بِهِمُ الرَّكْعَةَ الَّتِي بَقِيَتْ مِنْ صَلاَتِهِ ثُمَّ ثَبَتَ جَالِسًا وَأَتَمُّوا لأَنْفُسِهِمْ ثُمَّ سَلَّمَ بِهِمْ .",
-      "text_en": "One group had formed a row behind him and another group faced the enemy. He led those who were with him in praying one rak'ah, then he remained standing and they completed the prayer by themselves. Then they moved away and formed a row facing the enemy, and the other group came and he led them in praying the rak'ah that was left for him, then he remained sitting while they completed the prayer by themselves, then he said the taslim with them.",
-      "narrator": "It was narrated from Salih bin Khawwat from one who had prayed the fear prayer with the Messenger of Allah (ﷺ) on the day of Dhat Ar-Riqa' that:",
-      "reference": "Hadith 1542"
+      "id": 1596,
+      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنَا إِسْرَائِيلُ، عَنْ عُثْمَانَ بْنِ الْمُغِيرَةِ، عَنْ إِيَاسِ بْنِ أَبِي رَمْلَةَ، قَالَ سَمِعْتُ مُعَاوِيَةَ، سَأَلَ زَيْدَ بْنَ أَرْقَمَ أَشَهِدْتَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عِيدَيْنِ قَالَ نَعَمْ صَلَّى الْعِيدَ مِنْ أَوَّلِ النَّهَارِ ثُمَّ رَخَّصَ فِي الْجُمُعَةِ .",
+      "text_en": "\"I heard Mu'awiyah asking Zaid bin Arqam: 'Did you attend two 'Eids with the Messenger of Allah (ﷺ)?' He said: 'Yes; he prayed 'Eid at the beginning of the day then he granted a concession with regard to jumu'ah.'\"",
+      "narrator": "It was narrated that Iyas bin Abi Ramlah said:",
+      "reference": "Hadith 1596"
     },
     {
-      "id": 1543,
-      "text_ar": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، عَنْ يَزِيدَ بْنِ زُرَيْعٍ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى بِإِحْدَى الطَّائِفَتَيْنِ رَكْعَةً وَالطَّائِفَةُ الأُخْرَى مُوَاجِهَةُ الْعَدُوِّ ثُمَّ انْطَلَقُوا فَقَامُوا فِي مَقَامِ أُولَئِكَ وَجَاءَ أُولَئِكَ فَصَلَّى بِهِمْ رَكْعَةً أُخْرَى ثُمَّ سَلَّمَ عَلَيْهِمْ فَقَامَ هَؤُلاَءِ فَقَضُوا رَكْعَتَهُمْ وَقَامَ هَؤُلاَءِ فَقَضُوا رَكْعَتَهُمْ .",
-      "text_en": "The Messenger of Allah (ﷺ) led one of the two groups in praying one rak'ah while the other group was facing the enemy, then they moved away and took the place of the others, and the others came and he led them in praying the other rak'ah, then he said the salam and they stood up and made up the other rak'ah, and the others stood up and made up the other rak'ah.",
-      "narrator": "It was narrated from Salim from his father, that:",
-      "reference": "Hadith 1543"
+      "id": 1597,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنِي وَهْبُ بْنُ كَيْسَانَ، قَالَ اجْتَمَعَ عِيدَانِ عَلَى عَهْدِ ابْنِ الزُّبَيْرِ فَأَخَّرَ الْخُرُوجَ حَتَّى تَعَالَى النَّهَارُ ثُمَّ خَرَجَ فَخَطَبَ فَأَطَالَ الْخُطْبَةَ ثُمَّ نَزَلَ فَصَلَّى وَلَمْ يُصَلِّ لِلنَّاسِ يَوْمَئِذٍ الْجُمُعَةَ . فَذُكِرَ ذَلِكَ لاِبْنِ عَبَّاسٍ فَقَالَ أَصَابَ السُّنَّةَ .",
+      "text_en": "\"Eid and Jumu'ah fell on the same day during the time of Ibn Az-Zubair, so he delayed going out until the sun had risen quite high. Then he went out and delivered a Khutbah, and he made the Khutbah lengthy. Then he came down and prayed, and he did not lead the people in praying jumu'ah that day. Mention of that was made to Ibn 'Abbas and he said: 'He has followed the sunnah.'\"",
+      "narrator": "Wahb bin Kaisan said:",
+      "reference": "Hadith 1597"
     },
     {
-      "id": 1544,
-      "text_ar": "أَخْبَرَنِي كَثِيرُ بْنُ عُبَيْدٍ، عَنْ بَقِيَّةَ، عَنْ شُعَيْبٍ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، قَالَ حَدَّثَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، قَالَ غَزَوْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم قِبَلَ نَجْدٍ فَوَازَيْنَا الْعَدُوَّ وَصَافَفْنَاهُمْ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي بِنَا فَقَامَتْ طَائِفَةٌ مِنَّا مَعَهُ وَأَقْبَلَ طَائِفَةٌ عَلَى الْعَدُوِّ فَرَكَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَمَنْ مَعَهُ رَكْعَةً وَسَجَدَ سَجْدَتَيْنِ ثُمَّ انْصَرَفُوا فَكَانُوا مَكَانَ أُولَئِكَ الَّذِينَ لَمْ يُصَلُّوا وَجَاءَتِ الطَّائِفَةُ الَّتِي لَمْ تُصَلِّ فَرَكَعَ بِهِمْ رَكْعَةً وَسَجْدَتَيْنِ ثُمَّ سَلَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَامَ كُلُّ رَجُلٍ مِنَ الْمُسْلِمِينَ فَرَكَعَ لِنَفْسِهِ رَكْعَةً وَسَجْدَتَيْنِ .",
-      "text_en": "\"I went out on a campaign with the Messenger of Allah (ﷺ) toward Najd. We confronted the enemy and formed ranks facing them. The Messenger of Allah (ﷺ) stood up and led us in prayer. Some of us stood with him and some of us faced the enemy. The Messenger of Allah (ﷺ) bowed and those who were with him bowed, and prostrated twice. Then they moved away and took the place of the others, and the other group who had not prayed came and he led them in bowing once and prostrating twice. Then the Messenger of Allah (ﷺ) said the salam and each of the Muslims stood up and bowed once, and prostrated twice individually.\"",
-      "narrator": "Salim bin 'Abdullah narrated that his father said:",
-      "reference": "Hadith 1544"
+      "id": 1598,
+      "text_ar": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم دَخَلَ عَلَيْهَا وَعِنْدَهَا جَارِيَتَانِ تَضْرِبَانِ بِدُفَّيْنِ فَانْتَهَرَهُمَا أَبُو بَكْرٍ فَقَالَ النَّبِيُّ صلى الله عليه وسلم \" دَعْهُنَّ فَإِنَّ لِكُلِّ قَوْمٍ عِيدًا \" .",
+      "text_en": "The Messenger of Allah (ﷺ) entered upon her and there were two girls with her who were beating the duff. Abu Bakr scolded them, but the Prophet (ﷺ) said: \"Leave them, for every people has an 'Eid.\"",
+      "narrator": "It was narrated from 'Aishah that:",
+      "reference": "Hadith 1598"
     },
     {
-      "id": 1545,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحِيمِ الْبَرْقِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ يُوسُفَ، قَالَ أَنْبَأَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، عَنِ الزُّهْرِيِّ، قَالَ كَانَ عَبْدُ اللَّهِ بْنُ عُمَرَ يُحَدِّثُ أَنَّهُ صَلَّى صَلاَةَ الْخَوْفِ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ كَبَّرَ النَّبِيُّ صلى الله عليه وسلم وَصَفَّ خَلْفَهُ طَائِفَةٌ مِنَّا وَأَقْبَلَتْ طَائِفَةٌ عَلَى الْعَدُوِّ فَرَكَعَ بِهِمُ النَّبِيُّ صلى الله عليه وسلم رَكْعَةً وَسَجْدَتَيْنِ ثُمَّ انْصَرَفُوا وَأَقْبَلُوا عَلَى الْعَدُوِّ وَجَاءَتِ الطَّائِفَةُ الأُخْرَى فَصَلُّوا مَعَ النَّبِيِّ صلى الله عليه وسلم فَفَعَلَ مِثْلَ ذَلِكَ ثُمَّ سَلَّمَ ثُمَّ قَامَ كُلُّ رَجُلٍ مِنَ الطَّائِفَتَيْنِ فَصَلَّى لِنَفْسِهِ رَكْعَةً وَسَجْدَتَيْنِ .",
-      "text_en": "\"Abdullah bin 'Umar used to narrate that he offered the fear prayer with the Messenger of Allah (ﷺ). He said: 'The Prophet (ﷺ) said the takbir and one group of us formed a row behind him while the other group faced the enemy. The Prophet (ﷺ) led them in bowing once and prostrating twice, then they moved away and faced the enemy, and the other group came and prayed with the Prophet (ﷺ), doing likewise. Then he said the taslim, then each man of both groups stood and prayed by himself, bowing once and prostrating twice.'\"",
-      "narrator": "It was narrated that Az-Zuhri said:",
-      "reference": "Hadith 1545"
+      "id": 1599,
+      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ آدَمَ، عَنْ عَبْدَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ جَاءَ السُّودَانُ يَلْعَبُونَ بَيْنَ يَدَىِ النَّبِيِّ صلى الله عليه وسلم فِي يَوْمِ عِيدٍ فَدَعَانِي فَكُنْتُ أَطَّلِعُ إِلَيْهِمْ مِنْ فَوْقِ عَاتِقِهِ فَمَا زِلْتُ أَنْظُرُ إِلَيْهِمْ حَتَّى كُنْتُ أَنَا الَّتِي انْصَرَفْتُ .",
+      "text_en": "\"The black people came and played in front of the Prophet (ﷺ) on the day of 'Eid. He called me and I watched them from over his shoulder, and I continued to watch them until I was the one who moved away.\"",
+      "narrator": "It was narrated that 'Aishah said:",
+      "reference": "Hadith 1599"
     },
     {
-      "id": 1546,
-      "text_ar": "أَخْبَرَنِي عِمْرَانُ بْنُ بَكَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ، قَالَ أَنْبَأَنَا الْهَيْثَمُ بْنُ حُمَيْدٍ، عَنِ الْعَلاَءِ، وَأَبِي، أَيُّوبَ عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْخَوْفِ قَامَ فَكَبَّرَ فَصَلَّى خَلْفَهُ طَائِفَةٌ مِنَّا وَطَائِفَةٌ مُوَاجِهَةَ الْعَدُوِّ فَرَكَعَ بِهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم رَكْعَةً وَسَجَدَ سَجْدَتَيْنِ ثُمَّ انْصَرَفُوا وَلَمْ يُسَلِّمُوا وَأَقْبَلُوا عَلَى الْعَدُوِّ فَصَفُّوا مَكَانَهُمْ وَجَاءَتِ الطَّائِفَةُ الأُخْرَى فَصَفُّوا خَلْفَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَصَلَّى بِهِمْ رَكْعَةً وَسَجْدَتَيْنِ ثُمَّ سَلَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَدْ أَتَمَّ رَكْعَتَيْنِ وَأَرْبَعَ سَجَدَاتٍ ثُمَّ قَامَتِ الطَّائِفَتَانِ فَصَلَّى كُلُّ إِنْسَانٍ مِنْهُمْ لِنَفْسِهِ رَكْعَةً وَسَجْدَتَيْنِ . قَالَ أَبُو بَكْرِ بْنُ السُّنِّيِّ الزُّهْرِيُّ سَمِعَ مِنِ ابْنِ عُمَرَ حَدِيثَيْنِ وَلَمْ يَسْمَعْ هَذَا مِنْهُ .",
-      "text_en": "\"The Messenger of Allah (ﷺ) offered the fear prayer. He stood and said the takbir, and a group of us prayed behind him while another group was facing the enemy. The Messenger of Allah (ﷺ) bowed once and prostrated twice with them, then they moved away but did not say the taslim. They went to face the enemy and lined up in their places, and the other group came and formed a row behind the Messenger of Allah (ﷺ), and he led them in praying, bowing once and prostrating twice. Then the Messenger of Allah (ﷺ) said the taslim and he had bowed twice and prostrated four times. Then the two groups stood up and each man prayed by himself, bowing once and prostrating twice.\" Abu Bakr IB As-Sunni said: \"Az-Zuhri heard two hadiths from Ibn 'Umar, and he did not hear this from him.\"",
-      "narrator": "It was narrated that 'Abdullah bin Umar said:",
-      "reference": "Hadith 1546"
+      "id": 1600,
+      "text_ar": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ حَدَّثَنَا الْوَلِيدُ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَسْتُرُنِي بِرِدَائِهِ وَأَنَا أَنْظُرُ إِلَى الْحَبَشَةِ يَلْعَبُونَ فِي الْمَسْجِدِ حَتَّى أَكُونَ أَنَا أَسْأَمُ فَاقْدُرُوا قَدْرَ الْجَارِيَةِ الْحَدِيثَةِ السِّنِّ الْحَرِيصَةِ عَلَى اللَّهْوِ .",
+      "text_en": "\"I remember the Messenger of Allah (ﷺ) covering me with his Rida' while I was watching the Ethiopians playing in the masjid, until I got bored. So you should understand the keenness of young girls to play.\"",
+      "narrator": "It was narrated that 'Aishah said:",
+      "reference": "Hadith 1600"
     },
     {
-      "id": 1547,
-      "text_ar": "أَخْبَرَنَا عَبْدُ الأَعْلَى بْنُ وَاصِلِ بْنِ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، عَنْ سُفْيَانَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْخَوْفِ فِي بَعْضِ أَيَّامِهِ فَقَامَتْ طَائِفَةٌ مَعَهُ وَطَائِفَةٌ بِإِزَاءِ الْعَدُوِّ فَصَلَّى بِالَّذِينَ مَعَهُ رَكْعَةً ثُمَّ ذَهَبُوا وَجَاءَ الآخَرُونَ فَصَلَّى بِهِمْ رَكْعَةً ثُمَّ قَضَتِ الطَّائِفَتَانِ رَكْعَةً رَكْعَةً .",
-      "text_en": "\"The Messenger of Allah (ﷺ) offered the fear prayer during one of his battles. One group stood with him and another group faced the enemy. He led those who were with him in praying one rak'ah, then they went away and the others came, and he led them in praying one rak'ah. Then each group made up one rak'ah.\"",
-      "narrator": "It was narrated that Ibn 'Umar said:",
-      "reference": "Hadith 1547"
+      "id": 1601,
+      "text_ar": "أَخْبَرَنَا إِسْحَاقُ بْنُ مُوسَى، قَالَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ دَخَلَ عُمَرُ وَالْحَبَشَةُ يَلْعَبُونَ فِي الْمَسْجِدِ فَزَجَرَهُمْ عُمَرُ رضى الله عنه فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" دَعْهُمْ يَا عُمَرُ فَإِنَّمَا هُمْ بَنُو أَرْفِدَةَ \" .",
+      "text_en": "\"Umar came in when the Ethiopians were playing in the masjid. Umar, may Allah (SWT) be pleased with him, rebuked them, but the Messenger of Allah (ﷺ) said: 'Let them be there, O Umar, for they are Banu Arfidah.'\"",
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "reference": "Hadith 1601"
     },
     {
-      "id": 1548,
-      "text_ar": "أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، ح وَأَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا حَيْوَةُ، وَذَكَرَ، آخَرَ قَالاَ حَدَّثَنَا أَبُو الأَسْوَدِ، أَنَّهُ سَمِعَ عُرْوَةَ بْنَ الزُّبَيْرِ، يُحَدِّثُ عَنْ مَرْوَانَ بْنِ الْحَكَمِ، أَنَّهُ سَأَلَ أَبَا هُرَيْرَةَ هَلْ صَلَّيْتَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْخَوْفِ فَقَالَ أَبُو هُرَيْرَةَ نَعَمْ . قَالَ مَتَى قَالَ عَامَ غَزْوَةِ نَجْدٍ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِصَلاَةِ الْعَصْرِ وَقَامَتْ مَعَهُ طَائِفَةٌ وَطَائِفَةٌ أُخْرَى مُقَابِلَ الْعَدُوِّ وَظُهُورُهُمْ إِلَى الْقِبْلَةِ فَكَبَّرَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَكَبَّرُوا جَمِيعًا الَّذِينَ مَعَهُ وَالَّذِينَ يُقَابِلُونَ الْعَدُوَّ ثُمَّ رَكَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَكْعَةً وَاحِدَةً وَرَكَعَتْ مَعَهُ الطَّائِفَةُ الَّتِي تَلِيهِ ثُمَّ سَجَدَ وَسَجَدَتِ الطَّائِفَةُ الَّتِي تَلِيهِ وَالآخَرُونَ قِيَامٌ مُقَابِلَ الْعَدُوِّ ثُمَّ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَامَتِ الطَّائِفَةُ الَّتِي مَعَهُ فَذَهَبُوا إِلَى الْعَدُوِّ فَقَابَلُوهُمْ وَأَقْبَلَتِ الطَّائِفَةُ الَّتِي كَانَتْ مُقَابِلَ الْعَدُوِّ فَرَكَعُوا وَسَجَدُوا وَرَسُولُ اللَّهِ صلى الله عليه وسلم قَائِمٌ كَمَا هُوَ ثُمَّ قَامُوا فَرَكَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَكْعَةً أُخْرَى وَرَكَعُوا مَعَهُ وَسَجَدَ وَسَجَدُوا مَعَهُ ثُمَّ أَقْبَلَتِ الطَّائِفَةُ الَّتِي كَانَتْ مُقَابِلَ الْعَدُوِّ فَرَكَعُوا وَسَجَدُوا وَرَسُولُ اللَّهِ صلى الله عليه وسلم قَاعِدٌ وَمَنْ مَعَهُ ثُمَّ كَانَ السَّلاَمُ فَسَلَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَسَلَّمُوا جَمِيعًا فَكَانَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم رَكْعَتَانِ وَلِكُلِّ رَجُلٍ مِنَ الطَّائِفَتَيْنِ رَكْعَتَانِ رَكْعَتَانِ .",
-      "text_en": "He asked Abu Hurairah: \"Did you offer the fear prayer with the Messenger of Allah (ﷺ)?\" Abu Hurairah said: \"Yes.\" He asked: \"When?\" He said: \"In the year of the campaign to Najd. The Messenger of Allah (ﷺ) stood up to pray 'Asr and a group stood with him, and another group as facing the enemy, with their backs toward the Qiblah. The Messenger of Allah (ﷺ) said the takbir, and they all said the takbir, those who were with him and those who were with him facing the enemy. Then the Messenger of Allah (ﷺ) bowed once and the group that was with him bowed, then he and the group that was with him prostrated twice, while the others were standing facing the enemy. Then the Messenger of Allah (ﷺ) stood up and the group that was with him stood and went to face the enemy, and the group that had been facing the enemy came and bowed and prostrated while the Messenger of Allah (ﷺ) was standing there. Then they stood up, and the Messenger of Allah (ﷺ) bowed again, and they bowed and prostrated with him. Then the group that had been facing the enemy came and bowed and prostrated, while the Messenger of Allah (ﷺ) and those who were with him were sitting. Then the Messenger of Allah (ﷺ) said the taslim and they all said the taslim. So the Messenger of Allah (ﷺ) had prayed two rak'ahs and each of the two groups had prayed two rak'ahs.\"",
-      "narrator": "It was narrated from Marwan bin Al-Hakam that:",
-      "reference": "Hadith 1548"
-    },
-    {
-      "id": 1549,
-      "text_ar": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ، قَالَ حَدَّثَنِي عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ عُبَيْدٍ الْهُنَائِيُّ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ شَقِيقٍ، قَالَ حَدَّثَنَا أَبُو هُرَيْرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم نَازِلاً بَيْنَ ضَجْنَانَ وَعُسْفَانَ مُحَاصِرَ الْمُشْرِكِينَ فَقَالَ الْمُشْرِكُونَ إِنَّ لِهَؤُلاَءِ صَلاَةً هِيَ أَحَبُّ إِلَيْهِمْ مِنْ أَبْنَائِهِمْ وَأَبْكَارِهِمْ أَجْمِعُوا أَمْرَكُمْ ثُمَّ مِيلُوا عَلَيْهِمْ مَيْلَةً وَاحِدَةً فَجَاءَ جِبْرِيلُ عَلَيْهِ السَّلاَمُ فَأَمَرَهُ أَنْ يَقْسِمَ أَصْحَابَهُ نِصْفَيْنِ فَيُصَلِّيَ بِطَائِفَةٍ مِنْهُمْ وَطَائِفَةٌ مُقْبِلُونَ عَلَى عَدُوِّهِمْ قَدْ أَخَذُوا حِذْرَهُمْ وَأَسْلِحَتَهُمْ فَيُصَلِّيَ بِهِمْ رَكْعَةً ثُمَّ يَتَأَخَّرَ هَؤُلاَءِ وَيَتَقَدَّمَ أُولَئِكَ فَيُصَلِّيَ بِهِمْ رَكْعَةً تَكُونُ لَهُمْ مَعَ النَّبِيِّ صلى الله عليه وسلم رَكْعَةً رَكْعَةً وَلِلنَّبِيِّ صلى الله عليه وسلم رَكْعَتَانِ .",
-      "text_en": "\"The Messenger of Allah (ﷺ) was camping between Dajnan and 'Usfan, besieging the idolaters. The idolaters said: 'These people have a prayer that is dearer to them than their sons and daughters. Plan it, then strike them with a single heavy blow.' Jibril, peace be upon him, came and told the Messenger of Allah (ﷺ) to divide his companions into two groups, then lead one group in prayer while the others faced the enemy, on guard and with weapons at the ready. So he led them in praying one rak'ah, then they moved back and the others moved forward, and he led them in praying on rak'ah, so that each one of them had prayed one rak'ah with the Prophet (ﷺ) and the Prophet (ﷺ) had prayed two rak'ahs.\"",
-      "narrator": "Abu Hurairah said:",
-      "reference": "Hadith 1549"
-    },
-    {
-      "id": 1550,
-      "text_ar": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ، عَنْ حَجَّاجِ بْنِ مُحَمَّدٍ، عَنْ شُعْبَةَ، عَنِ الْحَكَمِ، عَنْ يَزِيدَ الْفَقِيرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى بِهِمْ صَلاَةَ الْخَوْفِ فَقَامَ صَفٌّ بَيْنَ يَدَيْهِ وَصَفٌّ خَلْفَهُ صَلَّى بِالَّذِينَ خَلْفَهُ رَكْعَةً وَسَجْدَتَيْنِ ثُمَّ تَقَدَّمَ هَؤُلاَءِ حَتَّى قَامُوا فِي مَقَامِ أَصْحَابِهِمْ وَجَاءَ أُولَئِكَ فَقَامُوا مَقَامَ هَؤُلاَءِ وَصَلَّى بِهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم رَكْعَةً وَسَجْدَتَيْنِ ثُمَّ سَلَّمَ فَكَانَتْ لِلنَّبِيِّ صلى الله عليه وسلم رَكْعَتَانِ وَلَهُمْ رَكْعَةٌ .",
-      "text_en": "The Messenger of Allah (ﷺ) led them in offering the fear prayer. One row stood in front of him and another row stood behind him. He led those who were behind in prayer, bowing once and prostrating twice, then they moved forward until they took the place of their companions, and the others came and took their place, and the Messenger of Allah (ﷺ) led them in prayer, bowing once and prostrating twice, then he said the taslim, so the Prophet (ﷺ) had prayed two rak'ahs and they had prayed one.",
-      "narrator": "It was narrated from Jabir bin 'Abdullah that:",
-      "reference": "Hadith 1550"
-    },
-    {
-      "id": 1551,
-      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ الْمِقْدَامِ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ الْمَسْعُودِيُّ، قَالَ أَنْبَأَنِي يَزِيدُ الْفَقِيرُ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأُقِيمَتِ الصَّلاَةُ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَامَتْ خَلْفَهُ طَائِفَةٌ وَطَائِفَةٌ مُوَاجِهَةَ الْعَدُوِّ فَصَلَّى بِالَّذِينَ خَلْفَهُ رَكْعَةً وَسَجَدَ بِهِمْ سَجْدَتَيْنِ ثُمَّ إِنَّهُمُ انْطَلَقُوا فَقَامُوا مَقَامَ أُولَئِكَ الَّذِينَ كَانُوا فِي وَجْهِ الْعَدُوِّ وَجَاءَتْ تِلْكَ الطَّائِفَةُ فَصَلَّى بِهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم رَكْعَةً وَسَجَدَ بِهِمْ سَجْدَتَيْنِ ثُمَّ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَلَّمَ فَسَلَّمَ الَّذِينَ خَلْفَهُ وَسَلَّمَ أُولَئِكَ .",
-      "text_en": "\"We were with the Messenger of Allah (ﷺ) and the Iqamah for prayer was said. The Messenger of Allah (ﷺ) stood up and one group stood behind him while another group faced the enemy. He led those who were behind him in prayer, bowing once and prostrating twice. Then they went and took the place of those who had been facing the enemy, and that group came and the Messenger of Allah (ﷺ) led them in prayer, bowing once and prostrating twice. Then the Messenger of Allah (ﷺ) said the taslim and those who were behind him said the taslim, as did the other group.\"",
-      "narrator": "Jabir bin Abdullah said:",
-      "reference": "Hadith 1551"
-    },
-    {
-      "id": 1552,
-      "text_ar": "أَخْبَرَنَا عَلِيُّ بْنُ الْحُسَيْنِ الدِّرْهَمِيُّ، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالاَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ أَبِي سُلَيْمَانَ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ شَهِدْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْخَوْفِ فَقُمْنَا خَلْفَهُ صَفَّيْنِ وَالْعَدُوُّ بَيْنَنَا وَبَيْنَ الْقِبْلَةِ فَكَبَّرَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَكَبَّرْنَا وَرَكَعَ وَرَكَعْنَا وَرَفَعَ وَرَفَعْنَا فَلَمَّا انْحَدَرَ لِلسُّجُودِ سَجَدَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالَّذِينَ يَلُونَهُ وَقَامَ الصَّفُّ الثَّانِي حِينَ رَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالصَّفُّ الَّذِينَ يَلُونَهُ ثُمَّ سَجَدَ الصَّفُّ الثَّانِي حِينَ رَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي أَمْكِنَتِهِمْ ثُمَّ تَأَخَّرَ الصَّفُّ الَّذِينَ كَانُوا يَلُونَ النَّبِيَّ صلى الله عليه وسلم وَتَقَدَّمَ الصَّفُّ الآخَرُ فَقَامَ فِي مَقَامِهِمْ وَقَامَ هَؤُلاَءِ فِي مَقَامِ الآخَرِينَ قِيَامًا وَرَكَعَ النَّبِيُّ صلى الله عليه وسلم وَرَكَعْنَا ثُمَّ رَفَعَ وَرَفَعْنَا فَلَمَّا انْحَدَرَ لِلسُّجُودِ سَجَدَ الَّذِينَ يَلُونَهُ وَالآخَرُونَ قِيَامٌ فَلَمَّا رَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالَّذِينَ يَلُونَهُ سَجَدَ الآخَرُونَ ثُمَّ سَلَّمَ .",
-      "text_en": "\"We witnessed the fear prayer with the Messenger of Allah (ﷺ). We stood behind him in two rows, and the enemy was between us and the Qiblah. The Messenger of Allah (ﷺ) said the takbir. He bowed and we bowed, and he stood up again and we stood up. When he went down in prostration, the Messenger of Allah (ﷺ) and those who were closest to him prostrated, and the second row remained standing until the Messenger of Allah (ﷺ) and the row closest to him stood up. Then the second row prostrated when the Messenger of Allah (ﷺ) had stood up, where they were. Then the row that had been closest to the Prophet (ﷺ) moved back and the second row moved forward, each standing in the place where the other had been. The Prophet (ﷺ) bowed and we bowed, then he stood up and we stood up, and when he went down in prostration, those who were closest to him prostrated and the others remained standing. When the Messenger of Allah (ﷺ) and those who were closest to him sat up, the others prostrated, then he said the taslim.\"",
-      "narrator": "It was narrated that Jabir said:",
-      "reference": "Hadith 1552"
-    },
-    {
-      "id": 1553,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِنَخْلٍ وَالْعَدُوُّ بَيْنَنَا وَبَيْنَ الْقِبْلَةِ فَكَبَّرَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَكَبَّرُوا جَمِيعًا ثُمَّ رَكَعَ فَرَكَعُوا جَمِيعًا ثُمَّ سَجَدَ النَّبِيُّ صلى الله عليه وسلم وَالصَّفُّ الَّذِي يَلِيهِ وَالآخَرُونَ قِيَامٌ يَحْرُسُونَهُمْ فَلَمَّا قَامُوا سَجَدَ الآخَرُونَ مَكَانَهُمُ الَّذِينَ كَانُوا فِيهِ ثُمَّ تَقَدَّمَ هَؤُلاَءِ إِلَى مَصَافِّ هَؤُلاَءِ فَرَكَعَ فَرَكَعُوا جَمِيعًا ثُمَّ رَفَعَ فَرَفَعُوا جَمِيعًا ثُمَّ سَجَدَ النَّبِيُّ صلى الله عليه وسلم وَالصَّفُّ الَّذِينَ يَلُونَهُ وَالآخَرُونَ قِيَامٌ يَحْرُسُونَهُمْ فَلَمَّا سَجَدُوا وَجَلَسُوا سَجَدَ الآخَرُونَ مَكَانَهُمْ ثُمَّ سَلَّمَ . قَالَ جَابِرٌ كَمَا يَفْعَلُ أُمَرَاؤُكُمْ .",
-      "text_en": "\"We were with the Prophet (ﷺ) in a palm grove and the enemy was between us and the Qiblah. The Messenger of Allah (ﷺ) said the takbir and we all said the takbir. Then he bowed and we all bowed. Then the Prophet (ﷺ) and the row that was closest to him prostrated, while the others remained standing, guarding us. When we stood up, the others prostrated where we were, then they moved forward and he bowed and they all bowed, then he stood up and they all stood up. Then the Prophet (ﷺ) and the row that was closest to him prostrated, and the others remained standing, guarding them. When they had prostrated and were sitting, the others prostrated where they were, then he said the salam.\" Jabir said: \"As your leaders do.\"",
-      "narrator": "It was narrated that Jabir said:",
-      "reference": "Hadith 1553"
-    },
-    {
-      "id": 1554,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، عَنْ مُحَمَّدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، قَالَ سَمِعْتُ مُجَاهِدًا، يُحَدِّثُ عَنْ أَبِي عَيَّاشٍ الزُّرَقِيِّ، قَالَ شُعْبَةُ كَتَبَ بِهِ إِلَىَّ وَقَرَأْتُهُ عَلَيْهِ وَسَمِعْتُهُ مِنْهُ يُحَدِّثُ وَلَكِنِّي حَفِظْتُهُ قَالَ ابْنُ بَشَّارٍ فِي حَدِيثِهِ حِفْظِي مِنَ الْكِتَابِ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ مُصَافَّ الْعَدُوِّ بِعُسْفَانَ وَعَلَى الْمُشْرِكِينَ خَالِدُ بْنُ الْوَلِيدِ فَصَلَّى بِهِمُ النَّبِيُّ صلى الله عليه وسلم الظُّهْرَ قَالَ الْمُشْرِكُونَ إِنَّ لَهُمْ صَلاَةً بَعْدَ هَذِهِ هِيَ أَحَبُّ إِلَيْهِمْ مِنْ أَمْوَالِهِمْ وَأَبْنَائِهِمْ فَصَلَّى بِهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم الْعَصْرَ فَصَفَّهُمْ صَفَّيْنِ خَلْفَهُ فَرَكَعَ بِهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم جَمِيعًا فَلَمَّا رَفَعُوا رُءُوسَهُمْ سَجَدَ بِالصَّفِّ الَّذِي يَلِيهِ وَقَامَ الآخَرُونَ فَلَمَّا رَفَعُوا رُءُوسَهُمْ مِنَ السُّجُودِ سَجَدَ الصَّفُّ الْمُؤَخَّرُ بِرُكُوعِهِمْ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ تَأَخَّرَ الصَّفُّ الْمُقَدَّمُ وَتَقَدَّمَ الصَّفُّ الْمُؤَخَّرُ فَقَامَ كُلُّ وَاحِدٍ مِنْهُمْ فِي مَقَامِ صَاحِبِهِ ثُمَّ رَكَعَ بِهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم جَمِيعًا فَلَمَّا رَفَعُوا رُءُوسَهُمْ مِنَ الرُّكُوعِ سَجَدَ الصَّفُّ الَّذِي يَلِيهِ وَقَامَ الآخَرُونَ فَلَمَّا فَرَغُوا مِنْ سُجُودِهِمْ سَجَدَ الآخَرُونَ ثُمَّ سَلَّمَ النَّبِيُّ صلى الله عليه وسلم عَلَيْهِمْ .",
-      "text_en": "\"I heard Mujahid narrating from Abu Ayyash Az-Zuraqi\"- Shu'bah said: \"He had written it for me, and I read it before him, and I heard him narrating it; rather, I even memorized it.\" Ibn Bashshar said: \"I memorized it from the book\"- \"The Prophet (ﷺ) was drawing up ranks facing the enemy in 'Usfan when the idolaters were led by Khalid bin Al-Walid. The Prophet (ﷺ) led them in praying Zuhr. The idolaters said: 'They have a prayer after this that is dearer to them than their wealth and sons.' Then the Messenger of Allah (ﷺ) led them in praying 'Asr. He divided them into two rows, behind him. He led them all in bowing, then when they raised their heads he led the row that was closest to him in prostrating, while the others remained standing. When they raised their heads from prostration, the second row prostrated, as they had already bowed with the Messenger of Allah (ﷺ). Then the front row moved forward, so each of them took the place of his companion. Then the Messenger of Allah (ﷺ) led them all in bowing, then when they raised their heads from bowing, the row that was closest to him prostrated while the others remained standing, then when they had finished prostrating, the others prostrated, then the Prophet (ﷺ) said the taslim for all of them together.",
-      "narrator": "Shu'bah narrated from Mansur who said:",
-      "reference": "Hadith 1554"
-    },
-    {
-      "id": 1555,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ الصَّمَدِ، قَالَ حَدَّثَنَا مَنْصُورٌ، عَنْ مُجَاهِدٍ، عَنْ أَبِي عَيَّاشٍ الزُّرَقِيِّ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِعُسْفَانَ فَصَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الظُّهْرِ وَعَلَى الْمُشْرِكِينَ يَوْمَئِذٍ خَالِدُ بْنُ الْوَلِيدِ فَقَالَ الْمُشْرِكُونَ لَقَدْ أَصَبْنَا مِنْهُمْ غِرَّةً وَلَقَدْ أَصَبْنَا مِنْهُمْ غَفْلَةً . فَنَزَلَتْ - يَعْنِي صَلاَةَ الْخَوْفِ - بَيْنَ الظُّهْرِ وَالْعَصْرِ فَصَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْعَصْرِ فَفَرَّقَنَا فِرْقَتَيْنِ فِرْقَةً تُصَلِّي مَعَ النَّبِيِّ صلى الله عليه وسلم وَفِرْقَةً يَحْرُسُونَهُ فَكَبَّرَ بِالَّذِينَ يَلُونَهُ وَالَّذِينَ يَحْرُسُونَهُمْ ثُمَّ رَكَعَ فَرَكَعَ هَؤُلاَءِ وَأُولَئِكَ جَمِيعًا ثُمَّ سَجَدَ الَّذِينَ يَلُونَهُ وَتَأَخَّرَ هَؤُلاَءِ وَالَّذِينَ يَلُونَهُ وَتَقَدَّمَ الآخَرُونَ فَسَجَدُوا ثُمَّ قَامَ فَرَكَعَ بِهِمْ جَمِيعًا الثَّانِيَةَ بِالَّذِينَ يَلُونَهُ وَبِالَّذِينَ يَحْرُسُونَهُ ثُمَّ سَجَدَ بِالَّذِينَ يَلُونَهُ ثُمَّ تَأَخَّرُوا فَقَامُوا فِي مَصَافِّ أَصْحَابِهِمْ وَتَقَدَّمَ الآخَرُونَ فَسَجَدُوا ثُمَّ سَلَّمَ عَلَيْهِمْ فَكَانَتْ لِكُلِّهِمْ رَكْعَتَانِ رَكْعَتَانِ مَعَ إِمَامِهِمْ وَصَلَّى مَرَّةً بِأَرْضِ بَنِي سُلَيْمٍ .",
-      "text_en": "\"We were with the Messenger of Allah (ﷺ) in 'Usfan and the Messenger of Allah (ﷺ) led us in praying Zuhr. The idolaters were led that day by Khalid bin Al-Walid, and the idolaters said: 'We have caught them unawares.' Then the fear prayer was revealed between Zuhr and 'Asr. The Messenger of Allah (ﷺ) led us in praying 'Asr and divided us into two groups, a group that prayed with the Prophet (ﷺ) and a group that guarded him. He said takbir with those who were closest to him and those who were guarding them, then he bowed and both groups bowed with him. Then those who were closest to him prostrated. Then they moved back and the others moved forward and prostrated. Then he stood and led them all in bowing, those who were closest to him and those who were guarding him. Then he led those who were closest to him in prostrating, then they moved back and took the place of their companions and the others came forward and prostrated. Then he said the taslim so each group had prayed two rak'ahs with their imam. And he offered the fear prayer once in the land of Banu Sulaym.\"",
-      "narrator": "It was narrated that Abu 'Ayyash Al-Zuraqi said:",
-      "reference": "Hadith 1555"
-    },
-    {
-      "id": 1556,
-      "text_ar": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ، - وَاللَّفْظُ لَهُ - قَالاَ حَدَّثَنَا خَالِدٌ، عَنْ أَشْعَثَ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى بِالْقَوْمِ فِي الْخَوْفِ رَكْعَتَيْنِ ثُمَّ سَلَّمَ ثُمَّ صَلَّى بِالْقَوْمِ الآخَرِينَ رَكْعَتَيْنِ ثُمَّ سَلَّمَ فَصَلَّى النَّبِيُّ صلى الله عليه وسلم أَرْبَعًا .",
-      "text_en": "The Messenger of Allah (ﷺ) led the people in offering the fear prayer, two rak'ahs. Then he said the taslim and led others in offering the fear prayer, then he said the taslim. So the Prophet (ﷺ) had prayed four rak'ahs.",
-      "narrator": "It was narrated from Abu Bakrah that:",
-      "reference": "Hadith 1556"
-    },
-    {
-      "id": 1557,
-      "text_ar": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى بِطَائِفَةٍ مِنْ أَصْحَابِهِ رَكْعَتَيْنِ ثُمَّ سَلَّمَ ثُمَّ صَلَّى بِآخَرِينَ أَيْضًا رَكْعَتَيْنِ ثُمَّ سَلَّمَ .",
-      "text_en": "The Prophet (ﷺ) led a group of his companions in praying two rak'ahs, then he said the taslim, then he led some others in praying two rak'ahs, then he said the taslim.",
-      "narrator": "It was narrated from Jabir bin 'Abdullah that:",
-      "reference": "Hadith 1557"
-    },
-    {
-      "id": 1558,
-      "text_ar": "أَخْبَرَنَا أَبُو حَفْصٍ، عَمْرُو بْنُ عَلِيٍّ قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ صَالِحِ بْنِ خَوَّاتٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، فِي صَلاَةِ الْخَوْفِ قَالَ يَقُومُ الإِمَامُ مُسْتَقْبِلَ الْقِبْلَةِ وَتَقُومُ طَائِفَةٌ مِنْهُمْ مَعَهُ وَطَائِفَةٌ قِبَلَ الْعَدُوِّ وَوُجُوهُهُمْ إِلَى الْعَدُوِّ فَيَرْكَعُ بِهِمْ رَكْعَةً وَيَرْكَعُونَ لأَنْفُسِهِمْ وَيَسْجُدُونَ سَجْدَتَيْنِ فِي مَكَانِهِمْ وَيَذْهَبُونَ إِلَى مَقَامِ أُولَئِكَ وَيَجِيءُ أُولَئِكَ فَيَرْكَعُ بِهِمْ وَيَسْجُدُ بِهِمْ سَجْدَتَيْنِ فَهِيَ لَهُ ثِنْتَانِ وَلَهُمْ وَاحِدَةٌ ثُمَّ يَرْكَعُونَ رَكْعَةً رَكْعَةً وَيَسْجُدُونَ سَجْدَتَيْنِ .",
-      "text_en": "\"The imam should stand up facing the Qiblah and some of them should stand with him while the others stand facing the enemy. Then he should pray one rak'ah with them and they should pray another rak'ah by themselves, and prostrate twice where they are. Then they should go to where the others are and the others should come and he should lead them in bowing once and prostrating twice, so it will be two rak'ahs for him and one for them. Then they should bow once and prostrate twice (by themselves, to make up the other rak'ah).\"",
-      "narrator": "It was narrated that Sahl bin Abi Hathmah said concerning the fear prayer:",
-      "reference": "Hadith 1558"
-    },
-    {
-      "id": 1559,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الأَعْلَى، قَالَ حَدَّثَنَا يُونُسُ، عَنِ الْحَسَنِ، قَالَ حَدَّثَ جَابِرُ بْنُ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى بِأَصْحَابِهِ صَلاَةَ الْخَوْفِ فَصَلَّتْ طَائِفَةٌ مَعَهُ وَطَائِفَةٌ وُجُوهُهُمْ قِبَلَ الْعَدُوِّ فَصَلَّى بِهِمْ رَكْعَتَيْنِ ثُمَّ قَامُوا مَقَامَ الآخَرِينَ وَجَاءَ الآخَرُونَ فَصَلَّى بِهِمْ رَكْعَتَيْنِ ثُمَّ سَلَّمَ .",
-      "text_en": "The Messenger of Allah (ﷺ) led his companions in offering the fear prayer. One group prayed with him while the other was facing the enemy. He led them in praying two rak'ahs, then they went and took the place of the others, and the others came and he led them in praying two rak'ahs, then he said the taslim.",
-      "narrator": "Jabir bin 'Abdullah narrated that :",
-      "reference": "Hadith 1559"
-    },
-    {
-      "id": 1560,
-      "text_ar": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا الأَشْعَثُ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ صَلَّى صَلاَةَ الْخَوْفِ بِالَّذِينَ خَلْفَهُ رَكْعَتَيْنِ وَالَّذِينَ جَاءُوا بَعْدُ رَكْعَتَيْنِ فَكَانَتْ لِلنَّبِيِّ صلى الله عليه وسلم أَرْبَعَ رَكَعَاتٍ وَلِهَؤُلاَءِ رَكْعَتَيْنِ رَكْعَتَيْنِ .",
-      "text_en": "The Prophet (ﷺ) offered the fear prayer with those who were behind him, praying two rak'ahs (with them) and two rak'ahs with those who came after them, so the Prophet (ﷺ) prayed four rak'ahs and the others each prayed two rak'ahs.",
-      "narrator": "It was narrated from Abu Bakrah that:",
-      "reference": "Hadith 1560"
+      "id": 1602,
+      "text_ar": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، أَنَّهُ حَدَّثَهُ أَنَّ عَائِشَةَ حَدَّثَتْهُ أَنَّ أَبَا بَكْرٍ الصِّدِّيقَ دَخَلَ عَلَيْهَا وَعِنْدَهَا جَارِيَتَانِ تَضْرِبَانِ بِالدُّفِّ وَتُغَنِّيَانِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم مُسَجًّى بِثَوْبِهِ - وَقَالَ مَرَّةً أُخْرَى مُتَسَجٍّ ثَوْبَهُ - فَكَشَفَ عَنْ وَجْهِهِ فَقَالَ \" دَعْهُمَا يَا أَبَا بَكْرٍ إِنَّهَا أَيَّامُ عِيدٍ \" . وَهُنَّ أَيَّامُ مِنًى وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَئِذٍ بِالْمَدِينَةِ .",
+      "text_en": "Entered upon her and there were two girls with her beating the duff and singing, and the Messenger of Allah (ﷺ) was covered with his garment. He uncovered his face and said: \"Let them be there, O Abu Bakr, for these are the days of 'Eid.\" Those were the days of Mina and the Messenger of Allah (ﷺ) was in Al-Madinah on that day.\"",
+      "narrator": "It was narrated from 'Urwah that he narrated from Aishah that Abu Bakr As-Siddiq :",
+      "reference": "Hadith 1602"
     }
   ]
 }
