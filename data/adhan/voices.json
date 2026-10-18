@@ -1,0 +1,82 @@
+{
+ "version": 1,
+ "voices": [
+  {
+   "id": "dl_abdulbasit",
+   "file": "abdulbasit.mp3",
+   "bytes": 2671430,
+   "seconds": 223,
+   "name": {
+    "ar": "الشيخ عبد الباسط عبد الصمد",
+    "en": "Sheikh Abdul Basit Abdul Samad",
+    "fr": "Cheikh Abdul Basit Abdul Samad"
+   }
+  },
+  {
+   "id": "dl_mustafa_ismail",
+   "file": "mustafa_ismail.mp3",
+   "bytes": 2393069,
+   "seconds": 199,
+   "name": {
+    "ar": "الشيخ مصطفى إسماعيل",
+    "en": "Sheikh Mustafa Ismail",
+    "fr": "Cheikh Moustafa Ismaïl"
+   }
+  },
+  {
+   "id": "dl_banna",
+   "file": "banna.mp3",
+   "bytes": 2039475,
+   "seconds": 170,
+   "name": {
+    "ar": "الشيخ محمود علي البنا",
+    "en": "Sheikh Mahmoud Ali Al-Banna",
+    "fr": "Cheikh Mahmoud Ali Al-Banna"
+   }
+  },
+  {
+   "id": "dl_husary",
+   "file": "husary.mp3",
+   "bytes": 1578362,
+   "seconds": 131,
+   "name": {
+    "ar": "الشيخ محمود خليل الحصري",
+    "en": "Sheikh Mahmoud Khalil Al-Husary",
+    "fr": "Cheikh Mahmoud Khalil Al-Husary"
+   }
+  },
+  {
+   "id": "dl_ali_mahmoud",
+   "file": "ali_mahmoud.mp3",
+   "bytes": 1790894,
+   "seconds": 149,
+   "name": {
+    "ar": "الشيخ علي محمود",
+    "en": "Sheikh Ali Mahmoud",
+    "fr": "Cheikh Ali Mahmoud"
+   }
+  },
+  {
+   "id": "dl_shoaisha",
+   "file": "shoaisha.mp3",
+   "bytes": 2813745,
+   "seconds": 234,
+   "name": {
+    "ar": "الشيخ أبو العينين شعيشع",
+    "en": "Sheikh Abu Al-Aynayn Shuaisha",
+    "fr": "Cheikh Abou Al-Aynayn Chouaïcha"
+   }
+  },
+  {
+   "id": "dl_omran",
+   "file": "omran.mp3",
+   "bytes": 2177088,
+   "seconds": 181,
+   "name": {
+    "ar": "الشيخ محمد عمران",
+    "en": "Sheikh Mohamed Omran",
+    "fr": "Cheikh Mohamed Omran"
+   }
+  }
+ ]
+}
