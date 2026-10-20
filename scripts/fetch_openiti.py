@@ -947,8 +947,13 @@ def main():
     print("=" * 60)
 
     all_metadata = []
+    # Built chapter by chapter of the book itself, some under a new id; the
+    # fifty-entry chapters here would bring the old ones back.
+    from build_structured_books import STRUCTURED
 
     for book in BOOKS_TO_FETCH:
+        if book["book_id"] in STRUCTURED:
+            continue
         print(f"\n{book['title_en']} ({book['title_ar']})")
         meta = process_book(book)
         if meta:
