@@ -2,11 +2,11 @@
   "id": "minhaj_talibin",
   "title_ar": "منهاج الطالبين",
   "title_en": "Minhaj al-Talibin",
-  "author_ar": "الإمام النووي",
-  "author_en": "Imam al-Nawawi",
+  "author_ar": "الإمام النووي — شافعي",
+  "author_en": "Imam al-Nawawi — Shafi'i",
   "category": "fiqh",
   "chapter_count": 12,
   "entry_count": 138,
-  "total_size_bytes": 765181,
+  "total_size_bytes": 765208,
   "source": "openiti"
 }
