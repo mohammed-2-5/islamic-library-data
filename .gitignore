@@ -23,3 +23,6 @@ Thumbs.db
 
 # Dedup report (generated file)
 data/dedup_report.json
+
+# Cloudflare R2 credentials for scripts/sync_r2.py
+.r2.env
