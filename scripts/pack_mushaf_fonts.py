@@ -12,9 +12,14 @@ THE CHECKS: when any fails the script names the page and exits 1, packing and
 uploading nothing.
 
   - the font loads;
+  - it is page N's font: its family name (name ID 1) is QCF2<NNN> in V2 and
+    QCF4<NNN>_COLOR in V4, NNN being the page. This is the identity check.
+    Glyph codes are page-local and handed out in sequence, so a font from
+    another page often covers a page's codes too: the cmap check below cannot
+    tell the pages apart, the name can;
   - every glyph character of page N's `lines` in layout.json is in font N's
-    cmap (glyph codes are page-local: the same code is another word on
-    another page, so a font from the wrong page fails here);
+    cmap. This is a coverage check: it proves the font can draw the layout
+    (no missing glyph, no truncated file), not that it is the right page's;
   - V4 only: the font has COLR and CPAL, CPAL version 0 and 6 palettes.
 
 OUTPUT, per set <s>, under --out:
@@ -42,6 +47,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import http.client
 import json
 import sys
 import time
@@ -71,6 +77,8 @@ FONT_URLS = {
 # page saved as p12.ttf must not pass for a font.
 FONT_MAGIC = (b'\x00\x01\x00\x00', b'true', b'OTTO')
 V4_PALETTES = 6
+# The family name every page font carries, by set: it names its own page.
+FAMILY_NAMES = {'v2': 'QCF2{n:03d}', 'v4': 'QCF4{n:03d}_COLOR'}
 
 # Fixed so that packing is reproducible (the zip format cannot go before 1980).
 ZIP_STAMP = (1980, 1, 1, 0, 0, 0)
@@ -167,7 +175,7 @@ def glyphs_of(lines: list[str]) -> set[str]:
     return {ch for line in lines for ch in line if not ch.isspace()}
 
 
-def page_problems(path: Path, wanted: set[str], coloured: bool) -> list[str]:
+def page_problems(path: Path, set_name: str, page: int, wanted: set[str]) -> list[str]:
     from fontTools.ttLib import TTFont
 
     try:
@@ -176,13 +184,17 @@ def page_problems(path: Path, wanted: set[str], coloured: bool) -> list[str]:
         return [f'does not load: {e}']
     try:
         problems: list[str] = []
+        expected = FAMILY_NAMES[set_name].format(n=page)
+        family = font['name'].getDebugName(1) if 'name' in font else None
+        if family != expected:
+            problems.append(f'family name {family!r}, expected {expected!r}: another page')
         cmap = font.getBestCmap() or {}
         missing = sorted(ord(ch) for ch in wanted if ord(ch) not in cmap)
         if missing:
             shown = ' '.join(f'U+{cp:04X}' for cp in missing[:12])
             more = f' (+{len(missing) - 12} more)' if len(missing) > 12 else ''
             problems.append(f'{len(missing)} of {len(wanted)} glyphs not in the cmap: {shown}{more}')
-        if coloured:
+        if set_name == 'v4':
             if 'COLR' not in font:
                 problems.append('no COLR table')
             if 'CPAL' not in font:
@@ -200,10 +212,9 @@ def page_problems(path: Path, wanted: set[str], coloured: bool) -> list[str]:
 
 def validate_all(set_name: str, raw: Path, pages: dict[int, list[str]]) -> None:
     folder = raw / set_name
-    coloured = set_name == 'v4'
     bad: list[str] = []
     for n in range(1, TOTAL_PAGES + 1):
-        for problem in page_problems(folder / font_name(n), glyphs_of(pages[n]), coloured):
+        for problem in page_problems(folder / font_name(n), set_name, n, glyphs_of(pages[n])):
             bad.append(f'page {n}: {problem}')
     if bad:
         for line in bad:
@@ -267,12 +278,31 @@ def s3_client(env: dict[str, str]):
     )
 
 
+def fetch_public(url: str, key: str) -> tuple[int, str | None, bytes]:
+    """GET one object from the public address; any failure exits naming the key."""
+    try:
+        with urllib.request.urlopen(request(url), timeout=TIMEOUT * 3) as response:
+            return response.status, response.headers.get('Content-Length'), response.read()
+    except urllib.error.HTTPError as e:
+        sys.exit(f'{key}: public address answered {e.code}')
+    except (urllib.error.URLError, http.client.HTTPException, OSError) as e:
+        sys.exit(f'{key}: public address not reached ({type(e).__name__})')
+
+
 def upload(set_name: str, out: Path, manifest: dict) -> None:
+    # What boto3, botocore and s3transfer raise (EndpointConnectionError,
+    # ClientError, S3UploadFailedError, RetriesExceededError, ...) can carry the
+    # endpoint, which holds the account id, or the bucket: values of .r2.env.
+    # So whatever they raise is caught as Exception and only the key and the
+    # CLASS of the error are printed, never its text.
     env = sync_r2.load_env()
     public = env.get('R2_PUBLIC_URL', '').rstrip('/')
     if not public:
         sys.exit('R2_PUBLIC_URL is not set in .r2.env: uploads cannot be verified, nothing sent')
-    s3 = s3_client(env)
+    try:
+        s3 = s3_client(env)
+    except Exception as e:  # noqa: BLE001 - its text can carry .r2.env values
+        sys.exit(f'the R2 client could not be built ({type(e).__name__}); nothing sent')
     bucket = env['R2_BUCKET']
 
     # (key, file, content type, cache control, bytes, sha256): parts first,
@@ -299,18 +329,18 @@ def upload(set_name: str, out: Path, manifest: dict) -> None:
     ))
 
     for key, path, content_type, cache, _, _ in objects:
-        s3.upload_file(
-            str(path), bucket, key,
-            ExtraArgs={'ContentType': content_type, 'CacheControl': cache},
-        )
+        try:
+            s3.upload_file(
+                str(path), bucket, key,
+                ExtraArgs={'ContentType': content_type, 'CacheControl': cache},
+            )
+        except Exception as e:  # noqa: BLE001 - its text can carry .r2.env values
+            sys.exit(f'{key}: upload failed ({type(e).__name__})')
         print(f'  uploaded {key}')
 
     verified = 0
     for key, _, _, _, size, digest in objects:
-        with urllib.request.urlopen(request(f'{public}/{key}'), timeout=TIMEOUT * 3) as response:
-            status = response.status
-            length = response.headers.get('Content-Length')
-            body = response.read()
+        status, length, body = fetch_public(f'{public}/{key}', key)
         if status != 200:
             sys.exit(f'{key}: public address answered {status}')
         if length is not None and int(length) != size:
