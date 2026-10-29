@@ -77,6 +77,28 @@
     "en": "Sheikh Mohamed Omran",
     "fr": "Cheikh Mohamed Omran"
    }
+  },
+  {
+   "id": "dl_minshawi",
+   "file": "minshawi.mp3",
+   "bytes": 2490355,
+   "seconds": 207,
+   "name": {
+    "ar": "الشيخ محمد صديق المنشاوي",
+    "en": "Sheikh Muhammad Siddiq Al-Minshawi",
+    "fr": "Cheikh Mohamed Siddiq Al-Minchawi"
+   }
+  },
+  {
+   "id": "dl_tukhi",
+   "file": "tukhi.mp3",
+   "bytes": 2471470,
+   "seconds": 198,
+   "name": {
+    "ar": "الشيخ محمود الطوخي",
+    "en": "Sheikh Mahmoud Al-Tukhi",
+    "fr": "Cheikh Mahmoud Al-Toukhi"
+   }
   }
  ]
 }
