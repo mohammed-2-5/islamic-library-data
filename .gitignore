@@ -36,3 +36,6 @@ raw/qpc_packs/
 
 # Warsh quality gate downloads: KFGQPC font and data, page images (never committed)
 raw/warsh/
+
+# Warsh pack (layout + font zip and its manifest) built for the app's R2 upload
+raw/warsh_packs/

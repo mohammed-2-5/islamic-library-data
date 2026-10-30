@@ -7,7 +7,8 @@ The app has no Warsh mushaf yet. Two public sources describe one:
     Warsh font's own code points. Ayahs are counted the Madani way: 6214.
   * open-mushaf-native: the 604 page images of the Madinah Warsh print and,
     per page, the point where every ayah ends (`aya.json`), plus the frame
-    those points live in (`specs.json`) and the surah table (`surah.json`).
+    those points live in (`specs.json`), the surah table (`surah.json`) and
+    the hizb table (`hizb.json`).
     The images are a Warsh text, but their ayahs are numbered by the Kufi
     count (Hafs): 6236 end points, and `surah.json` has the Kufi counts.
 
@@ -319,7 +320,7 @@ def read_json(path: Path) -> object:
 def download_all(out: Path) -> None:
     fetch(f'{KFGQPC}/data/warshData_v10.json', out / 'kfgqpc' / 'warshData_v10.json')
     fetch(f'{KFGQPC}/font/warsh.10.ttf', out / 'kfgqpc' / 'warsh.10.ttf')
-    for name in ('aya', 'specs', 'surah'):
+    for name in ('aya', 'specs', 'surah', 'hizb'):
         fetch(
             f'{MUSHAF}/quran-metadata/{PRINT}/{name}.json',
             out / 'meta' / f'{name}.json',
