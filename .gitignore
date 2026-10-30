@@ -33,3 +33,6 @@ raw/qul/
 # QPC font sets and their zipped parts (fonts go to R2 only, never to git)
 raw/qpc_fonts/
 raw/qpc_packs/
+
+# Warsh quality gate downloads: KFGQPC font and data, page images (never committed)
+raw/warsh/
