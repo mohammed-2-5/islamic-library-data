@@ -22,9 +22,18 @@ uploading nothing.
     (no missing glyph, no truncated file), not that it is the right page's;
   - V4 only: the font has COLR and CPAL, CPAL version 0 and 6 palettes.
 
+THE MEND: seven of the V4 fonts disagree with the other 597 on how wide a
+space is: 1000 units on pages 14, 18, 19, 23, 30 and 41, 0 on page 61, 100
+everywhere else (of 2500 per em). The app sets a page at the size its widest
+line fills the screen at, so a ten-times space shrank those pages by a fifth:
+small letters with wide gaps. The files in raw/ stay as they were fetched;
+the space is set to 100 in the copy that goes into the zip. Version 2 of the
+V4 pack is the first one mended. (The app mends it again when it loads a
+page, for phones that downloaded version 1.)
+
 OUTPUT, per set <s>, under --out:
 
-    <s>/v1/part-1.zip ... part-8.zip     members p001.ttf ... p604.ttf, deflate
+    <s>/v<VERSION>/part-1.zip ... part-8.zip     members p001.ttf ... p604.ttf, deflate
     <s>/manifest.json                    {"set", "version", "bytes", "parts"}
 
 The parts cover pages 1-76, 77-152, ... 533-604. The zips are written with
@@ -64,7 +73,10 @@ sys.stdout.reconfigure(encoding='utf-8')
 TOTAL_PAGES = 604
 PARTS = 8
 PAGES_PER_PART = 76  # 7 parts of 76, the last one holds the remaining 72
-VERSION = 1
+# 2: the V4 space mended (see THE MEND). A new number is a new folder on R2,
+# so no cached old part can be served against the new manifest.
+VERSION = 2
+V4_SPACE_ADVANCE = 100
 USER_AGENT = 'Dart/3.9 (dart:io)'
 TIMEOUT = 60
 ATTEMPTS = 5
@@ -226,6 +238,28 @@ def validate_all(set_name: str, raw: Path, pages: dict[int, list[str]]) -> None:
 # --- pack ----------------------------------------------------------------
 
 
+def packed_font(path: Path, set_name: str) -> bytes:
+    """The bytes that go into the zip: the file, with a V4 space mended."""
+    data = path.read_bytes()
+    if set_name != 'v4':
+        return data
+    import io
+
+    from fontTools.ttLib import TTFont
+
+    font = TTFont(io.BytesIO(data))
+    space = (font.getBestCmap() or {}).get(0x20)
+    if space is None:
+        return data
+    width, lsb = font['hmtx'][space]
+    if width == V4_SPACE_ADVANCE:
+        return data
+    font['hmtx'][space] = (V4_SPACE_ADVANCE, lsb)
+    out = io.BytesIO()
+    font.save(out)
+    return out.getvalue()
+
+
 def pack(set_name: str, raw: Path, out: Path) -> dict:
     folder = raw / set_name
     parts_dir = out / set_name / f'v{VERSION}'
@@ -239,7 +273,7 @@ def pack(set_name: str, raw: Path, out: Path) -> dict:
                 info = zipfile.ZipInfo(font_name(n), date_time=ZIP_STAMP)
                 info.compress_type = zipfile.ZIP_DEFLATED
                 info.external_attr = 0o644 << 16
-                archive.writestr(info, (folder / font_name(n)).read_bytes(), compresslevel=9)
+                archive.writestr(info, packed_font(folder / font_name(n), set_name), compresslevel=9)
         data = target.read_bytes()
         parts.append({
             'name': f'v{VERSION}/part-{part}.zip',
