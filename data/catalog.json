@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-20T03:18:56.962104+00:00",
+  "generated": "2026-11-01T09:57:10.126325+00:00",
   "categories": [
     {
       "id": "hadith",
@@ -96,7 +96,7 @@
       "author_en": "Ibn Qayyim al-Jawziyyah — Hanbali",
       "category": "fiqh",
       "chapter_count": 52,
-      "total_size_bytes": 4446023,
+      "total_size_bytes": 4445665,
       "source": "openiti",
       "featured": false
     },
@@ -108,7 +108,7 @@
       "author_en": "Imam al-Nawawi — Shafi'i",
       "category": "fiqh",
       "chapter_count": 42,
-      "total_size_bytes": 1139387,
+      "total_size_bytes": 1138925,
       "source": "openiti",
       "featured": false
     },
@@ -120,7 +120,7 @@
       "author_en": "Imam al-Shafi'i — Shafi'i",
       "category": "fiqh",
       "chapter_count": 73,
-      "total_size_bytes": 11019815,
+      "total_size_bytes": 11019413,
       "source": "openiti",
       "featured": false
     },
@@ -144,7 +144,7 @@
       "author_en": "Imam al-Shafi'i — Shafi'i",
       "category": "fiqh",
       "chapter_count": 26,
-      "total_size_bytes": 464180,
+      "total_size_bytes": 464129,
       "source": "openiti",
       "featured": false
     },
@@ -240,7 +240,7 @@
       "author_en": "Imam al-Ghazali — Shafi'i",
       "category": "fiqh",
       "chapter_count": 73,
-      "total_size_bytes": 1830235,
+      "total_size_bytes": 1829967,
       "source": "openiti",
       "featured": false
     },
@@ -252,7 +252,7 @@
       "author_en": "Ibn Qudama al-Maqdisi — Hanbali",
       "category": "fiqh",
       "chapter_count": 81,
-      "total_size_bytes": 17197444,
+      "total_size_bytes": 17194658,
       "source": "openiti",
       "featured": false
     },
@@ -276,7 +276,7 @@
       "author_en": "Imam Malik ibn Anas — Maliki",
       "category": "fiqh",
       "chapter_count": 61,
-      "total_size_bytes": 1397459,
+      "total_size_bytes": 1396495,
       "source": "openiti",
       "featured": false
     },
